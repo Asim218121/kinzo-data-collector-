@@ -69,8 +69,64 @@ function removeAsset(id){state.assets=state.assets.filter(x=>x.id!==id);persist(
 document.addEventListener('click',async e=>{const btn=e.target.closest('[data-action]');if(!btn)return;const action=btn.dataset.action,id=btn.dataset.id; if(action==='search-scene'){const scene=state.scenes.find(x=>x.id===id);state.selectedScene=id;persist();changeTab('discover');$('#searchQuery').value=scene?.text.split(/\s+/).slice(0,9).join(' ')||'';renderLinks();$('#searchQuery').focus();}if(action==='details'){const a=fullAsset(id);if(a)showDetails(a);}if(action==='save'){saveAsset(id);if($('#detailDialog').open)showDetails(fullAsset(id));}if(action==='remove'){removeAsset(id);if($('#detailDialog').open)$('#detailDialog').close();}if(action==='download'){const a=fullAsset(id);if(a)await downloadAsset(a);}});
 $('#detailContent').addEventListener('change',e=>{if(e.target.id!=='detailScene')return;const a=state.assets.find(x=>x.id===e.target.dataset.id);if(a){a.sceneId=e.target.value;persist();toast('Scene assignment updated.');}});
 addFootageFilters();
-let offset=0, currentSearch='',currentType='image',busy=false;
-async function search(append=false){if(busy)return;const q=$('#searchQuery').value.trim();if(!q){toast('Enter a topic first.');return;}currentSearch=q;currentType=$('input[name="mediaType"]:checked').value;if(!append){offset=0;state.results=[];if(currentType!=='image')state.results=stockMatches(q);renderResults();}busy=true;$('#searchButton').disabled=true;$('#searchStatus').textContent='Searching Wikimedia Commons...';$('#loadMore').hidden=true;const params=new URLSearchParams({action:'query',generator:'search',gsrsearch:q,gsrnamespace:'6',gsrlimit:'40',gsroffset:String(offset),prop:'imageinfo',iiprop:'url|mime|size|extmetadata|timestamp',iiurlwidth:'600',format:'json',origin:'*'});try{const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),16000);let response;try{response=await fetch(`https://commons.wikimedia.org/w/api.php?${params}`,{signal:controller.signal});}finally{clearTimeout(timer);}if(!response.ok)throw Error(`HTTP ${response.status}`);const data=await response.json();const pages=Object.values(data.query?.pages||{});const all=pages.map(imageFromCommons).filter(Boolean).map((a)=>({...a,dateUploaded:pages.find(p=>p.pageid===a.pageId)?.imageinfo?.[0]?.timestamp||null,dateRecorded:null}));const subset=all.filter(a=>currentType==='all'||a.kind===currentType);state.results.push(...subset.filter(a=>!state.results.some(x=>x.id===a.id)));offset+=40;renderResults();$('#searchStatus').textContent=`${state.results.length} results: curated Pexels B-roll plus Wikimedia Commons when available. Verify license and dates on source.`;$('#loadMore').hidden=pages.length<40;}catch(err){$('#searchStatus').textContent=state.results.length?`Wikimedia API unavailable (${err.message}). Showing ${state.results.length} verified-source stock references; stock footage is NOT current-event footage.`:'Wikimedia API unavailable. Open official source links above; no live results could be loaded.';toast(`Search failed: ${err.message}`);}finally{busy=false;$('#searchButton').disabled=false;}}
+
+let offset=0,currentSearch='',currentType='video',busy=false;
+function commonsJsonp(params,timeoutMs=8500){
+ return new Promise((resolve,reject)=>{
+  const id='kinzoCommons'+Date.now()+Math.floor(Math.random()*10000);
+  const script=document.createElement('script');let finished=false;
+  const cleanup=()=>{if(finished)return;finished=true;clearTimeout(timer);delete window[id];script.remove();};
+  window[id]=(json)=>{cleanup();resolve(json);};
+  script.onerror=()=>{cleanup();reject(new Error('Media source blocked'));};
+  const timer=setTimeout(()=>{cleanup();reject(new Error('Media source timeout'));},timeoutMs);
+  const qp=new URLSearchParams(params);
+  qp.delete('origin');
+  qp.set('callback',id);
+  script.src='https://commons.wikimedia.org/w/api.php?'+qp;
+  document.head.appendChild(script);
+ });
+}
+async function getCommons(params){
+ const url='https://commons.wikimedia.org/w/api.php?'+params;
+ const ctrl=new AbortController();const timer=setTimeout(()=>ctrl.abort(),6500);
+ try{
+  const res=await fetch(url,{signal:ctrl.signal});
+  if(!res.ok)throw Error('HTTP '+res.status);
+  return await res.json();
+ }catch{
+  return commonsJsonp(params);
+ }finally{clearTimeout(timer);}
+}
+async function search(append=false){
+ if(busy)return;
+ const q=$('#searchQuery').value.trim();
+ if(!q){toast('Enter a topic first.');return;}
+ currentSearch=q;
+ currentType=$('input[name="mediaType"]:checked')?.value||'video';
+ if(!append){
+  offset=0;state.results=currentType==='image'?[]:stockMatches(q);
+  renderResults();
+ }
+ busy=true;$('#searchButton').disabled=true;
+ $('#searchStatus').textContent=state.results.length?'Showing curated real MP4 source clips. Checking Wikimedia for more footage...':'Searching Wikimedia Commons for additional media...';
+ $('#loadMore').hidden=true;
+ const params=new URLSearchParams({action:'query',generator:'search',gsrsearch:q,gsrnamespace:'6',gsrlimit:'40',gsroffset:String(offset),prop:'imageinfo',iiprop:'url|mime|size|extmetadata|timestamp',iiurlwidth:'600',format:'json',origin:'*'});
+ try{
+  const data=await getCommons(params);
+  const pages=Object.values(data.query?.pages||{});
+  const all=pages.map(imageFromCommons).filter(Boolean).map(a=>({...a,dateUploaded:pages.find(p=>p.pageid===a.pageId)?.imageinfo?.[0]?.timestamp||null,dateRecorded:null}));
+  const subset=all.filter(a=>currentType==='all'||a.kind===currentType);
+  state.results.push(...subset.filter(a=>!state.results.some(x=>x.id===a.id)));
+  offset+=40;
+  renderResults();
+  $('#searchStatus').textContent=state.results.length+' source results. Stock video recording dates are unverified. News & Social Research links below provide more recent coverage.';
+  $('#loadMore').hidden=pages.length<40;
+ }catch{
+  renderResults();
+  $('#searchStatus').textContent=state.results.length?'Showing '+state.results.length+' curated MP4 clips. Live Wikimedia search could not connect; use News & Social Research below for latest material.':'Wikimedia media search could not connect from this browser. Use News & Social Research and original-source links below.';
+  $('#loadMore').hidden=true;
+ }finally{busy=false;$('#searchButton').disabled=false;}
+}
 $('#searchForm').addEventListener('submit',e=>{e.preventDefault();search(false);});$('#loadMore').addEventListener('click',()=>search(true));
 $('#scriptFile').addEventListener('change',async e=>{const file=e.target.files?.[0];if(!file)return;if(file.size>2e6){toast('TXT too large (maximum 2 MB).');return;}$('#scriptInput').value=await file.text();$('#sceneStatus').textContent=`Loaded ${file.name}`;});
 $('#makeScenes').addEventListener('click',()=>{const s=sentences($('#scriptInput').value);if(!s.length)return toast('Paste or import script first.');if(state.scenes.length&&!confirm('Replace existing scenes? Saved assets remain, but scene mappings will reset.'))return;state.scenes=s.map((text,i)=>({id:`scene-${i+1}`,text}));state.assets=state.assets.map(a=>({...a,sceneId:''}));state.selectedScene='';persist();renderScenes();$('#sceneStatus').textContent=`Created ${s.length} scenes.`;toast(`Created ${s.length} scenes.`);});
