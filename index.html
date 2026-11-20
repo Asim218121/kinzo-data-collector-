@@ -22,11 +22,22 @@
       <div class="sidebar-bottom"><span class="status-light"></span> No login needed <p>Video-first search: curated licensed-source B-roll, plus Wikimedia Commons when available.</p></div>
     </aside>
     <main class="main">
-      <header class="topbar"><div><span class="eyebrow">CREATOR WORKSPACE</span><h1 id="viewTitle">Discover footage</h1><p id="viewSubtitle">Find real photos and videos. Save sources and match them to your voiceover.</p></div><span class="top-chip">WEB APP · v1.2</span></header>
+      <header class="topbar"><div><span class="eyebrow">CREATOR WORKSPACE</span><h1 id="viewTitle">Discover footage</h1><p id="viewSubtitle">Find real photos and videos. Save sources and match them to your voiceover.</p></div><span class="top-chip">WEB APP · v1.3</span></header>
       <section id="tab-discover" class="tab active">
         <div class="hero"><div><span class="eyebrow">RESEARCH STARTS HERE</span><h2>Find the visuals<br/><em>behind the story.</em></h2><p>Search free-license media, inspect attribution, organize scenes, and open news/social sources for reference.</p></div><div class="hero-icon">◉<span>↗</span></div></div>
         <form id="searchForm" class="search-panel"><label for="searchQuery">SEARCH TOPIC</label><div class="search-line"><input id="searchQuery" placeholder="e.g. California atmospheric river flooding" autocomplete="off" value="California atmospheric river"/><button type="submit" class="primary" id="searchButton">⌕ &nbsp; Search videos</button></div><div class="search-tools"><label class="choice"><input type="radio" name="mediaType" value="image"/> Photos</label><label class="choice"><input type="radio" name="mediaType" value="video" checked/> Video</label><label class="choice"><input type="radio" name="mediaType" value="all"/> Both</label><span class="muted">Provider: Wikimedia Commons (free-license files; verify per item)</span></div></form>
         <div class="source-panel"><div class="panel-head"><div><h3>Research across platforms</h3><p>Opens official search results in a new tab. No unauthorized social-media downloads.</p></div></div><div class="source-links" id="sourceLinks"></div></div>
+        <section class="r-panel" id="newsResearch">
+          <div class="r-heading"><div><span class="eyebrow">WORLDWIDE NEWS & SOCIAL RESEARCH</span><h3>Find the latest reports and original footage sources</h3><p>One topic across international news and social platforms. Articles and posts open at the original publisher; downloads require the creator's permission or a valid license.</p></div><span class="top-chip">NEWS + SOCIAL · v1.3</span></div>
+          <div class="r-controls"><label>Reported within <select id="newsDays"><option value="1">Last 24 hours</option><option value="7" selected>Last 7 days</option><option value="30">Last 30 days</option><option value="90">Last 90 days</option></select></label><button type="button" class="primary" id="newsSearch">Search news articles</button><button type="button" class="secondary" id="newsLinksRefresh">Refresh all source links</button></div>
+          <p id="newsRangeLabel" class="r-note"></p><p id="newsStatus" class="r-note" role="status">Click Search news articles to retrieve live results. If the API is unavailable, all publisher and social search links remain accessible.</p>
+          <div id="newsResults" class="r-grid"></div>
+          <h3 class="r-subheading">Search across news publishers and science agencies</h3><div class="r-links" id="newsPublisherLinks"></div>
+          <h3 class="r-subheading">Social media video and photo source links</h3><div class="r-grid-social" id="socialResearchLinks"></div>
+          <div class="r-notice">These are original-source research links, not permission to re-upload someone else's footage. Social platforms do not provide unrestricted all-platform downloads. Check post dates and obtain rights before reuse.</div>
+          <div class="r-heading r-heading-small"><div><h3>Saved news references <span id="newsSavedCount" class="result-count">0 saved</span></h3><p>Saved in this browser; export to preserve your research.</p></div><div class="r-controls"><button type="button" class="secondary" id="newsExport">Export JSON</button><button type="button" class="secondary" id="newsExportCSV">Export CSV</button></div></div>
+          <div id="newsSavedLinks" class="r-saved-list"></div>
+        </section>
         <div class="section-head"><div><h3>Media results <span id="resultCount" class="result-count"></span></h3><p id="searchStatus">Search a topic to load images and videos.</p></div><div class="toolbar"><label>Assign to scene <select id="currentScene"><option value="">Unassigned</option></select></label></div></div>
         <div id="results" class="results"><div class="empty">🔎<h3>Start with a topic above</h3><p>Result previews, creators, license statements, source links and save controls will appear here.</p></div></div>
         <button id="loadMore" class="secondary load-more" hidden>Load more results</button>
@@ -40,5 +51,6 @@
   <dialog id="detailDialog"><div id="detailContent"></div><form method="dialog"><button class="secondary">Close</button></form></dialog>
   <div id="toast" role="status" aria-live="polite"></div>
   <script type="module" src="./src/app.js"></script>
+  <script type="module" src="./src/research.js"></script>
 </body>
 </html>
