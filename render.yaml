@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: kinzo-video-backend
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev
+    startCommand: node backend/server.mjs
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PEXELS_API_KEY
+        sync: false
+      - key: PIXABAY_API_KEY
+        sync: false
+      - key: ALLOWED_ORIGINS
+        value: https://asim218121.github.io
