@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#0c1120" />
+  <title>Kinzo Footage Collector — Research & Scene Library</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./src/styles.css" />
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="brand"><span class="brand-mark">K</span><div><strong>KINZO</strong><small>FOOTAGE COLLECTOR</small></div></div>
+      <p class="side-label">WORKSPACE</p>
+      <nav class="nav">
+        <button class="nav-btn active" data-tab="discover">⌕ &nbsp; Discover media</button>
+        <button class="nav-btn" data-tab="scenes">▤ &nbsp; Script & scenes</button>
+        <button class="nav-btn" data-tab="collection">▧ &nbsp; Saved collection <span id="navCount">0</span></button>
+        <button class="nav-btn" data-tab="export">⇩ &nbsp; Export project</button>
+      </nav>
+      <div class="sidebar-bottom"><span class="status-light"></span> No login needed <p>Live free media search via Wikimedia Commons. Other platforms open their official search pages.</p></div>
+    </aside>
+    <main class="main">
+      <header class="topbar"><div><span class="eyebrow">CREATOR WORKSPACE</span><h1 id="viewTitle">Discover footage</h1><p id="viewSubtitle">Find real photos and videos. Save sources and match them to your voiceover.</p></div><span class="top-chip">WEB APP · v1.0</span></header>
+      <section id="tab-discover" class="tab active">
+        <div class="hero"><div><span class="eyebrow">RESEARCH STARTS HERE</span><h2>Find the visuals<br/><em>behind the story.</em></h2><p>Search free-license media, inspect attribution, organize scenes, and open news/social sources for reference.</p></div><div class="hero-icon">◉<span>↗</span></div></div>
+        <form id="searchForm" class="search-panel"><label for="searchQuery">SEARCH TOPIC</label><div class="search-line"><input id="searchQuery" placeholder="e.g. California atmospheric river flooding" autocomplete="off" value="California atmospheric river"/><button type="submit" class="primary" id="searchButton">⌕ &nbsp; Search images</button></div><div class="search-tools"><label class="choice"><input type="radio" name="mediaType" value="image" checked/> Photos</label><label class="choice"><input type="radio" name="mediaType" value="video"/> Video</label><label class="choice"><input type="radio" name="mediaType" value="all"/> Both</label><span class="muted">Provider: Wikimedia Commons (free-license files; verify per item)</span></div></form>
+        <div class="source-panel"><div class="panel-head"><div><h3>Research across platforms</h3><p>Opens official search results in a new tab. No unauthorized social-media downloads.</p></div></div><div class="source-links" id="sourceLinks"></div></div>
+        <div class="section-head"><div><h3>Media results <span id="resultCount" class="result-count"></span></h3><p id="searchStatus">Search a topic to load images and videos.</p></div><div class="toolbar"><label>Assign to scene <select id="currentScene"><option value="">Unassigned</option></select></label></div></div>
+        <div id="results" class="results"><div class="empty">🔎<h3>Start with a topic above</h3><p>Result previews, creators, license statements, source links and save controls will appear here.</p></div></div>
+        <button id="loadMore" class="secondary load-more" hidden>Load more results</button>
+      </section>
+      <section id="tab-scenes" class="tab"><div class="content-card"><div class="panel-head"><div><h3>Import a voiceover script</h3><p>One sentence becomes one scene. Import a .txt file or paste the script.</p></div><label class="file-btn">Upload .txt<input id="scriptFile" type="file" accept=".txt,text/plain" hidden /></label></div><textarea id="scriptInput" rows="8" placeholder="Paste your narration script here. Sentences will become separate numbered scenes..."></textarea><div class="actions"><button class="primary" id="makeScenes">Generate scenes</button><button class="secondary" id="clearScenes">Clear scenes</button><span class="muted" id="sceneStatus"></span></div></div><div class="section-head"><div><h3>Scene organizer <span id="sceneCount" class="result-count">0</span></h3><p>Choose a scene, then use Discover to attach assets.</p></div></div><div id="sceneList" class="scene-list"></div></section>
+      <section id="tab-collection" class="tab"><div class="section-head"><div><h3>Saved footage <span id="collectionCount" class="result-count">0</span></h3><p>Saved locally in this browser. Rights must be checked before publication.</p></div><button class="secondary" id="clearCollection">Clear collection</button></div><div id="collectionResults" class="results"></div></section>
+      <section id="tab-export" class="tab"><div class="content-card"><h3>Export for your editing timeline</h3><p>Save your research as files you can share with Codex, a video editor or your production team. Exports preserve attribution and source URL metadata.</p><div class="export-grid"><button class="export-btn" id="exportJSON">{ }<strong>Project JSON</strong><span>Scenes + collected sources</span></button><button class="export-btn" id="exportCSV">▤<strong>Shot list CSV</strong><span>Spreadsheet-compatible</span></button><button class="export-btn" id="exportAttribution">©<strong>Attribution TXT</strong><span>Credits and license links</span></button><button class="export-btn" id="exportScript">✎<strong>Scene script TXT</strong><span>Numbered sentence list</span></button></div></div><div class="content-card"><h3>How legal downloads work</h3><p>Wikimedia Commons results may use public-domain, CC BY, CC BY-SA, or other license conditions. The application displays provider metadata. <strong>Check the original file page and any model/property restrictions before reuse.</strong> A download button only appears when a recognized, permitted license is indicated; if a browser blocks downloading, the source page can be opened manually.</p><p>News, YouTube, TikTok, Instagram, Google and Pexels buttons open external searches for discovery only. They do not grant reuse rights. Obtain permission or use authorized APIs/licenses for those clips.</p></div><div class="content-card"><h3>Storage & privacy</h3><p>Projects are saved in your browser's local storage. Clearing browser data may remove them. Export JSON regularly. No backend account or uploaded transcript server is used.</p></div></section>
+      <footer>Kinzo Explain · Independent research utility · Not affiliated with any media provider</footer>
+    </main>
+  </div>
+  <dialog id="detailDialog"><div id="detailContent"></div><form method="dialog"><button class="secondary">Close</button></form></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="./src/app.js"></script>
+</body>
+</html>
