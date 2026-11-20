@@ -1,4 +1,7 @@
-# Kinzo Footage Collector — Chrome Web App
+# Kinzo Footage Collector v2
+
+**Professional Node backend + real playable video search:** see [BACKEND_SETUP.md](BACKEND_SETUP.md).
+
 
 A GitHub-ready, browser-based documentary media research workspace. **No Python, no Node installation needed for GitHub Pages hosting.**
 
