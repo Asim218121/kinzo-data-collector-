@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:36:36.903Z",
+  "generatedAt": "2026-11-20T10:37:36.674Z",
   "source": "Wikimedia Commons + Pexels verified-source curated sample",
   "videos": [
     {
@@ -110,6 +110,72 @@
       "relevance": 0,
       "topics": [
         "storm waves ocean"
+      ]
+    },
+    {
+      "id": "commons-141379435",
+      "platform": "Wikimedia Commons",
+      "kind": "video",
+      "title": "007 Volcano eruption of Litli-Hrútur in Iceland in 2023 Video by Giles Laurent.webm",
+      "creator": "Giles Laurent",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/007_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Video_by_Giles_Laurent.webm/960px--007_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Video_by_Giles_Laurent.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "videoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/007_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Video_by_Giles_Laurent.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:007_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Video_by_Giles_Laurent.webm",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "downloadEligible": true,
+      "mime": "video/webm",
+      "dateUploaded": "2023-11-25T12:27:32Z",
+      "dateRecorded": null,
+      "duration": null,
+      "sourceType": "api",
+      "relevance": 0,
+      "topics": [
+        "volcano eruption"
+      ]
+    },
+    {
+      "id": "commons-102510753",
+      "platform": "Wikimedia Commons",
+      "kind": "video",
+      "title": "Fagradalsfjall volcano eruption (helicopter view).webm",
+      "creator": "ArniGael",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fagradalsfjall_volcano_eruption_%28helicopter_view%29.webm/500px--Fagradalsfjall_volcano_eruption_%28helicopter_view%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "videoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Fagradalsfjall_volcano_eruption_%28helicopter_view%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fagradalsfjall_volcano_eruption_(helicopter_view).webm",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "downloadEligible": true,
+      "mime": "video/webm",
+      "dateUploaded": "2021-03-28T20:13:06Z",
+      "dateRecorded": null,
+      "duration": null,
+      "sourceType": "api",
+      "relevance": 0,
+      "topics": [
+        "volcano eruption"
+      ]
+    },
+    {
+      "id": "commons-53774907",
+      "platform": "Wikimedia Commons",
+      "kind": "video",
+      "title": "Advanced Weather Satellite Separates from Launch Vehicle.webm",
+      "creator": "NASA",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Advanced_Weather_Satellite_Separates_from_Launch_Vehicle.webm/960px--Advanced_Weather_Satellite_Separates_from_Launch_Vehicle.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "videoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Advanced_Weather_Satellite_Separates_from_Launch_Vehicle.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Advanced_Weather_Satellite_Separates_from_Launch_Vehicle.webm",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "downloadEligible": true,
+      "mime": "video/webm",
+      "dateUploaded": "2017-03-09T11:58:50Z",
+      "dateRecorded": null,
+      "duration": null,
+      "sourceType": "api",
+      "relevance": 0,
+      "topics": [
+        "satellite weather"
       ]
     },
     {
@@ -322,12 +388,6 @@
       "relevance": 1
     }
   ],
-  "errors": [
-    "wildfire: HTTP 429",
-    "earthquake: HTTP 429",
-    "volcano eruption: HTTP 429",
-    "tsunami: HTTP 429",
-    "satellite weather: HTTP 429"
-  ],
+  "errors": [],
   "dateMeaning": "Upload date only when provided; original recording dates unknown"
 }
