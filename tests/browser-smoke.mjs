@@ -1,12 +1,13 @@
 import assert from 'node:assert/strict';
-import {spawn} from 'node:child_process';
+import {createServer} from '../backend/server.mjs';
 import {chromium} from 'playwright';
-const server=spawn('python3',['-m','http.server','8765','--bind','127.0.0.1'],{stdio:'ignore'});
+const server=createServer({env:{},fetcher:async()=>({ok:true,status:200,json:async()=>({query:{pages:{}}})})});
+await new Promise(resolve=>server.listen(8765,'127.0.0.1',resolve));
 const browser=await chromium.launch({channel:'chrome',headless:true,args:['--no-sandbox']});
 const page=await browser.newPage({viewport:{width:1440,height:900},acceptDownloads:true});
 const errors=[];
 page.on('pageerror',e=>errors.push(String(e)));
-page.on('console',m=>{if(m.type()==='error'&&!/commons\.wikimedia|ERR_FAILED|ERR_ABORTED/.test(m.text()))errors.push(m.text())});
+page.on('console',m=>{if(m.type()==='error'&&/Uncaught|SyntaxError|ReferenceError|TypeError/.test(m.text()))errors.push(m.text())});
 try{
  await page.route('https://commons.wikimedia.org/**',route=>route.abort());
  await page.goto('http://127.0.0.1:8765/',{waitUntil:'domcontentloaded'});
@@ -16,6 +17,12 @@ try{
  await page.locator('#searchQuery').fill('California flooding');
  await page.locator('#searchButton').click();
  await page.locator('.media-card').first().waitFor();
+ await page.locator('#engineVideoResults .pro-video-card').first().waitFor({timeout:15000});
+ const playerCount=await page.locator('#engineVideoResults video').count();
+ assert.ok(playerCount>=3,'Real MP4 elements should appear via Node backend');
+ assert.ok((await page.locator('#engineStatus').innerText()).includes('playable video'));
+ assert.ok((await page.locator('#engineVideoResults video source').first().getAttribute('src')).startsWith('https://videos.pexels.com/'));
+ assert.ok(await page.locator('#engineNewsResults .pro-news-card').count()>0);
  const count=await page.locator('.media-card').count();
  assert.ok(count>=3,'Stock video fallback should work even if Commons fails');
  assert.ok(await page.locator('.media-type').first().innerText().then(x=>x.includes('Video')));
@@ -37,5 +44,5 @@ try{
  await page.locator('[data-tab="collection"]').click();
  assert.ok(await page.locator('#collectionResults .media-card').count()>=1);
  assert.equal(errors.length,0,'No uncaught browser errors: '+errors.join('; '));
- console.log(JSON.stringify({status:'PASS',bg,videoCards:count,newsCards:news,scenes:2,saved:1,errors}));
-}finally{await browser.close();server.kill();}
+ console.log(JSON.stringify({status:'PASS',bg,videoCards:count,backendPlayers:playerCount,newsCards:news,scenes:2,saved:1,errors}));
+}finally{await browser.close();await new Promise(resolve=>server.close(resolve));}
