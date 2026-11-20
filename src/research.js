@@ -79,17 +79,19 @@ async function searchNews(){
   const all=Array.isArray(data.articles)?data.articles:[];
   const words=q.toLowerCase().split(/\W+/).filter(w=>w.length>=4&&!['latest','news','video','footage','weather','november','2026'].includes(w));
   const cutoff=Date.now()-days()*86400000;
+  const priority=words.filter(w=>!['california','canada','america','american','australia','united','states','north','south','eastern','western','november','2026'].includes(w));
+  const normalize=(str)=>String(str||'').toLowerCase();
+  const isRelevant=(x)=>{const title=normalize(x.title),topic=normalize(x.topic);if(!priority.length)return words.some(w=>(title+' '+topic).includes(w))||!words.length;return priority.some(w=>title.includes(w)|| (w==='flooding'&&/flood|rain|atmospheric|storm/.test(title)) || (w==='snowstorm'&&/snow|winter|blizzard/.test(title)) || (w==='earthquake'&&/quake|seismic|earthquake/.test(title))) && (!words.some(w=>['california','canada','australia'].includes(w)) || words.some(w=>['california','canada','australia'].includes(w)&&(title+' '+topic).includes(w)));};
   newsArticles=dedupe(all.map(x=>({...x,id:x.url})).filter(x=>{
    if(!x.url||!x.title||!x.publishedAt)return false;
    const date=Date.parse(x.publishedAt);
    if(!Number.isFinite(date)||date<cutoff)return false;
    if(!words.length)return true;
-   const text=(x.title+' '+(x.topic||'')+' '+x.provider).toLowerCase();
-   return words.some(w=>text.includes(w));
+   return isRelevant(x);
   }).sort((a,b)=>(b.publishedAt||'').localeCompare(a.publishedAt||''))).slice(0,75);
   renderCards(newsArticles);
   if(!all.length){
-    status('The automatic news cache has not gathered articles yet. Open the publisher and social search links below for live results. Video B-roll remains available above.');
+    status('The automatic news cache has not gathered articles yet. Open the publisher and social search links below for live results. Stock B-roll is shown separately below.');
   }else if(!newsArticles.length){
     status(all.length+' articles cached, but none match this topic and date range. Try broader words or 30 days. Publisher search links below show live topic results.');
   }else{
@@ -138,7 +140,10 @@ document.addEventListener('click',e=>{const save=e.target.closest('[data-save]')
  const del=e.target.closest('[data-remove]');if(del){persistSaved(currentSaved().filter(x=>x.url!==del.dataset.remove));updateSaved();}
 });
 btn.addEventListener('click',searchNews);
+qs('#searchForm').addEventListener('submit',()=>{searchNews();});
 qs('#newsDays').addEventListener('change',drawLinks);
 qs('#searchQuery').addEventListener('input',drawLinks);
 qs('#newsLinksRefresh').addEventListener('click',drawLinks);
 drawLinks();updateSaved();
+// Show genuine news references immediately on page load; no extra hidden step.
+searchNews();
