@@ -65,24 +65,40 @@ function renderCards(items){
 let newsArticles=[];
 const btn=qs('#newsSearch');
 async function searchNews(){
- const q=getQuery();if(!q){status('Enter a search topic first.');return;}
- btn.disabled=true; drawLinks(); status('Searching current news articles via GDELT…');qs('#newsResults').innerHTML='';
- const params=new URLSearchParams({query:q,mode:'artlist',format:'json',maxrecords:'75',sort:'datedesc',timespan:days()+'d'});
- const url='https://api.gdeltproject.org/api/v2/doc/doc?'+params;
- const controller=new AbortController();const timeout=setTimeout(()=>controller.abort(),14000);
+ const q=getQuery();
+ if(!q){status('Enter a search topic first.');return;}
+ btn.disabled=true;
+ drawLinks();
+ status('Loading news results saved by the Kinzo news collector…');
+ qs('#newsResults').innerHTML='';
  try{
-   const response=await fetch(url,{signal:controller.signal});
-   if(!response.ok)throw Error('News API HTTP '+response.status);
-   const raw=await response.json();
-   newsArticles=dedupe((raw.articles||[]).map(recordNews).filter(Boolean));
-   const cutoff=Date.now()-days()*86400000;
-   newsArticles=newsArticles.filter(x=>!x.publishedAt || new Date(x.publishedAt).getTime()>=cutoff).sort((a,b)=>(b.publishedAt||'').localeCompare(a.publishedAt||''));
-   renderCards(newsArticles);
-   status(newsArticles.length+' news articles found. Date shown is GDELT first-seen/publication metadata, not footage recording date. Confirm on publisher.');
- }catch(err){
-   newsArticles=[];renderCards([]);
-   status('Automatic news feed is blocked or unavailable in this browser. Use the publisher and social research links below to find current dated coverage. No articles were invented.');
- }finally{clearTimeout(timeout);btn.disabled=false;}
+  // Same-origin GitHub Pages JSON: no cross-site API or CORS request.
+  const res=await fetch('./data/news.json?reload='+Date.now(),{cache:'no-store'});
+  if(!res.ok)throw Error('News cache HTTP '+res.status);
+  const data=await res.json();
+  const all=Array.isArray(data.articles)?data.articles:[];
+  const words=q.toLowerCase().split(/\W+/).filter(w=>w.length>=4&&!['latest','news','video','footage','weather','november','2026'].includes(w));
+  const cutoff=Date.now()-days()*86400000;
+  newsArticles=dedupe(all.map(x=>({...x,id:x.url})).filter(x=>{
+   if(!x.url||!x.title||!x.publishedAt)return false;
+   const date=Date.parse(x.publishedAt);
+   if(!Number.isFinite(date)||date<cutoff)return false;
+   if(!words.length)return true;
+   const text=(x.title+' '+(x.topic||'')+' '+x.provider).toLowerCase();
+   return words.some(w=>text.includes(w));
+  }).sort((a,b)=>(b.publishedAt||'').localeCompare(a.publishedAt||''))).slice(0,75);
+  renderCards(newsArticles);
+  if(!all.length){
+    status('The automatic news cache has not gathered articles yet. Open the publisher and social search links below for live results. Video B-roll remains available above.');
+  }else if(!newsArticles.length){
+    status(all.length+' articles cached, but none match this topic and date range. Try broader words or 30 days. Publisher search links below show live topic results.');
+  }else{
+    status(newsArticles.length+' dated news references matched. Cache updated '+(data.generatedAt?new Date(data.generatedAt).toLocaleString():'date unverified')+'. These are article links, not licensed videos.');
+  }
+ }catch(e){
+  newsArticles=[];renderCards([]);
+  status('News cache unavailable ('+e.message+'). Use the live publisher and social links below. Video B-roll remains available above.');
+ }finally{btn.disabled=false;}
 }
 function drawLinks(){
  const q=getQuery(),u=encodeURIComponent(q);
