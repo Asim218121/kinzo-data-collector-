@@ -29,7 +29,7 @@ export function curatedVideos(q,limit=20){
    videoUrl:'https://videos.pexels.com/video-files/'+id+'/'+mp4,
    sourceUrl:'https://www.pexels.com/video/'+id+'/',license:'Pexels License (review source)',
    licenseUrl:'https://www.pexels.com/license/',downloadEligible:true,
-   dateUploaded:null,dateRecorded:null,sourceType:'curated','relevance':score};
+   mime:'video/mp4',dateUploaded:null,dateRecorded:null,sourceType:'curated','relevance':score};
  }).filter(Boolean).sort((a,b)=>b.relevance-a.relevance).slice(0,limit);
 }
 export const isWebUrl=x=>{try{const u=new URL(String(x));return ['https:','http:'].includes(u.protocol)}catch{return false}};
@@ -48,7 +48,7 @@ export function fromCommons(page){
   creator:parseMeta(m.Artist)||'See original',preview:isWebUrl(info.thumburl)?info.thumburl:null,
   videoUrl:url,sourceUrl:info.descriptionurl||'https://commons.wikimedia.org/?curid='+page.pageid,
   license: rights.license,licenseUrl,downloadEligible:rights.downloadEligible,
-  dateUploaded:info.timestamp||null,dateRecorded:null,duration:null,
+  mime:info.mime,dateUploaded:info.timestamp||null,dateRecorded:null,duration:null,
   sourceType:'api',relevance:0};
 }
 export function fromPexels(v){
@@ -59,7 +59,7 @@ export function fromPexels(v){
    creator:v.user?.name||'Pexels creator',preview:isWebUrl(v.image)?v.image:null,videoUrl:best.link,
    sourceUrl:v.url,license:'Pexels License (review source)',
    licenseUrl:'https://www.pexels.com/license/',downloadEligible:true,dateUploaded:null,dateRecorded:null,
-   duration:v.duration||null,width:best.width||null,height:best.height||null,sourceType:'api',relevance:1};
+   mime:'video/mp4',duration:v.duration||null,width:best.width||null,height:best.height||null,sourceType:'api',relevance:1};
 }
 export function fromPixabay(v){
  const sizes=v.videos||{},file=sizes.medium||sizes.large||sizes.small||sizes.tiny;
@@ -69,7 +69,7 @@ export function fromPixabay(v){
    videoUrl:file.url,sourceUrl:v.pageURL||'https://pixabay.com/videos/id-'+v.id+'/',
    license:'Pixabay Content License (review source)',licenseUrl:'https://pixabay.com/service/license-summary/',
    downloadEligible:true,dateUploaded:null,dateRecorded:null,duration:v.duration||null,
-   width:file.width||null,height:file.height||null,sourceType:'api',relevance:1};
+   mime:'video/mp4',width:file.width||null,height:file.height||null,sourceType:'api',relevance:1};
 }
 async function jsonFetch(url,opts={},fetcher=fetch,timeout=9000){
  const c=new AbortController(),timer=setTimeout(()=>c.abort(),timeout);
