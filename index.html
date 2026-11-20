@@ -24,15 +24,18 @@
     <main class="main">
       <header class="topbar"><div><span class="eyebrow">CREATOR WORKSPACE</span><h1 id="viewTitle">Discover footage</h1><p id="viewSubtitle">Find real photos and videos. Save sources and match them to your voiceover.</p></div><span class="top-chip">WEB APP · v1.4</span></header>
       <section id="tab-discover" class="tab active">
-        <div class="hero"><div><span class="eyebrow">RESEARCH STARTS HERE</span><h2>Find the visuals<br/><em>behind the story.</em></h2><p>Search free-license media, inspect attribution, organize scenes, and open news/social sources for reference.</p></div><div class="hero-icon">◉<span>↗</span></div></div>
+        <div class="hero"><div><span class="eyebrow">RESEARCH STARTS HERE</span><h2>Find the visuals<br/><em>behind the story.</em></h2><p>Search dated news references, original social videos and stock footage. Social posts link to their platforms; footage reuse needs permission.</p></div><div class="hero-icon">◉<span>↗</span></div></div>
         <form id="searchForm" class="search-panel"><label for="searchQuery">SEARCH TOPIC</label><div class="search-line"><input id="searchQuery" placeholder="e.g. California atmospheric river flooding" autocomplete="off" value="California flooding"/><button type="submit" class="primary" id="searchButton">⌕ &nbsp; Search All Sources</button></div><div class="search-tools"><label class="choice"><input type="radio" name="mediaType" value="image"/> Photos</label><label class="choice"><input type="radio" name="mediaType" value="video" checked/> Video</label><label class="choice"><input type="radio" name="mediaType" value="all"/> Both</label><span class="muted">Provider: Wikimedia Commons (free-license files; verify per item)</span></div></form>
         <section class="r-panel" id="newsResearch">
           <div class="r-heading"><div><span class="eyebrow">WORLDWIDE NEWS & SOCIAL RESEARCH</span><h3>Latest news articles & social footage searches</h3><p>Search once: dated news coverage appears here, social footage sources below, and downloadable stock footage further down.</p></div><span class="top-chip">NEWS + SOCIAL · v1.4</span></div>
           <div class="r-controls"><label>Reported within <select id="newsDays"><option value="1">Last 24 hours</option><option value="7" selected>Last 7 days</option><option value="30">Last 30 days</option><option value="90">Last 90 days</option></select></label><button type="button" class="primary" id="newsSearch">Search news articles</button><button type="button" class="secondary" id="newsLinksRefresh">Refresh all source links</button></div>
+          <h3 class="r-subheading">7 social media platforms — open video & post searches</h3><div class="r-grid-social" id="socialResearchLinks"></div>
+          <h3 class="r-subheading">17 news websites & science agencies — original search links</h3><div class="r-links" id="newsPublisherLinks"></div>
+          <h3 class="r-subheading">Latest relevant news reports — dated source cards</h3>
           <p id="newsRangeLabel" class="r-note"></p><p id="newsStatus" class="r-note" role="status">Loading dated news article references...</p>
           <div id="newsResults" class="r-grid"></div>
-          <h3 class="r-subheading">17 news websites & science agencies — original search links</h3><div class="r-links" id="newsPublisherLinks"></div>
-          <h3 class="r-subheading">7 social media platforms — open video & post searches</h3><div class="r-grid-social" id="socialResearchLinks"></div>
+__PUBLISHERS__
+__SOCIAL__
           <div class="r-notice">These are original-source research links, not permission to re-upload someone else's footage. Social platforms do not provide unrestricted all-platform downloads. Check post dates and obtain rights before reuse.</div>
           <div class="r-heading r-heading-small"><div><h3>Saved news references <span id="newsSavedCount" class="result-count">0 saved</span></h3><p>Saved in this browser; export to preserve your research.</p></div><div class="r-controls"><button type="button" class="secondary" id="newsExport">Export JSON</button><button type="button" class="secondary" id="newsExportCSV">Export CSV</button></div></div>
           <div id="newsSavedLinks" class="r-saved-list"></div>
