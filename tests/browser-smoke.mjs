@@ -19,9 +19,9 @@ try{
  await page.locator('.media-card').first().waitFor();
  await page.locator('#engineVideoResults .pro-video-card').first().waitFor({timeout:15000});
  const playerCount=await page.locator('#engineVideoResults video').count();
- assert.ok(playerCount>=3,'Real MP4 elements should appear via Node backend');
+ assert.ok(playerCount>=1,'Free GitHub Pages cache should render real video players');
  assert.ok((await page.locator('#engineStatus').innerText()).includes('playable video'));
- assert.ok((await page.locator('#engineVideoResults video source').first().getAttribute('src')).startsWith('https://videos.pexels.com/'));
+ assert.match(await page.locator('#engineVideoResults video source').first().getAttribute('src'),/^https:\/\//);
  assert.ok(await page.locator('#engineNewsResults .pro-news-card').count()>0);
  const count=await page.locator('.media-card').count();
  assert.ok(count>=3,'Stock video fallback should work even if Commons fails');
@@ -44,5 +44,5 @@ try{
  await page.locator('[data-tab="collection"]').click();
  assert.ok(await page.locator('#collectionResults .media-card').count()>=1);
  assert.equal(errors.length,0,'No uncaught browser errors: '+errors.join('; '));
- console.log(JSON.stringify({status:'PASS',bg,videoCards:count,backendPlayers:playerCount,newsCards:news,scenes:2,saved:1,errors}));
+ console.log(JSON.stringify({status:'PASS',bg,videoCards:count,freeCachePlayers:playerCount,newsCards:news,scenes:2,saved:1,errors}));
 }finally{await browser.close();await new Promise(resolve=>server.close(resolve));}
