@@ -1,15 +1,19 @@
 {
   "name": "kinzo-footage-collector",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
-  "description": "A browser-based source and licensed media collector for documentary scripts.",
+  "description": "Unified authorized video and dated news search with deployable Node API and website",
   "scripts": {
-    "start": "vite --host 0.0.0.0",
-    "dev": "vite --host 0.0.0.0",
+    "start": "node backend/server.mjs",
+    "dev": "node backend/server.mjs",
     "build": "vite build --base=./",
     "preview": "vite preview --host 0.0.0.0",
-    "test": "node --test tests/*.test.js"
+    "test": "node --test tests/*.test.js",
+    "dev:vite": "vite --host 0.0.0.0",
+    "check:backend": "node --test tests/backend.test.js"
   },
-  "devDependencies": {"vite": "^6.3.0"}
+  "devDependencies": {
+    "vite": "^6.3.0"
+  }
 }
