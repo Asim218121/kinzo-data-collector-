@@ -22,10 +22,19 @@
       <div class="sidebar-bottom"><span class="status-light"></span> No login needed <p>Video-first search: curated licensed-source B-roll, plus Wikimedia Commons when available.</p></div>
     </aside>
     <main class="main">
-      <header class="topbar"><div><span class="eyebrow">CREATOR WORKSPACE</span><h1 id="viewTitle">Discover footage</h1><p id="viewSubtitle">Find real photos and videos. Save sources and match them to your voiceover.</p></div><span class="top-chip">WEB APP · v1.4</span></header>
+      <header class="topbar"><div><span class="eyebrow">CREATOR WORKSPACE</span><h1 id="viewTitle">Discover footage</h1><p id="viewSubtitle">Find real photos and videos. Save sources and match them to your voiceover.</p></div><span class="top-chip">WEB APP · v2.0</span></header>
       <section id="tab-discover" class="tab active">
         <div class="hero"><div><span class="eyebrow">RESEARCH STARTS HERE</span><h2>Find the visuals<br/><em>behind the story.</em></h2><p>Search dated news references, original social videos and stock footage. Social posts link to their platforms; footage reuse needs permission.</p></div><div class="hero-icon">◉<span>↗</span></div></div>
         <form id="searchForm" class="search-panel"><label for="searchQuery">SEARCH TOPIC</label><div class="search-line"><input id="searchQuery" placeholder="e.g. California atmospheric river flooding" autocomplete="off" value="California flooding"/><button type="submit" class="primary" id="searchButton">⌕ &nbsp; Search All Sources</button></div><div class="search-tools"><label class="choice"><input type="radio" name="mediaType" value="image"/> Photos</label><label class="choice"><input type="radio" name="mediaType" value="video" checked/> Video</label><label class="choice"><input type="radio" name="mediaType" value="all"/> Both</label><span class="muted">Provider: Wikimedia Commons (free-license files; verify per item)</span></div></form>
+        <section class="r-panel pro-engine" id="professionalEngine">
+          <div class="r-heading"><div><span class="eyebrow">LIVE VIDEO SEARCH ENGINE · V2 BACKEND</span><h3>Playable videos with source, license and download</h3><p>Search authorized Pexels, Pixabay and Wikimedia APIs. Watch footage in the player before choosing an original source or an authorized MP4 download.</p></div></div>
+          <p id="engineStatus" class="r-note" role="status">Checking video backend…</p>
+          <div class="r-controls pro-connect"><label>Backend URL <input id="engineBackendURL" type="url" placeholder="https://your-service.onrender.com" autocomplete="off"></label><button type="button" class="secondary" id="engineSaveBackend">Connect backend</button><button type="button" class="secondary" id="engineResetBackend">Use same-origin backend</button></div>
+          <div class="r-controls pro-toolbar"><label>Video source <select id="engineProvider"><option value="all">All authorized sources</option><option value="pexels">Pexels</option><option value="pixabay">Pixabay</option><option value="commons">Wikimedia Commons</option></select></label><label>News date <select id="engineDays"><option value="1">Past 24 hours</option><option value="7" selected>Past 7 days</option><option value="30">Past 30 days</option><option value="90">Past 90 days</option></select></label><label class="choice"><input id="engineAuto" type="checkbox" checked> Search backend with main Search button</label><button type="button" class="primary" id="engineSearch">▶ Search playable videos + news</button></div>
+          <div id="engineVideoResults" class="pro-video-grid"><div class="r-empty">Once the backend is connected, real video players with MP4 sources appear here. Stock footage is not authenticated breaking-news footage.</div></div>
+          <h3 class="r-subheading">Dated news results from connected backend</h3><div id="engineNewsResults" class="pro-news-grid"></div>
+          <h3 class="r-subheading">Original social-media & news searches</h3><div id="engineSocialLinks" class="r-links"></div>
+        </section>
         <section class="r-panel" id="newsResearch">
           <div class="r-heading"><div><span class="eyebrow">WORLDWIDE NEWS & SOCIAL RESEARCH</span><h3>Latest news articles & social footage searches</h3><p>Search once: dated news coverage appears here, social footage sources below, and downloadable stock footage further down.</p></div><span class="top-chip">NEWS + SOCIAL · v1.4</span></div>
           <div class="r-controls"><label>Reported within <select id="newsDays"><option value="1">Last 24 hours</option><option value="7" selected>Last 7 days</option><option value="30">Last 30 days</option><option value="90">Last 90 days</option></select></label><button type="button" class="primary" id="newsSearch">Search news articles</button><button type="button" class="secondary" id="newsLinksRefresh">Refresh all source links</button></div>
@@ -56,5 +65,6 @@ __SOCIAL__
   <div id="toast" role="status" aria-live="polite"></div>
   <script type="module" src="./src/app.js"></script>
   <script type="module" src="./src/research.js"></script>
+  <script type="module" src="./src/engine.js"></script>
 </body>
 </html>
