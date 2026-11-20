@@ -15,15 +15,16 @@ function showVideos(items){
  if(!items.length){target.innerHTML='<div class="r-empty">No matching playable videos returned by the connected providers. Try broader search keywords or enable Pexels/Pixabay API keys.</div>';return;}
  target.innerHTML=items.map((v,i)=>{
   const url=encode(v.videoUrl),source=encode(v.sourceUrl),preview=encode(v.preview||''),safeUrl=/^https?:\/\//.test(v.videoUrl||'');
+  const videoMime=v.mime==='video/webm'||/\.webm(\?|$)/.test(v.videoUrl||'')?'video/webm':'video/mp4';
   return '<article class="pro-video-card"><div class="pro-video-wrap">'+
-   (safeUrl?'<video controls playsinline preload="none" '+(preview?'poster="'+preview+'"':'')+' data-video="'+url+'"><source src="'+url+'" type="video/mp4">Your browser cannot play this video.</video>':'<div class="pro-video-missing">No playable file available</div>')+
+   (safeUrl?'<video controls playsinline preload="none" '+(preview?'poster="'+preview+'"':'')+' data-video="'+url+'"><source src="'+url+'" type="'+videoMime+'">Your browser cannot play this video.</video>':'<div class="pro-video-missing">No playable file available</div>')+
    '<span class="pro-platform">'+encode(v.platform)+'</span></div>'+
    '<div class="pro-video-meta"><h4>'+encode(v.title)+'</h4><p>'+encode(v.creator||'Unknown creator')+' · '+encode(v.duration?v.duration+' sec':'Duration unknown')+'</p>'+
    '<p>Uploaded: '+encode(fmtDate(v.dateUploaded))+' · Recorded: '+encode(fmtDate(v.dateRecorded))+'</p>'+
    '<p class="pro-rights">'+encode(v.license||'Check rights')+'</p><div class="pro-links">'+
    '<a class="secondary" target="_blank" rel="noopener noreferrer" href="'+source+'">Original source ↗</a>'+
    (safeUrl?'<a class="secondary" target="_blank" rel="noopener noreferrer" href="'+url+'">Open MP4 ↗</a>':'')+
-   (safeUrl&&v.downloadEligible?'<a class="primary" target="_blank" rel="noopener noreferrer" href="'+url+'" download>Download MP4 ↗</a>':'')+
+   (safeUrl&&v.downloadEligible?'<a class="primary" target="_blank" rel="noopener noreferrer" href="'+url+'" download>Download video ↗</a>':'')+
    '</div><small>Not verified news-event footage; verify license and event date before publishing.</small></div></article>';
  }).join('');
 }
