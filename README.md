@@ -1,6 +1,18 @@
-# Kinzo Footage Collector v2
+# Kinzo Footage Collector — Free Edition (v2.1)
 
-**Professional Node backend + real playable video search:** see [BACKEND_SETUP.md](BACKEND_SETUP.md).
+**Open website:** https://asim218121.github.io/kinzo-data-collector-/
+
+The free version runs on GitHub Pages with **no card, no paid hosting, no Render service, and no API keys**.
+
+- GitHub Actions refreshes `data/videos.json` from Wikimedia Commons and verified-source curated Pexels clips every six hours. Each video card has an actual playable video file (MP4/WebM), original source, license metadata and download link where permitted.
+- GitHub Actions updates `data/news.json` with dated RSS publisher references every three hours.
+- YouTube/X/Instagram/Facebook/TikTok results are **original search links**, not downloaded/embedded social-media video. Automatic access would require approved APIs and rights.
+- Videos are illustrative stock/archival material; **not verified current-event news footage**. The date shown (where known) is upload date, not proof of recording date.
+- The separate `backend/` and `render.yaml` files remain for optional future hosting, **not required for this free website**.
+
+**Test:** `.github/workflows/browser-test.yml` verifies browser video cards/news/scenes; `.github/workflows/real-mp4-test.yml` verifies that an actual Pexels video stream plays.
+
+---
 
 
 A GitHub-ready, browser-based documentary media research workspace. **No Python, no Node installation needed for GitHub Pages hosting.**
