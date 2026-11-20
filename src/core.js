@@ -1,4 +1,3 @@
-
 export function sentences(text) {
   const normalized = String(text || '').replace(/\r\n/g, '\n').replace(/[ \t]+/g,' ').trim();
   if (!normalized) return [];
