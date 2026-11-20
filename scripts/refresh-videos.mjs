@@ -30,6 +30,7 @@ export async function refresh(){
  const existing=await readFile('data/videos.json','utf8').then(JSON.parse).catch(()=>({videos:[]}));
  const all=topics.flatMap(q=>curatedVideos(q,30));let commons=0;
  for(const topic of topics){
+  await new Promise(resolve=>setTimeout(resolve,2200));
   try{
    const results=await commonsSearch(topic);
    all.push(...results.map(x=>({...x,topics:[topic]})));
@@ -38,9 +39,8 @@ export async function refresh(){
   }catch(e){console.warn('Commons '+topic+': '+e.message);errors.push(topic+': '+e.message);}
  }
  // If Wikimedia temporarily fails, retain last correctly indexed Commons clips.
- if(!commons){
-  all.push(...(existing.videos||[]).filter(x=>x.platform==='Wikimedia Commons'));
- }
+ // Preserve previously indexed Commons video files through rate limiting or temporary outages.
+ all.push(...(existing.videos||[]).filter(x=>x.platform==='Wikimedia Commons'));
  const unique=new Map();
  for(const v of all){
   if(!v||!v.videoUrl||!v.sourceUrl||!v.platform)continue;
