@@ -66,7 +66,7 @@ let newsArticles=[];
 const btn=qs('#newsSearch');
 async function searchNews(){
  const q=getQuery();if(!q){status('Enter a search topic first.');return;}
- btn.disabled=true; status('Searching current news articles via GDELT…');qs('#newsResults').innerHTML='';
+ btn.disabled=true; drawLinks(); status('Searching current news articles via GDELT…');qs('#newsResults').innerHTML='';
  const params=new URLSearchParams({query:q,mode:'artlist',format:'json',maxrecords:'75',sort:'datedesc',timespan:days()+'d'});
  const url='https://api.gdeltproject.org/api/v2/doc/doc?'+params;
  const controller=new AbortController();const timeout=setTimeout(()=>controller.abort(),14000);
@@ -81,7 +81,7 @@ async function searchNews(){
    status(newsArticles.length+' news articles found. Date shown is GDELT first-seen/publication metadata, not footage recording date. Confirm on publisher.');
  }catch(err){
    newsArticles=[];renderCards([]);
-   status('Live news feed unavailable ('+err.message+'). Publisher and social searches below still work; click to see current results.');
+   status('Automatic news feed is blocked or unavailable in this browser. Use the publisher and social research links below to find current dated coverage. No articles were invented.');
  }finally{clearTimeout(timeout);btn.disabled=false;}
 }
 function drawLinks(){
