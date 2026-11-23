@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:56:57.517Z",
+  "generatedAt": "2026-11-23T08:08:59.323Z",
   "source": "Wikimedia Commons + Pexels verified-source curated sample",
   "videos": [
     {
@@ -389,6 +389,7 @@
     }
   ],
   "errors": [
+    "wildfire: HTTP 429",
     "earthquake: HTTP 429",
     "volcano eruption: HTTP 429",
     "tsunami: HTTP 429",
