@@ -1,8 +1,188 @@
 {
-  "generatedAt": "2026-11-22T19:44:59.943Z",
+  "generatedAt": "2026-11-23T01:47:17.516Z",
   "source": "Google News RSS publisher links",
   "dateMeaning": "Publisher-reported article date, not footage recording date",
   "articles": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZzYtUEVzZTB2YmR6dG5ucFZBajVBMi1OTkJXM0JLWWtwTkFmY2d4TElFNEZUQ21zSExkVHlSU3FxVGVuUGNWQ1JCOEsxSmM4NmxhQk5KOXZ6S253c21CVWNHVEdIM2JFSWUxM29JdDF2WmxmOFowMFNaYkh4dnVyckhYelZ4SWFPNF92Zk5uU3VFRGNvaHRPa1hKN21zVE1lVjN0WlBkZG93cGdNVzE1ZTRlcw?oc=5",
+      "title": "Historic El Niño Forecast Shows US States Facing the Coldest Weather This Winter - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZzYtUEVzZTB2YmR6dG5ucFZBajVBMi1OTkJXM0JLWWtwTkFmY2d4TElFNEZUQ21zSExkVHlSU3FxVGVuUGNWQ1JCOEsxSmM4NmxhQk5KOXZ6S253c21CVWNHVEdIM2JFSWUxM29JdDF2WmxmOFowMFNaYkh4dnVyckhYelZ4SWFPNF92Zk5uU3VFRGNvaHRPa1hKN21zVE1lVjN0WlBkZG93cGdNVzE1ZTRlcw?oc=5",
+      "provider": "Men's Journal",
+      "publishedAt": "2026-11-23T00:25:00.000Z",
+      "recordedAt": null,
+      "topic": "US weather storm forecast",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTENXc2NPTTFabFFfamwtXzBKVjRXSzJ3ZEZwcTJXeTR4X1pZa3NQUnZPdzdOWUZkYWtlYzIzMkdsR0FmYWViR0piblRUTWtVTEdlTjJMZXN5b0g1NmFQbmhBTnFuaGZRWUJmel9VWC12M1hLNEFnM3d0eGJ6OXc?oc=5",
+      "title": "Sun news: The man who guessed what makes the sun shine - EarthSky",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTENXc2NPTTFabFFfamwtXzBKVjRXSzJ3ZEZwcTJXeTR4X1pZa3NQUnZPdzdOWUZkYWtlYzIzMkdsR0FmYWViR0piblRUTWtVTEdlTjJMZXN5b0g1NmFQbmhBTnFuaGZRWUJmel9VWC12M1hLNEFnM3d0eGJ6OXc?oc=5",
+      "provider": "EarthSky",
+      "publishedAt": "2026-11-22T22:48:22.000Z",
+      "recordedAt": null,
+      "topic": "NASA earth science weather",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMEw2a0ctQjJBMnc5SmlRQ3I5TWFwQk5MbmRPbm9xWkM4LVlmN2RfTVB3bFVJNksyQXhoWHpjZXRkVDk0VV9jNFFsNV9LMUtTREtLOG8tSlZrWGZSMnZHT3R0YVJEbGFjc0M3Um1PR0d1RG15Rk5kbUQwdXEzVGFpcXhjWDZXSTl3ZktMQjhNeTN1Um5zbGFhSDBWQnJjdTBGbk9oVF9FVkFaQzlBZm0xZEE1bnJaTVI1QUd2RWtJSmZ4VTRKMnR2amtVMkV3SnRfc0ZDZTJHYlFwMzhzWTlIRUduSjhKVjdQUF9naUotVjlHVVE?oc=5",
+      "title": "Volcanic activity worldwide 22 Nov 2026: Santiaguito volcano, Fuego, Popocatépetl, Semeru, Karanget... - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMEw2a0ctQjJBMnc5SmlRQ3I5TWFwQk5MbmRPbm9xWkM4LVlmN2RfTVB3bFVJNksyQXhoWHpjZXRkVDk0VV9jNFFsNV9LMUtTREtLOG8tSlZrWGZSMnZHT3R0YVJEbGFjc0M3Um1PR0d1RG15Rk5kbUQwdXEzVGFpcXhjWDZXSTl3ZktMQjhNeTN1Um5zbGFhSDBWQnJjdTBGbk9oVF9FVkFaQzlBZm0xZEE1bnJaTVI1QUd2RWtJSmZ4VTRKMnR2amtVMkV3SnRfc0ZDZTJHYlFwMzhzWTlIRUduSjhKVjdQUF9naUotVjlHVVE?oc=5",
+      "provider": "Volcano Discovery",
+      "publishedAt": "2026-11-22T21:26:59.000Z",
+      "recordedAt": null,
+      "topic": "volcano eruption USGS",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVERRYy16N0c3Xzcxa294Wmp1eFZjWFBZdG1YdTB3X3pQX0ZGdUx5OExXMVhTNF9xcThjUG0wN1c2MVM2bkdSSmF0eE1va191a0pBazNOQW8zOXVldkZlMXg4UWVicDBDSVZGVlkxNHNjTG5PN0xBdDV2cUJEQ2kyaUptMHg4RzBjNHRyYkt5YUVwZDVZWlI4Zkg0enlkd192NTlxSHZxNzc4bFRSU1dybFNkYVhvNDFLVFFtMkJya3VDdjNmc3J0bFJFLWxVbkxUX0d0Sm9CWTdhcVJNNTYwWjkzTUd6UTY3b2gyQ3ZFWi1WTEJUMExN?oc=5",
+      "title": "Volcanic activity worldwide 22 Nov 2026: Santiaguito volcano, Fuego, Popocatépetl, Semeru, Karanget... - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVERRYy16N0c3Xzcxa294Wmp1eFZjWFBZdG1YdTB3X3pQX0ZGdUx5OExXMVhTNF9xcThjUG0wN1c2MVM2bkdSSmF0eE1va191a0pBazNOQW8zOXVldkZlMXg4UWVicDBDSVZGVlkxNHNjTG5PN0xBdDV2cUJEQ2kyaUptMHg4RzBjNHRyYkt5YUVwZDVZWlI4Zkg0enlkd192NTlxSHZxNzc4bFRSU1dybFNkYVhvNDFLVFFtMkJya3VDdjNmc3J0bFJFLWxVbkxUX0d0Sm9CWTdhcVJNNTYwWjkzTUd6UTY3b2gyQ3ZFWi1WTEJUMExN?oc=5",
+      "provider": "Volcano Discovery",
+      "publishedAt": "2026-11-22T21:04:46.000Z",
+      "recordedAt": null,
+      "topic": "volcano eruption USGS",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUnA5M1ZXU09OU3JPZm9PTXNlNnlndTEtR3dnOFlNTUlzTnFXbkFkSEliVUU1czlzcnF2ZkxrT0VOY1BQa3FQUHhEaEJBcW1sQzM3YTVqSmhVTzk2ZmFfaVNnQkUyS2xScHRobTJLOXF2ZG9MWnRobEFSTFo2ekFpYnp1RjBZRzM3R0hmb010SW5uYjlxUFZrN2xHZm1udDZvTkQ1dUxNOG1fTmRDY3pKQjRVZW9PRXptQlNfclF5Y09xWFFXbzhWSGR1dmItbVdfN0YxOWYyeDFWYU5rMVc2WTJ6TFVVNjU4V0dEVnZ0M3dLZzlheXlZ?oc=5",
+      "title": "Volcanic activity worldwide 22 Nov 2026: Santiaguito volcano, Fuego, Popocatépetl, Semeru, Karanget... - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUnA5M1ZXU09OU3JPZm9PTXNlNnlndTEtR3dnOFlNTUlzTnFXbkFkSEliVUU1czlzcnF2ZkxrT0VOY1BQa3FQUHhEaEJBcW1sQzM3YTVqSmhVTzk2ZmFfaVNnQkUyS2xScHRobTJLOXF2ZG9MWnRobEFSTFo2ekFpYnp1RjBZRzM3R0hmb010SW5uYjlxUFZrN2xHZm1udDZvTkQ1dUxNOG1fTmRDY3pKQjRVZW9PRXptQlNfclF5Y09xWFFXbzhWSGR1dmItbVdfN0YxOWYyeDFWYU5rMVc2WTJ6TFVVNjU4V0dEVnZ0M3dLZzlheXlZ?oc=5",
+      "provider": "Volcano Discovery",
+      "publishedAt": "2026-11-22T21:00:30.000Z",
+      "recordedAt": null,
+      "topic": "volcano eruption USGS",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVZHV1ltWXRUMFBvVGo0bF9YWWZhSWJFQzNQYTFDRzl5Z1ltZmg2elhPVUZPdjVTUFZyTEY5cHFMcmlTa3pEZDBRblZYNjJFbU9zb2NWc01qb0ZPVkRSdWNXT01jUzZYdUhxQkRodDZxeGlwY0cyclpiZkxsWE1senpuUEZORXFBZ0RQSlVEcmZUcVpwR040SF9zMHB2YjA?oc=5",
+      "title": "Thanksgiving travel forecast 2026: storms on both coasts - The Weather Channel",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVZHV1ltWXRUMFBvVGo0bF9YWWZhSWJFQzNQYTFDRzl5Z1ltZmg2elhPVUZPdjVTUFZyTEY5cHFMcmlTa3pEZDBRblZYNjJFbU9zb2NWc01qb0ZPVkRSdWNXT01jUzZYdUhxQkRodDZxeGlwY0cyclpiZkxsWE1senpuUEZORXFBZ0RQSlVEcmZUcVpwR040SF9zMHB2YjA?oc=5",
+      "provider": "The Weather Channel",
+      "publishedAt": "2026-11-22T20:03:00.000Z",
+      "recordedAt": null,
+      "topic": "US weather storm forecast",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFFjeE1iNTd3YWhTQ0phTzV2RWM5NmJVS1JHYUQ4Vm9IclZQNUhxR3ZPOV9FZ3A0QXZ0Szl2QzFSRDhwYkhXcXRFZXB2TFZKOXN1VVVUVXNxZzh5YVdna1BaTE5JLTE5Y05EbHhUbXB0Qmg4ZEt6T1ZqQ3BJb0Q0OHVXTF9Zemt4VUxlYktYdDRfc1g0VDljdnFkZlpzV2FpaWFTS1E3NA?oc=5",
+      "title": "New forecast shows how El Niño will shape winter weather in US - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFFjeE1iNTd3YWhTQ0phTzV2RWM5NmJVS1JHYUQ4Vm9IclZQNUhxR3ZPOV9FZ3A0QXZ0Szl2QzFSRDhwYkhXcXRFZXB2TFZKOXN1VVVUVXNxZzh5YVdna1BaTE5JLTE5Y05EbHhUbXB0Qmg4ZEt6T1ZqQ3BJb0Q0OHVXTF9Zemt4VUxlYktYdDRfc1g0VDljdnFkZlpzV2FpaWFTS1E3NA?oc=5",
+      "provider": "USA Today",
+      "publishedAt": "2026-11-22T20:01:00.000Z",
+      "recordedAt": null,
+      "topic": "US weather storm forecast",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFlFN205NVo5U0lfYVRiaHBNUWFWRFFaSzRjNVJOSnJhR0lfX2RIdHpYVWN0d3pDaVF5c3RUOHh3S0VOaG1qbmhZcnVxaXkzLW1ISGRQLUl5dkp5UmFMWnBERHo2X2VrYVI5d1BkMFRybVEtcWlkSjQ1b3BTQkpERkVfc1lOcUtYNU5CN3pXdzBmUUVPMVFUSQ?oc=5",
+      "title": "East Coast storm could soak millions this weekend - The Weather Channel",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFlFN205NVo5U0lfYVRiaHBNUWFWRFFaSzRjNVJOSnJhR0lfX2RIdHpYVWN0d3pDaVF5c3RUOHh3S0VOaG1qbmhZcnVxaXkzLW1ISGRQLUl5dkp5UmFMWnBERHo2X2VrYVI5d1BkMFRybVEtcWlkSjQ1b3BTQkpERkVfc1lOcUtYNU5CN3pXdzBmUUVPMVFUSQ?oc=5",
+      "provider": "The Weather Channel",
+      "publishedAt": "2026-11-22T19:52:00.000Z",
+      "recordedAt": null,
+      "topic": "US weather storm forecast",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTFLYWFlUS1IT2dxWVdoRUx2VmNjQnl3eFJJTEpWbWtCYWNEZ2EtbGkzbDZ2Vi1RYVZnVDhnLVJSbWo2SzFidThLdjlxV1FTQ0R3MDFOeGx4cUVrNUZfXzAybEY2RTlGbVoyRFdaMGhlMmY2bmQyNjNCam4wVEtnNzlKZ1laV3Q4RWc?oc=5",
+      "title": "Special weather statement is in effect - rainfall - Waterfront Media HFX",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTFLYWFlUS1IT2dxWVdoRUx2VmNjQnl3eFJJTEpWbWtCYWNEZ2EtbGkzbDZ2Vi1RYVZnVDhnLVJSbWo2SzFidThLdjlxV1FTQ0R3MDFOeGx4cUVrNUZfXzAybEY2RTlGbVoyRFdaMGhlMmY2bmQyNjNCam4wVEtnNzlKZ1laV3Q4RWc?oc=5",
+      "provider": "Waterfront Media HFX",
+      "publishedAt": "2026-11-22T19:51:00.000Z",
+      "recordedAt": null,
+      "topic": "Canada severe weather",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNcEFWdHp5eU5DVDBtbEtwYU9CLUphcVdQN2dRX0xhNmZ5M3cta1lZbmJTUnotR0VlTkMwOFkyTlEzOVIteTgyX3MxZDlVTlBrcF82UmlMRUdrMkNsQnhZVUMwd09VMTZfRWRkX3hxNTd5MFRfN0tMeHNKUzl6WmE4d0JON043dndrR3FtQ192SFJFOGhBUlZBWjFUajM5d1J1cmg4ZWpjUVplTXdzR1ZDem5lY29RaktfTFdaMzlfaF81cm5XQl90eUpNUHIzal93dlRJMTNyVk8tN0p1YU5PU2Q1OVhTMkE5ckZxYW1WakVNMkYzZENkUnpScGZtWmg2WHZKSUtPdmllekVQa1FmdU44NUJpcXc0NmpR?oc=5",
+      "title": "The polar vortex was knocked off the North Pole in a rare November disruption. Here's what NOAA says it means for December weather. - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNcEFWdHp5eU5DVDBtbEtwYU9CLUphcVdQN2dRX0xhNmZ5M3cta1lZbmJTUnotR0VlTkMwOFkyTlEzOVIteTgyX3MxZDlVTlBrcF82UmlMRUdrMkNsQnhZVUMwd09VMTZfRWRkX3hxNTd5MFRfN0tMeHNKUzl6WmE4d0JON043dndrR3FtQ192SFJFOGhBUlZBWjFUajM5d1J1cmg4ZWpjUVplTXdzR1ZDem5lY29RaktfTFdaMzlfaF81cm5XQl90eUpNUHIzal93dlRJMTNyVk8tN0p1YU5PU2Q1OVhTMkE5ckZxYW1WakVNMkYzZENkUnpScGZtWmg2WHZKSUtPdmllekVQa1FmdU44NUJpcXc0NmpR?oc=5",
+      "provider": "Yahoo",
+      "publishedAt": "2026-11-22T19:49:50.000Z",
+      "recordedAt": null,
+      "topic": "polar vortex winter North America",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEdDQ3IwdzhJcUFpUUJwU3huQW5GbjdTTmVNZDd2RWJuaUp5M2p5dFlMMVB5d3p5RjNpdkR6cVBFT2lyQmNMLUJFVnM0VW5YWjdMMVZmYzF4REVxQ2ZnV05BYzRTb3ZJR3BQU0dpR0ZlQ0l1aTdwaEgyVjdKeW5IOTZXNGVCRngyQWJkc0lHd1lqZV8xMHk0ZkR3SQ?oc=5",
+      "title": "Weekly weather: Thunderstorms across northern and eastern Australia - The Bureau of Meteorology",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEdDQ3IwdzhJcUFpUUJwU3huQW5GbjdTTmVNZDd2RWJuaUp5M2p5dFlMMVB5d3p5RjNpdkR6cVBFT2lyQmNMLUJFVnM0VW5YWjdMMVZmYzF4REVxQ2ZnV05BYzRTb3ZJR3BQU0dpR0ZlQ0l1aTdwaEgyVjdKeW5IOTZXNGVCRngyQWJkc0lHd1lqZV8xMHk0ZkR3SQ?oc=5",
+      "provider": "The Bureau of Meteorology",
+      "publishedAt": "2026-11-22T19:32:47.000Z",
+      "recordedAt": null,
+      "topic": "Australia severe weather",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUEJnajhaQVdtdV9JMUJ1ZjhLeVRNNExCZjBveXdSY3pKYzdqQW9BdDZSc1FkYWVPNUdUOU1yNHNFMkxQLXlxMWo2VWo0VGdzMUFIbmtJaTVJb2ZHWGxuOHB4dzRHZGtaQjZUSEFhajBuNUtZRFF4WW5DNG9abk10bS1rc0pSQktUM0FtNzExeVgwQ056RG9LY2RMYw?oc=5",
+      "title": "Thanksgiving Travel Disruptions Loom Amid Storm Forecasts - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUEJnajhaQVdtdV9JMUJ1ZjhLeVRNNExCZjBveXdSY3pKYzdqQW9BdDZSc1FkYWVPNUdUOU1yNHNFMkxQLXlxMWo2VWo0VGdzMUFIbmtJaTVJb2ZHWGxuOHB4dzRHZGtaQjZUSEFhajBuNUtZRFF4WW5DNG9abk10bS1rc0pSQktUM0FtNzExeVgwQ056RG9LY2RMYw?oc=5",
+      "provider": "Newsweek",
+      "publishedAt": "2026-11-22T19:10:00.000Z",
+      "recordedAt": null,
+      "topic": "US weather storm forecast",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW5HT0c4RV9MMFFUM0MzbEZqT0MzdV9ScTMxbTRBanNaajRpblNtUmlJNkxDS05leFRCUWs2RzhMTUliTUVKYzdxczlhM1kyRXhpREJhSVk0aFJ0VmRYdnJmRlNjZVJ3U3l0bFh5a0dULTNmX1pfNTJIdjVUN2ZqYlgwX0RmTDZzSWp2SW5Rc3RXNmJ0cExtbVNsNEg2X3M1WDFkcHQ4R2hYaW1OOFhmNV9xUWVGQW85NXBtV2RtOXBYLXc?oc=5",
+      "title": "Thanksgiving storm could snarl travel, upend plans in East, Central US - AccuWeather",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW5HT0c4RV9MMFFUM0MzbEZqT0MzdV9ScTMxbTRBanNaajRpblNtUmlJNkxDS05leFRCUWs2RzhMTUliTUVKYzdxczlhM1kyRXhpREJhSVk0aFJ0VmRYdnJmRlNjZVJ3U3l0bFh5a0dULTNmX1pfNTJIdjVUN2ZqYlgwX0RmTDZzSWp2SW5Rc3RXNmJ0cExtbVNsNEg2X3M1WDFkcHQ4R2hYaW1OOFhmNV9xUWVGQW85NXBtV2RtOXBYLXc?oc=5",
+      "provider": "AccuWeather",
+      "publishedAt": "2026-11-22T19:05:00.000Z",
+      "recordedAt": null,
+      "topic": "US weather storm forecast",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQT25qMWhBWFc5S1VVcUdSSnZaR2d0aVc0Z3RPZ3NMRHhlM3g0Uk1SVVBDUjBpQWs0ejlWN3NhNGh5QUNxUXI2cnF0UU1TNW1ncWZGV0htd0trMnNVQy1semVLRS1NUHJyWWFYMEYwTW9BWUlqZjQ1OUctRW9pY1NObGN0NnFqdkhjYVA3bWtHSWQ4cVBGSHBmX1FUZTd6Q21INjJPSEt4Z2s3UHNCQmZLNFFHTHpTVVFfM1kyNkVpSkJfa0lGT3g5V3R4a2Q0YUtlRFRnd2p0NVlUVk94RHZlTHl4T1oyc1gxVEpvSFg4d1c0dU1JbWNSTWhtODFrdjFyNGdmNHdfSQ?oc=5",
+      "title": "Thanksgiving travel forecast: Storms on both coasts could snarl the busiest travel days, including Thanksgiving Day - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQT25qMWhBWFc5S1VVcUdSSnZaR2d0aVc0Z3RPZ3NMRHhlM3g0Uk1SVVBDUjBpQWs0ejlWN3NhNGh5QUNxUXI2cnF0UU1TNW1ncWZGV0htd0trMnNVQy1semVLRS1NUHJyWWFYMEYwTW9BWUlqZjQ1OUctRW9pY1NObGN0NnFqdkhjYVA3bWtHSWQ4cVBGSHBmX1FUZTd6Q21INjJPSEt4Z2s3UHNCQmZLNFFHTHpTVVFfM1kyNkVpSkJfa0lGT3g5V3R4a2Q0YUtlRFRnd2p0NVlUVk94RHZlTHl4T1oyc1gxVEpvSFg4d1c0dU1JbWNSTWhtODFrdjFyNGdmNHdfSQ?oc=5",
+      "provider": "Yahoo",
+      "publishedAt": "2026-11-22T17:48:16.000Z",
+      "recordedAt": null,
+      "topic": "US weather storm forecast",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0pCRWVQMGgxQmloMkNGcDJNZ1owUDJvYVlSZXlzZXFha29jTzRaX1hmS3ZiRDBRZTNJb2Q2T0pNVzNKdmJoTXJkaE9PSmxQbWdGX0pRNGJMNEs3NnFFbktibDVyWmRYbnNzVjIweV9FRXRiR0N4OFhzYUFWbk8wWmdQbFREOTlqQnBrUnBTbUluUFlBZE11dUlBSjJrYTllbTQ0RXpvRy1RQQ?oc=5",
+      "title": "Southern Water invests £11m to tackle groundwater flooding in Hampshire - Hampshire Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0pCRWVQMGgxQmloMkNGcDJNZ1owUDJvYVlSZXlzZXFha29jTzRaX1hmS3ZiRDBRZTNJb2Q2T0pNVzNKdmJoTXJkaE9PSmxQbWdGX0pRNGJMNEs3NnFFbktibDVyWmRYbnNzVjIweV9FRXRiR0N4OFhzYUFWbk8wWmdQbFREOTlqQnBrUnBTbUluUFlBZE11dUlBSjJrYTllbTQ0RXpvRy1RQQ?oc=5",
+      "provider": "Hampshire Chronicle",
+      "publishedAt": "2026-11-22T17:00:00.000Z",
+      "recordedAt": null,
+      "topic": "UK flooding storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazZOS3dGX3RvZUh3czcxNEZCY1c4cUJwLUR4VU5xaEZlWHdWbEFLS1ZTaFZZR2lsbFZTRUg2LVdjQ0Q5NFNwX0FrR3FmbGtuZE04VmlxX1pvN0xlejROSm1TVDBnTGdXYzZiUm5FdW5nN3NuWnRRaWFfYWxZM0RUdEwxanVTQ19nd0h0eUZBX0JTYmI5U2wzMWdyc1E3S19lOHZJTW1EV3h6T1M3SDVQLW9GNHNvdlMxcVRhcU1pb3I3Z2RlMXlRNA?oc=5",
       "title": "Further thunderstorm, lightning and flash flooding risk for parts of the UK - Netweather",
@@ -88,18 +268,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTENXc2NPTTFabFFfamwtXzBKVjRXSzJ3ZEZwcTJXeTR4X1pZa3NQUnZPdzdOWUZkYWtlYzIzMkdsR0FmYWViR0piblRUTWtVTEdlTjJMZXN5b0g1NmFQbmhBTnFuaGZRWUJmel9VWC12M1hLNEFnM3d0eGJ6OXc?oc=5",
-      "title": "Sun news: The man who guessed what makes the sun shine - EarthSky",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTENXc2NPTTFabFFfamwtXzBKVjRXSzJ3ZEZwcTJXeTR4X1pZa3NQUnZPdzdOWUZkYWtlYzIzMkdsR0FmYWViR0piblRUTWtVTEdlTjJMZXN5b0g1NmFQbmhBTnFuaGZRWUJmel9VWC12M1hLNEFnM3d0eGJ6OXc?oc=5",
-      "provider": "EarthSky",
-      "publishedAt": "2026-11-22T15:01:37.000Z",
-      "recordedAt": null,
-      "topic": "NASA earth science weather",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3ZYVkc1ZnJoLWE5eFREY3gyLWYyYXZyVnNrVk1MQTZPeEdGM3FXWkdRR0xQZWRyU3VORWZ5ZkFBOXE4ajZNYnZneVRZR2ZMb1lNb1RaS25tTUtLUGVrdHlmMFF5dGpfcFVRUzBYUWg5WmtWcEF5a0lpZFFDQUliTHYxYVN6SDkyYUd0ek1pR1dlRGpDcEE?oc=5",
       "title": "Cut Knife storm chaser, inventor wins national safety award - 650 CKOM",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3ZYVkc1ZnJoLWE5eFREY3gyLWYyYXZyVnNrVk1MQTZPeEdGM3FXWkdRR0xQZWRyU3VORWZ5ZkFBOXE4ajZNYnZneVRZR2ZMb1lNb1RaS25tTUtLUGVrdHlmMFF5dGpfcFVRUzBYUWg5WmtWcEF5a0lpZFFDQUliTHYxYVN6SDkyYUd0ek1pR1dlRGpDcEE?oc=5",
@@ -124,6 +292,18 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOMmRDcDNSaXJlVEFLQUYtUVpYLTNpaWJvcjZuSTFPeUVIODB6Q1d0cnZxcEJGYnVYZTVpV3hOQlNOeXJmOW1iWEg2MGl3a1FVNkdtVVpFcFp1LTNKNjhZSUpfbTZneEp6LXNrbWhtemRkN1hESWl4RTE0S3h4NmpDNURRek9GQVA1WWE4U3FWMlR0RE5FWFRhS1g5ZllfUEFyRVlyWlk3N2N6VWJ0M3dwaDFIdWtleS1HR0dMZGNyem05RVpqeVlhdzBoTkdzb1UwS25ETnNDbTRWUkpDd25jQjhNSVpsYXdUR2p3bXpQTmx3TWFlczdnVUFmRnE5X2gxV25fZWNxRGVBdm5mS3hrLWhnVmRYdG5VT3FqX0o2azE0ODZ2QkxJd3FzQVJkUWJmVU9RQk9IUmpFX3BCVkZhYlg5UUNPWWYzVF9UVHZ3RQ?oc=5",
+      "title": "Novarupta in Alaska erupted about 3 cubic miles of magma in roughly 60 hours from 6 June 1912, 30 times Mount St. Helens in 1980, and strong northwesterly winds lifted that same loose ash on 16 November 2026, prompting an NWS SIGMET. - The Watchers - Watching the world evolve and transform",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOMmRDcDNSaXJlVEFLQUYtUVpYLTNpaWJvcjZuSTFPeUVIODB6Q1d0cnZxcEJGYnVYZTVpV3hOQlNOeXJmOW1iWEg2MGl3a1FVNkdtVVpFcFp1LTNKNjhZSUpfbTZneEp6LXNrbWhtemRkN1hESWl4RTE0S3h4NmpDNURRek9GQVA1WWE4U3FWMlR0RE5FWFRhS1g5ZllfUEFyRVlyWlk3N2N6VWJ0M3dwaDFIdWtleS1HR0dMZGNyem05RVpqeVlhdzBoTkdzb1UwS25ETnNDbTRWUkpDd25jQjhNSVpsYXdUR2p3bXpQTmx3TWFlczdnVUFmRnE5X2gxV25fZWNxRGVBdm5mS3hrLWhnVmRYdG5VT3FqX0o2azE0ODZ2QkxJd3FzQVJkUWJmVU9RQk9IUmpFX3BCVkZhYlg5UUNPWWYzVF9UVHZ3RQ?oc=5",
+      "provider": "The Watchers - Watching the world evolve and transform",
+      "publishedAt": "2026-11-22T14:43:53.000Z",
+      "recordedAt": null,
+      "topic": "NASA earth science weather",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaE5qTjNubERTdHVBSWNjc0JST3doQy1iMDVsOUc5c2NXYWdCaFdlWldEZl9xVWJpcUs1VGYyajQwN1ViVTNMU1NrME9pNFVVMUVlel91enBUbXRXTGg1dEt5a2FFelJBSldRMTg1TW9HVjB1SnZsVDdMZTNFY2RCaXpkdVFnX2hTd3FZ?oc=5",
       "title": "Magnitude 5.6 earthquake rattles Northern California: Some injuries reported, thousands lose power - KCRA",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaE5qTjNubERTdHVBSWNjc0JST3doQy1iMDVsOUc5c2NXYWdCaFdlWldEZl9xVWJpcUs1VGYyajQwN1ViVTNMU1NrME9pNFVVMUVlel91enBUbXRXTGg1dEt5a2FFelJBSldRMTg1TW9HVjB1SnZsVDdMZTNFY2RCaXpkdVFnX2hTd3FZ?oc=5",
@@ -136,11 +316,23 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVG5jcmVwVTl2Ym5UWmRPTmpscVRaVmg2ZG1aem1DcmtxUlBiVmZ0TUw3WFU4d0J2QXl6VXBkQWViWm1MZjRzOTQyRjhLd3R0QlRVMWZxUmxNTXBLWnM2V05QVjFVTzg5THlPbDZ1amFIenVkZFY5bExhN0tpQnkybVpWa3JQRXZkaDljSmRrNm9JZGpSRDZtVWMySVAxZVprV2NIeU04LXVlTGlja2x0RDl1Z1d1WGVHZ2dVeA?oc=5",
+      "title": "East Coast storm forecast: rain, wind, storms for Northeast - The Weather Channel",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVG5jcmVwVTl2Ym5UWmRPTmpscVRaVmg2ZG1aem1DcmtxUlBiVmZ0TUw3WFU4d0J2QXl6VXBkQWViWm1MZjRzOTQyRjhLd3R0QlRVMWZxUmxNTXBLWnM2V05QVjFVTzg5THlPbDZ1amFIenVkZFY5bExhN0tpQnkybVpWa3JQRXZkaDljSmRrNm9JZGpSRDZtVWMySVAxZVprV2NIeU04LXVlTGlja2x0RDl1Z1d1WGVHZ2dVeA?oc=5",
+      "provider": "The Weather Channel",
+      "publishedAt": "2026-11-22T12:58:41.000Z",
+      "recordedAt": null,
+      "topic": "UK flooding storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGx6U3NUaldCWTNaLUZySERTWG5sRmVhYWg5WTBxTnhrelZSY3NsaEpSTU9maXFoTHJsNHdycFItdWsydkQtb1N3SDdrcFNIbkRaTXVvSFNTZTNKcFdUdkN3ejloT2taSDB6REhVa2V1U0JoRXBUaXRpTmxWeUY1TG84MDRGQmVKT2hMZHJEcklMTkpLdUs2T2l6c0U5bzhoVFU0N1hDRkg0VmM?oc=5",
       "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGx6U3NUaldCWTNaLUZySERTWG5sRmVhYWg5WTBxTnhrelZSY3NsaEpSTU9maXFoTHJsNHdycFItdWsydkQtb1N3SDdrcFNIbkRaTXVvSFNTZTNKcFdUdkN3ejloT2taSDB6REhVa2V1U0JoRXBUaXRpTmxWeUY1TG84MDRGQmVKT2hMZHJEcklMTkpLdUs2T2l6c0U5bzhoVFU0N1hDRkg0VmM?oc=5",
       "provider": "The New York Times",
-      "publishedAt": "2026-11-22T12:29:33.000Z",
+      "publishedAt": "2026-11-22T12:29:34.000Z",
       "recordedAt": null,
       "topic": "Canada severe weather",
       "image": null,
@@ -153,18 +345,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Qd2I4SVB3QzdEQ2ZKR1FDU1ZTa21XSDc1a3JhTkFjamRDRDRoUWYtTDdub3VCM3lNcndBQm1qNFY1UXRfQ3VwYjU1YTJKX1QyQTRfYmhvSktkZkc2bk16RGlFbW11ZVFmSTl6NXYxa0RKeFJtWEF2eEFn?oc=5",
       "provider": "Beinsure",
       "publishedAt": "2026-11-22T12:28:36.000Z",
-      "recordedAt": null,
-      "topic": "US weather storm forecast",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUy03WXFTemJhY2d1c3ZjczJ5YXdJOFU5bzdhVjE1ZGNsUG8xb2VjQ19HZHZESTdBY183WkVJMW1vU05tNlpfWGhVRndabUEya1lSRWlmOTlRMjJ6eHJaaDlRRkdOUnZSVEl3TG01UVpscXM3bE9yNmdvVklzS3N0aTE0RkFwVERBSHM0d0ZEYkxKR3NIOWpXaE1hcHEwaWp6VUI5R24yVVdyMkhmSWVwb0x1OHVtVHlEdzc3OXBEWUFVMWdrVHp6UkFudVU?oc=5",
-      "title": "Capital Weather Live Updates - Capital Weather",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUy03WXFTemJhY2d1c3ZjczJ5YXdJOFU5bzdhVjE1ZGNsUG8xb2VjQ19HZHZESTdBY183WkVJMW1vU05tNlpfWGhVRndabUEya1lSRWlmOTlRMjJ6eHJaaDlRRkdOUnZSVEl3TG01UVpscXM3bE9yNmdvVklzS3N0aTE0RkFwVERBSHM0d0ZEYkxKR3NIOWpXaE1hcHEwaWp6VUI5R24yVVdyMkhmSWVwb0x1OHVtVHlEdzc3OXBEWUFVMWdrVHp6UkFudVU?oc=5",
-      "provider": "Capital Weather",
-      "publishedAt": "2026-11-22T12:01:58.000Z",
       "recordedAt": null,
       "topic": "US weather storm forecast",
       "image": null,
@@ -196,13 +376,13 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFlFN205NVo5U0lfYVRiaHBNUWFWRFFaSzRjNVJOSnJhR0lfX2RIdHpYVWN0d3pDaVF5c3RUOHh3S0VOaG1qbmhZcnVxaXkzLW1ISGRQLUl5dkp5UmFMWnBERHo2X2VrYVI5d1BkMFRybVEtcWlkSjQ1b3BTQkpERkVfc1lOcUtYNU5CN3pXdzBmUUVPMVFUSQ?oc=5",
-      "title": "East Coast storm could soak millions this weekend - The Weather Channel",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFlFN205NVo5U0lfYVRiaHBNUWFWRFFaSzRjNVJOSnJhR0lfX2RIdHpYVWN0d3pDaVF5c3RUOHh3S0VOaG1qbmhZcnVxaXkzLW1ISGRQLUl5dkp5UmFMWnBERHo2X2VrYVI5d1BkMFRybVEtcWlkSjQ1b3BTQkpERkVfc1lOcUtYNU5CN3pXdzBmUUVPMVFUSQ?oc=5",
-      "provider": "The Weather Channel",
-      "publishedAt": "2026-11-22T10:59:00.000Z",
+      "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUstc016cm43aUpJT1Z3THZuTmhIQXROVFhjTlBqZ3Q5ekMwOHVZM1pBSWVKZERtalY2RjVnbGxFNVV1TlhxZ3NtYUkwMlc4RUQ2QnEzNDZkemQ0c1NIQkxZeDFrMGF3UEdwcWNwYnVkenJ0Ull6YTFqV3pnT1MyOVFDRG5iZ0E4RjZiVzRGWXZIN2t6czRHem43NzQ4b3VwSnfSAacBQVVfeXFMTnhjeWhoUUZsOHktRUFjMlJ5Zmo1ZExHaDM3NEMwZUY4elQ4eEwzclhwc2dyMjhFZGVzcTZnUFBGQlhjNmZOY3lVQ2NkY3RnNGdiNndCMmR5bGI2Yi1ma1RYVTBIbnhtRW1BQmplWmkyZHhGZ1BVYUVneWNhYXVYSlkxcDM4VGFlWkdYVDA0MmktdGJOVjZNRzM3NXNWZ3dxNFRhcXNELXM?oc=5",
+      "title": "Some California beaches forced to close after 'unusually high' ocean water levels from Tropical Storm Rachel - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUstc016cm43aUpJT1Z3THZuTmhIQXROVFhjTlBqZ3Q5ekMwOHVZM1pBSWVKZERtalY2RjVnbGxFNVV1TlhxZ3NtYUkwMlc4RUQ2QnEzNDZkemQ0c1NIQkxZeDFrMGF3UEdwcWNwYnVkenJ0Ull6YTFqV3pnT1MyOVFDRG5iZ0E4RjZiVzRGWXZIN2t6czRHem43NzQ4b3VwSnfSAacBQVVfeXFMTnhjeWhoUUZsOHktRUFjMlJ5Zmo1ZExHaDM3NEMwZUY4elQ4eEwzclhwc2dyMjhFZGVzcTZnUFBGQlhjNmZOY3lVQ2NkY3RnNGdiNndCMmR5bGI2Yi1ma1RYVTBIbnhtRW1BQmplWmkyZHhGZ1BVYUVneWNhYXVYSlkxcDM4VGFlWkdYVDA0MmktdGJOVjZNRzM3NXNWZ3dxNFRhcXNELXM?oc=5",
+      "provider": "ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-11-22T11:00:14.000Z",
       "recordedAt": null,
-      "topic": "US weather storm forecast",
+      "topic": "California coastal waves storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -256,6 +436,18 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRm81RGVCRHYzMV9qQzRnRXMyNS1Ma19SQ0RDcnVSNE1nWVpfUjZhTUpJRE9FdmZLNjRsUWswem5TdmJHZlMtcUl5M0tFd1JQVk16YnNQaXdJQ2pGOGtqWDFSTU5JY2t4V1pQMEZmcGlrelFzYVA5dHdiZ3RHQ1FCd3dWbGsteTdTYzBCcDU5aU9SLU9za0ZPcEtuNkItVllQR3BKOQ?oc=5",
+      "title": "Look up! The Full Beaver Supermoon shines Monday night - The Weather Network",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRm81RGVCRHYzMV9qQzRnRXMyNS1Ma19SQ0RDcnVSNE1nWVpfUjZhTUpJRE9FdmZLNjRsUWswem5TdmJHZlMtcUl5M0tFd1JQVk16YnNQaXdJQ2pGOGtqWDFSTU5JY2t4V1pQMEZmcGlrelFzYVA5dHdiZ3RHQ1FCd3dWbGsteTdTYzBCcDU5aU9SLU9za0ZPcEtuNkItVllQR3BKOQ?oc=5",
+      "provider": "The Weather Network",
+      "publishedAt": "2026-11-22T06:00:00.000Z",
+      "recordedAt": null,
+      "topic": "NASA earth science weather",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVXEyTEtjX3h1QjFPd0lpdDRSdXByeFNrV0FPWmtJZ2xJYVBQc0V0T1dBMXFlNDVDVDNXMGtWSUFJenVLOGRaWlVNV29VREZCNEFMMkw2eFpBcEZyS25keUltdFlfUm8?oc=5",
       "title": "Pacific Storm Watch - Substack",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVXEyTEtjX3h1QjFPd0lpdDRSdXByeFNrV0FPWmtJZ2xJYVBQc0V0T1dBMXFlNDVDVDNXMGtWSUFJenVLOGRaWlVNV29VREZCNEFMMkw2eFpBcEZyS25keUltdFlfUm8?oc=5",
@@ -263,18 +455,6 @@
       "publishedAt": "2026-11-22T05:15:25.000Z",
       "recordedAt": null,
       "topic": "NOAA hurricane storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9abkpETUdZY2NNQmtjX3hDdmxCTDJMMlJHMHM2ejVrZGRDN1VPX2FuSXh1RVBldGNGaEdGWDBOOTg2WENEM2hhbGktaC1KLUNGcDU5NXVuTldkWjMtR0c0Tk8xZFJZcTQ?oc=5",
-      "title": "Rinc?n de la Vieja - Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9abkpETUdZY2NNQmtjX3hDdmxCTDJMMlJHMHM2ejVrZGRDN1VPX2FuSXh1RVBldGNGaEdGWDBOOTg2WENEM2hhbGktaC1KLUNGcDU5NXVuTldkWjMtR0c0Tk8xZFJZcTQ?oc=5",
-      "provider": "Volcano Discovery",
-      "publishedAt": "2026-11-22T02:32:05.000Z",
-      "recordedAt": null,
-      "topic": "volcano eruption USGS",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -323,6 +503,30 @@
       "publishedAt": "2026-11-21T22:40:10.000Z",
       "recordedAt": null,
       "topic": "California coastal waves storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEZjemFnRXNiR3JmY3NZdHA2YUpEbTNicXZ1TGQxSlIxNTlyeGppTGl2Xy1wb3ZMbEhQWlFQUWtFRWg4WHlHdkZWbGw3QS02V0VUWkhrWThfdkF2S1hNZWdRWkp1UHdTakhJWnVoN0pOamNxckprNkswWnpVWWZMTFZyNGtPZXFOelVxRdIBkgFBVV95cUxPajJVZW9Pc1VQUWV0NWlUZTFCRXlub2l0TExlSFl0OUljeU9oVmI2QzJBeDhlTS1qN0tXS0JNbkU4bmtZeGhHMUpfLWpkb0xwcGJxSnZjTzBrLU9lMzBFMnRPZ2N5UlZuNU5wdzhlY1Jlc3Z1UlN2b1h4enJGSFo4ZThxeTNKZGcwcFJqSHdrbVl5Zw?oc=5",
+      "title": "Snow in Texas before Denver? Unusual winter weather pattern takes shape this week - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEZjemFnRXNiR3JmY3NZdHA2YUpEbTNicXZ1TGQxSlIxNTlyeGppTGl2Xy1wb3ZMbEhQWlFQUWtFRWg4WHlHdkZWbGw3QS02V0VUWkhrWThfdkF2S1hNZWdRWkp1UHdTakhJWnVoN0pOamNxckprNkswWnpVWWZMTFZyNGtPZXFOelVxRdIBkgFBVV95cUxPajJVZW9Pc1VQUWV0NWlUZTFCRXlub2l0TExlSFl0OUljeU9oVmI2QzJBeDhlTS1qN0tXS0JNbkU4bmtZeGhHMUpfLWpkb0xwcGJxSnZjTzBrLU9lMzBFMnRPZ2N5UlZuNU5wdzhlY1Jlc3Z1UlN2b1h4enJGSFo4ZThxeTNKZGcwcFJqSHdrbVl5Zw?oc=5",
+      "provider": "FOX Weather",
+      "publishedAt": "2026-11-21T21:40:00.000Z",
+      "recordedAt": null,
+      "topic": "US weather storm forecast",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTloyRUJfR3lrSllHNlMtUTJOYXNibXhkRzlSWkdLWG5oOUl1UHFvdTJPSm1SMTZyV29zVG4zQmlCbDEyWGNLR2VVVDZRbEJBTmFVN2E5ZWJ1MElvODg1dlozbkpWWUlQUTVsdGk4RXFqMFJNT0EydGZtZmt5ZGpuQkwxNm4teXVKbXBkMWdSNnMzcW0ydDdpX1dCQndIdw?oc=5",
+      "title": "Capital Weather Live Updates - Capital Weather",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTloyRUJfR3lrSllHNlMtUTJOYXNibXhkRzlSWkdLWG5oOUl1UHFvdTJPSm1SMTZyV29zVG4zQmlCbDEyWGNLR2VVVDZRbEJBTmFVN2E5ZWJ1MElvODg1dlozbkpWWUlQUTVsdGk4RXFqMFJNT0EydGZtZmt5ZGpuQkwxNm4teXVKbXBkMWdSNnMzcW0ydDdpX1dCQndIdw?oc=5",
+      "provider": "Capital Weather",
+      "publishedAt": "2026-11-21T21:34:15.000Z",
+      "recordedAt": null,
+      "topic": "US weather storm forecast",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -400,18 +604,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSDNJaGgzaF9ycEZhN0JjODE4MTZpeC1sMFFTTEpLeHVJZlRKZGhpWGtEY3VoY2JtR2JLYTBUS1JsN1NnOGw4VjhwT2JfZVFBSlZiSHBsSVUwMFpMWVkzS19tUUZFM01vT1JJTml4SG4xSzVTWm5MbjZIQlVvRlhGME10YUlqTmhLbTdrd1Vzam5EV282RkNmT0g2ZG04U1F6cExsdFZwcG8ySW9oM3psNWhPbjU?oc=5",
-      "title": "Capital Weather Live Updates - Capital Weather",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSDNJaGgzaF9ycEZhN0JjODE4MTZpeC1sMFFTTEpLeHVJZlRKZGhpWGtEY3VoY2JtR2JLYTBUS1JsN1NnOGw4VjhwT2JfZVFBSlZiSHBsSVUwMFpMWVkzS19tUUZFM01vT1JJTml4SG4xSzVTWm5MbjZIQlVvRlhGME10YUlqTmhLbTdrd1Vzam5EV282RkNmT0g2ZG04U1F6cExsdFZwcG8ySW9oM3psNWhPbjU?oc=5",
-      "provider": "Capital Weather",
-      "publishedAt": "2026-11-21T16:42:19.000Z",
-      "recordedAt": null,
-      "topic": "US weather storm forecast",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3l1WlQyTXVzOEJSYi1ySzdfYkRSdEtzZlZCQkVrMmRJVng4Z2FWYVhBeU05X01yckFUOEZWY245R2VmdV9XdU90N0NBS2JEdkxlUGtiaEN4aGJXaTM2d2NIOUg3WldldTFncUhTTWFWSDlDekI3MEdVUHlkRkZQd1p2bklxU01MVEhaU2dIdXl2ZVpuUXE3VGp6dFptVnhP0gGmAUFVX3lxTE5rcU5BNXFVRW4tLVNzeVFiaFZUTndzWW4yQS1vdEtXU3c3aDRDMFAtanVVc3JOeFNsalcta0oyX0xteFdwVGFKNzItZWpMbzNyY2N1X0FjNnRkSlhxT0Q5Q1VBVDRMMXRqR2RIU18xbWpjVGtmNWFkRGp1S1VJYWg2VXE1clBRclFwMXpXYlZ0Tk54cl9VYS1OeXVLSExkbFAtNnoyU0E?oc=5",
       "title": "Another hydrothermal explosion has occurred at Yellowstone National Park - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3l1WlQyTXVzOEJSYi1ySzdfYkRSdEtzZlZCQkVrMmRJVng4Z2FWYVhBeU05X01yckFUOEZWY245R2VmdV9XdU90N0NBS2JEdkxlUGtiaEN4aGJXaTM2d2NIOUg3WldldTFncUhTTWFWSDlDekI3MEdVUHlkRkZQd1p2bklxU01MVEhaU2dIdXl2ZVpuUXE3VGp6dFptVnhP0gGmAUFVX3lxTE5rcU5BNXFVRW4tLVNzeVFiaFZUTndzWW4yQS1vdEtXU3c3aDRDMFAtanVVc3JOeFNsalcta0oyX0xteFdwVGFKNzItZWpMbzNyY2N1X0FjNnRkSlhxT0Q5Q1VBVDRMMXRqR2RIU18xbWpjVGtmNWFkRGp1S1VJYWg2VXE1clBRclFwMXpXYlZ0Tk54cl9VYS1OeXVLSExkbFAtNnoyU0E?oc=5",
@@ -436,25 +628,13 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdlE1YUx5dUNUUnRLMER0Q280QXJ4eVYxQ3piZ3Y2eVZVZVNOX0k3QllrWHpFY0E3YWRhV0hiZFM0SUFLQmxSS09ZQmpQd29LVW8zUVV2cDF4QWNndzE2RVFfY0NLTEdKWllPeUZYdFhUeUpINENQOXlxZWZNN2hmcjRvWHh0Y0xoNDkzVklhVFB4RlVtTS1zd3ozRFRma0REX1Myc1ZOZTlUZnA0YlprbllGdmxLVTRXaDh5Yjh1ZHUtcXRReEZUQVV6bTVwZ2ZNM1ctNWxyMG9RSy1nLTVwQzhkR2hKZXNkX3F0dWd5U2lfRTNoelFBTw?oc=5",
-      "title": "Sally Ride, NASA astronaut, was awestruck by the view of Earth from space: “It looked like someone had taken a blue pencil and drawn the outline of Earth” - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdlE1YUx5dUNUUnRLMER0Q280QXJ4eVYxQ3piZ3Y2eVZVZVNOX0k3QllrWHpFY0E3YWRhV0hiZFM0SUFLQmxSS09ZQmpQd29LVW8zUVV2cDF4QWNndzE2RVFfY0NLTEdKWllPeUZYdFhUeUpINENQOXlxZWZNN2hmcjRvWHh0Y0xoNDkzVklhVFB4RlVtTS1zd3ozRFRma0REX1Myc1ZOZTlUZnA0YlprbllGdmxLVTRXaDh5Yjh1ZHUtcXRReEZUQVV6bTVwZ2ZNM1ctNWxyMG9RSy1nLTVwQzhkR2hKZXNkX3F0dWd5U2lfRTNoelFBTw?oc=5",
-      "provider": "El Cronista",
-      "publishedAt": "2026-11-21T15:12:37.000Z",
+      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlR2ZllsZ3JKQWVuVzAwZjd2R3pHLUZRS184Zmw0SzZpSEZDRnZmdXREQjh3YXZJNmJqM1JUYW52R3RQdmt2NEo3Wlc1V0JfZUtMV0w0LUxkUzZ0czVsMXc5Z1pMZkdYeGJheGhqa1BBbjA2TzRyenpETlpFNzVhUA?oc=5",
+      "title": "El Niño US Winter Climate Outlook: NOAA Sees Warmer North, Wetter South - Aktualita.co",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlR2ZllsZ3JKQWVuVzAwZjd2R3pHLUZRS184Zmw0SzZpSEZDRnZmdXREQjh3YXZJNmJqM1JUYW52R3RQdmt2NEo3Wlc1V0JfZUtMV0w0LUxkUzZ0czVsMXc5Z1pMZkdYeGJheGhqa1BBbjA2TzRyenpETlpFNzVhUA?oc=5",
+      "provider": "Aktualita.co",
+      "publishedAt": "2026-11-21T14:25:26.000Z",
       "recordedAt": null,
-      "topic": "NASA earth science weather",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ULXhTU0dkQm5ZX3l1emVOc0FLVFFsQUdYZjZZclUyRU9ZZmNBa3V1TjJob2lJT2RYWHVHVm1SMEtqZTJKdTlONjh3SVc3ek1YTDJhUUxDS0h3Z3lpbGlUcEhhMVFUVlZwdlhaSQ?oc=5",
-      "title": "El Niño Boosts Chile Snowfall and Signals a Snowy US Winter - Demokratis.co.id",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ULXhTU0dkQm5ZX3l1emVOc0FLVFFsQUdYZjZZclUyRU9ZZmNBa3V1TjJob2lJT2RYWHVHVm1SMEtqZTJKdTlONjh3SVc3ek1YTDJhUUxDS0h3Z3lpbGlUcEhhMVFUVlZwdlhaSQ?oc=5",
-      "provider": "Demokratis.co.id",
-      "publishedAt": "2026-11-21T14:29:59.000Z",
-      "recordedAt": null,
-      "topic": "California snowstorm Sierra Nevada",
+      "topic": "NOAA hurricane storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -467,18 +647,6 @@
       "publishedAt": "2026-11-21T14:07:27.000Z",
       "recordedAt": null,
       "topic": "volcano eruption USGS",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFFjeE1iNTd3YWhTQ0phTzV2RWM5NmJVS1JHYUQ4Vm9IclZQNUhxR3ZPOV9FZ3A0QXZ0Szl2QzFSRDhwYkhXcXRFZXB2TFZKOXN1VVVUVXNxZzh5YVdna1BaTE5JLTE5Y05EbHhUbXB0Qmg4ZEt6T1ZqQ3BJb0Q0OHVXTF9Zemt4VUxlYktYdDRfc1g0VDljdnFkZlpzV2FpaWFTS1E3NA?oc=5",
-      "title": "New forecast shows how El Niño will shape winter weather in US - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFFjeE1iNTd3YWhTQ0phTzV2RWM5NmJVS1JHYUQ4Vm9IclZQNUhxR3ZPOV9FZ3A0QXZ0Szl2QzFSRDhwYkhXcXRFZXB2TFZKOXN1VVVUVXNxZzh5YVdna1BaTE5JLTE5Y05EbHhUbXB0Qmg4ZEt6T1ZqQ3BJb0Q0OHVXTF9Zemt4VUxlYktYdDRfc1g0VDljdnFkZlpzV2FpaWFTS1E3NA?oc=5",
-      "provider": "USA Today",
-      "publishedAt": "2026-11-21T14:04:00.000Z",
-      "recordedAt": null,
-      "topic": "polar vortex winter North America",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -503,18 +671,6 @@
       "publishedAt": "2026-11-21T13:18:20.000Z",
       "recordedAt": null,
       "topic": "UK flooding storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2EwMlVrVm5RcGJxdzZhZnB5OXVIOHd5WkVlNGtYQkE2LU9LdGROdXRBM2p6aUZfRnhRUHVfdzRINV84Nms0djRJcmVmUTBobXQ4YWV1bkJnVm5VR0tmbE9paTYxMi03blRkdmlNNEpXSU13eDZFWFZsSEczMHhPcnZqQjd3d1JlT2xyb2Z6TGZ6eDZvcXcxNnlPOXhDSUE?oc=5",
-      "title": "Thanksgiving travel forecast 2026: storms on both coasts - The Weather Channel",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2EwMlVrVm5RcGJxdzZhZnB5OXVIOHd5WkVlNGtYQkE2LU9LdGROdXRBM2p6aUZfRnhRUHVfdzRINV84Nms0djRJcmVmUTBobXQ4YWV1bkJnVm5VR0tmbE9paTYxMi03blRkdmlNNEpXSU13eDZFWFZsSEczMHhPcnZqQjd3d1JlT2xyb2Z6TGZ6eDZvcXcxNnlPOXhDSUE?oc=5",
-      "provider": "The Weather Channel",
-      "publishedAt": "2026-11-21T12:47:00.000Z",
-      "recordedAt": null,
-      "topic": "US weather storm forecast",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -592,25 +748,25 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TZ3dra3FzMDRaTnJkVjJybDI1bk1ZMEhmTEF3QjV4RDlrdHJOVy1RZllFR3RBQTFwcUlqVV9jUHlSYUtTNm9RLTdKaWx6UFAxdlF1N3JuRElBZ0lwLUVSMFl6WU1uSlFFbU1qWVN0ZmpPZw?oc=5",
-      "title": "Magnitude 3.4 earthquake deep under Auburn felt by 1,500 people - Rolling Out",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TZ3dra3FzMDRaTnJkVjJybDI1bk1ZMEhmTEF3QjV4RDlrdHJOVy1RZllFR3RBQTFwcUlqVV9jUHlSYUtTNm9RLTdKaWx6UFAxdlF1N3JuRElBZ0lwLUVSMFl6WU1uSlFFbU1qWVN0ZmpPZw?oc=5",
-      "provider": "Rolling Out",
-      "publishedAt": "2026-11-21T10:18:35.000Z",
-      "recordedAt": null,
-      "topic": "USGS earthquake tsunami",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd0k5TVVia0VzdElBdDI4eGxSYU9hS1RTVHZRd0VQREZCSEhZQ2J3MkR3WXpDLWNLT3lNaU12VzJZZFM0akdOODBNWHlraUw4c1dZaWJRV2Qtc3hSUUsxblkzY0U1ZmFWZUNla3RsNTYwdXVaS3oyUTBqaXkxMmNrTTlUZGJLSTdwZ3JjT2tORmN5OFdaYWFybUdsQjktMlE4Y2x5TnNSM2dScWlvVl93d29FenRrTXhuY1J6UTM2OA?oc=5",
-      "title": "30-50 mm: Atlantic Canada faces windy, soggy (or even snowy) storm - The Weather Network",
+      "title": "Surge of tropical moisture set to drench Atlantic Canada - The Weather Network",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd0k5TVVia0VzdElBdDI4eGxSYU9hS1RTVHZRd0VQREZCSEhZQ2J3MkR3WXpDLWNLT3lNaU12VzJZZFM0akdOODBNWHlraUw4c1dZaWJRV2Qtc3hSUUsxblkzY0U1ZmFWZUNla3RsNTYwdXVaS3oyUTBqaXkxMmNrTTlUZGJLSTdwZ3JjT2tORmN5OFdaYWFybUdsQjktMlE4Y2x5TnNSM2dScWlvVl93d29FenRrTXhuY1J6UTM2OA?oc=5",
       "provider": "The Weather Network",
       "publishedAt": "2026-11-21T10:18:00.000Z",
       "recordedAt": null,
       "topic": "Canada severe weather",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejZEQzRNT3Z3TlJ6U0t0TnFtMDZYWDliN2VfZHprdnRoS0ZQQzZWTkZlZVZTcUdScmNKSVVIdnRXRXVsaWJtamp4bWdaSTZ0TzFCcWpvS1g1bElHdHZNaGlXTWt3eGZyTWUtRGFSNGtpbmliX3U3Tkt5Q0lRbnd1WXJ6SmJpX3JMQjBfNTF2Ni1PZkNvUGdITDhvVjNzaFJJUEt0dFpyLVJUY3VjNG5LSHVaS1hhSXNKdjhic2N3b1hxeHBJbFRtbTlR?oc=5",
+      "title": "Could Houston dip into the 30s for Thanksgiving? Here's what to know. - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejZEQzRNT3Z3TlJ6U0t0TnFtMDZYWDliN2VfZHprdnRoS0ZQQzZWTkZlZVZTcUdScmNKSVVIdnRXRXVsaWJtamp4bWdaSTZ0TzFCcWpvS1g1bElHdHZNaGlXTWt3eGZyTWUtRGFSNGtpbmliX3U3Tkt5Q0lRbnd1WXJ6SmJpX3JMQjBfNTF2Ni1PZkNvUGdITDhvVjNzaFJJUEt0dFpyLVJUY3VjNG5LSHVaS1hhSXNKdjhic2N3b1hxeHBJbFRtbTlR?oc=5",
+      "provider": "Houston Chronicle",
+      "publishedAt": "2026-11-21T10:05:32.000Z",
+      "recordedAt": null,
+      "topic": "NOAA hurricane storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -712,6 +868,18 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZngyMlppU3RDaGVGVjVSZUJrSFBVNU5hVjI3alNlYWRwVi1ZbU9Yd3dvYWlXVEFZdXJCUGtETWQ3eGVKczRrX0lXalA5NHhlUW85elNjWXVmMjV2U2RzUF9DY1JuNXJ2RG9YdUhwT3dSd0ZTSEZwaExVaVgyTjNLakF3YXFxNk1DWEVRQjJSMThFSmJOSHJwWnQxUjljQUJuUENid3F2bkU0WTJJTk1QNWtoV19fYWVHVWttMTFYTWRlcEJUWWZHNlZOTG1pR0xkUHJmRi1JZGc3LTV2TlBuNFlB0gHnAUFVX3lxTE1lLXlVeEJJT3E4RDgtSDZRWVViVTZqcFljcC13Tzk5eXc4SXp3M2NnV05wandNOTEwbFg0bXNGZnRRZEhNcUMzWFNUamx6Z05raHE5UWdBUmxSdlJLMWNqbXFPMVpTaTJLekMtdjFQOHBzT1QxMkhjN2NaZ09SQWJqNms3NWVZdl9vb2NSM29HMFRtWVBwRjJPTEtBbW5QeWJhYlBiOHVZSHJYMDdSbUZsS0hhN0M4elY5QTEwcUdSd2lXRzBuVjY0NU9fTFUweTF0WWUzYlZhMEMtdlRHSURDVUdIUWxQdw?oc=5",
+      "title": "Magnitude 6.8 earthquake strikes central Peru, tremors felt in Lima - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZngyMlppU3RDaGVGVjVSZUJrSFBVNU5hVjI3alNlYWRwVi1ZbU9Yd3dvYWlXVEFZdXJCUGtETWQ3eGVKczRrX0lXalA5NHhlUW85elNjWXVmMjV2U2RzUF9DY1JuNXJ2RG9YdUhwT3dSd0ZTSEZwaExVaVgyTjNLakF3YXFxNk1DWEVRQjJSMThFSmJOSHJwWnQxUjljQUJuUENid3F2bkU0WTJJTk1QNWtoV19fYWVHVWttMTFYTWRlcEJUWWZHNlZOTG1pR0xkUHJmRi1JZGc3LTV2TlBuNFlB0gHnAUFVX3lxTE1lLXlVeEJJT3E4RDgtSDZRWVViVTZqcFljcC13Tzk5eXc4SXp3M2NnV05wandNOTEwbFg0bXNGZnRRZEhNcUMzWFNUamx6Z05raHE5UWdBUmxSdlJLMWNqbXFPMVpTaTJLekMtdjFQOHBzT1QxMkhjN2NaZ09SQWJqNms3NWVZdl9vb2NSM29HMFRtWVBwRjJPTEtBbW5QeWJhYlBiOHVZSHJYMDdSbUZsS0hhN0M4elY5QTEwcUdSd2lXRzBuVjY0NU9fTFUweTF0WWUzYlZhMEMtdlRHSURDVUdIUWxQdw?oc=5",
+      "provider": "The Times of India",
+      "publishedAt": "2026-11-21T00:34:00.000Z",
+      "recordedAt": null,
+      "topic": "USGS earthquake tsunami",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2k5WWJMNmx3QmF0MGRPalBOQlZ0M2VoM2lVdzNCVXdTWkRWUkhwRjl0Y256bTk3Y3RDQ0RhTDBVOC1HNFd5b0hCaHVrR2x1emItVUJPazlBTVdCSHRxSjU0ODZZeDZ0Ym56YmN4UnZkYWFLZC1aWjdxcDRxVzk1dF9VZEowaXE0Mmc?oc=5",
       "title": "M6.9 earthquake strikes near Ondores, Peru - cedarnews.net",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2k5WWJMNmx3QmF0MGRPalBOQlZ0M2VoM2lVdzNCVXdTWkRWUkhwRjl0Y256bTk3Y3RDQ0RhTDBVOC1HNFd5b0hCaHVrR2x1emItVUJPazlBTVdCSHRxSjU0ODZZeDZ0Ym56YmN4UnZkYWFLZC1aWjdxcDRxVzk1dF9VZEowaXE0Mmc?oc=5",
@@ -748,11 +916,11 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2VXX1U4R2VORXhqbVNuVTUtRzJENTNsa1hCNVIzWG5wOG12bllYOXJaSHE0WTZwVE05S2lxUlFESEhsdl9ka1RkcHE0dXZmS2E3SVYwZkgxWTR4RS00WWtYNzN1RXc0MWhfek5SQUZHQUFiNUNQM1FSZ3RqTXFDSEFWWQ?oc=5",
-      "title": "'Potent' storm will hit a huge stretch of the East Coast - Rock Hill Herald",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2VXX1U4R2VORXhqbVNuVTUtRzJENTNsa1hCNVIzWG5wOG12bllYOXJaSHE0WTZwVE05S2lxUlFESEhsdl9ka1RkcHE0dXZmS2E3SVYwZkgxWTR4RS00WWtYNzN1RXc0MWhfek5SQUZHQUFiNUNQM1FSZ3RqTXFDSEFWWQ?oc=5",
-      "provider": "Rock Hill Herald",
-      "publishedAt": "2026-11-20T22:28:20.000Z",
+      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWUpLRnpWbERxTHJVVkk4WExsUXN2YkNjZFBfTHR3N2plU3hUVU1peVc0cWQ5YUM1bG9TYlZMcmNQU1pjRlZPOUhWOHl2TDBGNzEzbmJWNGVfOE1KR0xtZS1Td0lwWi1JLWN0Nkw4dHJQM2pOS2VzMGtNVkZUdTlGWW9UNzZqUQ?oc=5",
+      "title": "Weekend Weather Update : Coastal Storm Confusion - Hudson Valley Weather",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWUpLRnpWbERxTHJVVkk4WExsUXN2YkNjZFBfTHR3N2plU3hUVU1peVc0cWQ5YUM1bG9TYlZMcmNQU1pjRlZPOUhWOHl2TDBGNzEzbmJWNGVfOE1KR0xtZS1Td0lwWi1JLWN0Nkw4dHJQM2pOS2VzMGtNVkZUdTlGWW9UNzZqUQ?oc=5",
+      "provider": "Hudson Valley Weather",
+      "publishedAt": "2026-11-20T22:33:43.000Z",
       "recordedAt": null,
       "topic": "NOAA hurricane storm",
       "image": null,
@@ -796,6 +964,18 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR2pkRjdQZjYtTk5rNFlEZ2NlYUF1d01lN01XWGRhMmN5UUt2cUVBb0FySEFZWE4tNndjU3lvMHI5SFNpUTF6QUJOZzJ1VUpEZWhLY3lwZWNtUVlsR3NXcFI3YU85akRxM0NabHV5LUxPZ3RpMzVRakNNM3g4cWRlT2pRUjRXdXUzN2ZQem9NbE5uMGJ1RVdONFN5eGNSRGRhT3d3MlNvVXQ0SFBVclpZaDJVN3lIR29LbUhhZXhhdFBqamt2VUNxVXBvcWFjUXMzQkRSdFlhLWFLd0ZGalBFU3l6T2RRQmk2?oc=5",
+      "title": "A powerful El Niño continues to strengthen ahead of Thanksgiving. Here's what travelers need to know. - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR2pkRjdQZjYtTk5rNFlEZ2NlYUF1d01lN01XWGRhMmN5UUt2cUVBb0FySEFZWE4tNndjU3lvMHI5SFNpUTF6QUJOZzJ1VUpEZWhLY3lwZWNtUVlsR3NXcFI3YU85akRxM0NabHV5LUxPZ3RpMzVRakNNM3g4cWRlT2pRUjRXdXUzN2ZQem9NbE5uMGJ1RVdONFN5eGNSRGRhT3d3MlNvVXQ0SFBVclpZaDJVN3lIR29LbUhhZXhhdFBqamt2VUNxVXBvcWFjUXMzQkRSdFlhLWFLd0ZGalBFU3l6T2RRQmk2?oc=5",
+      "provider": "Yahoo",
+      "publishedAt": "2026-11-20T21:22:05.000Z",
+      "recordedAt": null,
+      "topic": "NOAA hurricane storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRmNGajRRaUJOSkxXZFVVNEJxai1SUjJ0M00wZHdSR0dLLWtwT2F1WG5RbHBNOGh3UGctSWFTOEd6eEVSMzdHSWNkQmRIODh6akttRVNSa0cxbVJfWUNKaExRTHM2bFZScUxVTUNUVkgtV19vc2laakVIUVFVNFJraDNsVXJlVDJVbU5ldjd4SGdoQkF2bmlWV2JfUmJVcmFwLU5kQjFHQmhoc1RGYmZvQ3kzemh1bkRmTnIybUNfemRPNkxvV1FESXFYNFFPOWVXT0xrTnFOMXBBNXF4SFM5Nkt4UVlSSFlpakpqZEtGeFdvS3c?oc=5",
       "title": "Volcanic activity worldwide 20 Nov 2026: Santiaguito volcano, Fuego, Semeru, Dukono, Reventador, San... - Volcano Discovery",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRmNGajRRaUJOSkxXZFVVNEJxai1SUjJ0M00wZHdSR0dLLWtwT2F1WG5RbHBNOGh3UGctSWFTOEd6eEVSMzdHSWNkQmRIODh6akttRVNSa0cxbVJfWUNKaExRTHM2bFZScUxVTUNUVkgtV19vc2laakVIUVFVNFJraDNsVXJlVDJVbU5ldjd4SGdoQkF2bmlWV2JfUmJVcmFwLU5kQjFHQmhoc1RGYmZvQ3kzemh1bkRmTnIybUNfemRPNkxvV1FESXFYNFFPOWVXT0xrTnFOMXBBNXF4SFM5Nkt4UVlSSFlpakpqZEtGeFdvS3c?oc=5",
@@ -832,13 +1012,13 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkhKTUFnNWlITnVhdmNPdEVIMnhDUG5tbHBFS0ZFcnd0RTdKaTA5N0Z5WnYwaGdxSVJKVzJ2STVLM05wSTJGRFpNTHZoNmQ2NERjTjNRWm1JYk1ONDVtTHRfLWhzWTJ6cTRpVXFoMWhqcmEzUkRzeFhkRFBQVTlVSmgtMUFGdFd2bk10aVQtRzVTRFp6SGFPMnNVVmxmZGlzSmdVZ1UtaGs?oc=5",
-      "title": "Thanksgiving travel: Whose risk of flight delays is highest? - The Weather Channel",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkhKTUFnNWlITnVhdmNPdEVIMnhDUG5tbHBFS0ZFcnd0RTdKaTA5N0Z5WnYwaGdxSVJKVzJ2STVLM05wSTJGRFpNTHZoNmQ2NERjTjNRWm1JYk1ONDVtTHRfLWhzWTJ6cTRpVXFoMWhqcmEzUkRzeFhkRFBQVTlVSmgtMUFGdFd2bk10aVQtRzVTRFp6SGFPMnNVVmxmZGlzSmdVZ1UtaGs?oc=5",
-      "provider": "The Weather Channel",
-      "publishedAt": "2026-11-20T20:00:00.000Z",
+      "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUW84TkFEOE9RSzh6Z1Voa1d6SnNxdGdFSXBYazEzMTRxZHlsRExzOEswdUs3a3B2dkZLNEJxbHRvU0cwV2lNckEzdVBXbjdlX21zSGF4UHZiSTFpQWRrU25peVgtZncxSUNlWDk5akczX0U0MHgwcENyNDdiY3QwZkRuc2dDX1FXVDRqeThzZGcxeERFak90YTAzREJ4OFVNeUgzTzk2SU9Ocm9oVU9ka3ZjY3FfN3IzcUZyVm5hMEhXMWtMRGJISUNKckNsd2N0dlNmeUd3M20tMFZrOU41QU42WmdfMUR1cjdSekx6Nk1hdFk?oc=5",
+      "title": "Waterfall of fog spilling over cliffs wins weather photo award — see it and the other finalists - Live Science",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUW84TkFEOE9RSzh6Z1Voa1d6SnNxdGdFSXBYazEzMTRxZHlsRExzOEswdUs3a3B2dkZLNEJxbHRvU0cwV2lNckEzdVBXbjdlX21zSGF4UHZiSTFpQWRrU25peVgtZncxSUNlWDk5akczX0U0MHgwcENyNDdiY3QwZkRuc2dDX1FXVDRqeThzZGcxeERFak90YTAzREJ4OFVNeUgzTzk2SU9Ocm9oVU9ka3ZjY3FfN3IzcUZyVm5hMEhXMWtMRGJISUNKckNsd2N0dlNmeUd3M20tMFZrOU41QU42WmdfMUR1cjdSekx6Nk1hdFk?oc=5",
+      "provider": "Live Science",
+      "publishedAt": "2026-11-20T20:32:11.000Z",
       "recordedAt": null,
-      "topic": "US weather storm forecast",
+      "topic": "NASA earth science weather",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -851,6 +1031,18 @@
       "publishedAt": "2026-11-20T18:48:00.000Z",
       "recordedAt": null,
       "topic": "US weather storm forecast",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0QwNWtmSVQ2MWNtLWNnaEIxTjlNMjhtSWFjUTkwamhnVXhVOEw5ZW54Y2pza1JwdUFnSWhqX3dwWHdvTGdyNkF6WGJtZEFVYjhuaXVkT1JDOXJKaEg3MHFuWXBDSnVfS0xfLWpIRXgtdHNtZzUxY0NIX2d3WTRfOU9iRU9KSWVnR250ZTh1YjLSAZYBQVVfeXFMTmNBYmNIeS1zZkNQVF9fTDJvdDhobnY2NU1mSmloM3NROWZzUlVPQVR5X2FudkhRbTlpeE1LT0Z1WjRJdXdEUFRYN2F2dUZvb2xsYXhRdy12M3I3NG5CT2FyYVBvRXJraTBYVFl6cFBfb3YtdTFZTWJDTFJYakZOVUV6Q0RZemx6bDBOMkwzNUM4ZHZnR2pR?oc=5",
+      "title": "Magnitude 3.9 earthquake strikes Commerce area, awakens residents across Southern California - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0QwNWtmSVQ2MWNtLWNnaEIxTjlNMjhtSWFjUTkwamhnVXhVOEw5ZW54Y2pza1JwdUFnSWhqX3dwWHdvTGdyNkF6WGJtZEFVYjhuaXVkT1JDOXJKaEg3MHFuWXBDSnVfS0xfLWpIRXgtdHNtZzUxY0NIX2d3WTRfOU9iRU9KSWVnR250ZTh1YjLSAZYBQVVfeXFMTmNBYmNIeS1zZkNQVF9fTDJvdDhobnY2NU1mSmloM3NROWZzUlVPQVR5X2FudkhRbTlpeE1LT0Z1WjRJdXdEUFRYN2F2dUZvb2xsYXhRdy12M3I3NG5CT2FyYVBvRXJraTBYVFl6cFBfb3YtdTFZTWJDTFJYakZOVUV6Q0RZemx6bDBOMkwzNUM4ZHZnR2pR?oc=5",
+      "provider": "ABC7 Los Angeles",
+      "publishedAt": "2026-11-20T18:04:53.000Z",
+      "recordedAt": null,
+      "topic": "USGS earthquake tsunami",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -887,18 +1079,6 @@
       "publishedAt": "2026-11-20T17:44:38.000Z",
       "recordedAt": null,
       "topic": "California snowstorm Sierra Nevada",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQemFHRVRyTEJjYncxMHVEbWFkTFNaUWV4VGpFMkRPanJJVnNSMWhrNy0zVTVVTFd5OUp2SGI4QkNsamlqMno0MmtOZUROOTAzQ1FYZ0ZQLUc3MHJ2bDBLUVIyTXRyT1dhMFB0T3pQWjN4dTFjbVRsYUpwVzBycGN3aUJXOUpFWVlfbzU1dVVEWlhvYzJrODVWYktNS0VzeURScVZkOEVhSVNBVGZUbXR2aXBGM1M4UEYzOVVTNUw2a1RDX3lUMlh2aHV4d0pqUzVpZlYycUtMR3pLZVphV3FlUWttSWt5TXRLX2s0aWx1cEoyVnBPVWVpOWFtdzFnTGtiSjNfZW1qVU5DOHNHX3pRcFBvdjRUc2FTcUY1LUdfVUNUR0E2cVluaWtNQ2I2emZaYlJYRHRZMy1wSzRIOU9lc3VpcmhPanRIZFJCY2p2TQ?oc=5",
-      "title": "People who stayed put through the 2017 hurricanes were more often the ones with flood insurance, a survey of 2,557 Gulf Coast residents found, and the authors suggest the policy may have made the storm feel less dangerous - The Watchers - Watching the world evolve and transform",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQemFHRVRyTEJjYncxMHVEbWFkTFNaUWV4VGpFMkRPanJJVnNSMWhrNy0zVTVVTFd5OUp2SGI4QkNsamlqMno0MmtOZUROOTAzQ1FYZ0ZQLUc3MHJ2bDBLUVIyTXRyT1dhMFB0T3pQWjN4dTFjbVRsYUpwVzBycGN3aUJXOUpFWVlfbzU1dVVEWlhvYzJrODVWYktNS0VzeURScVZkOEVhSVNBVGZUbXR2aXBGM1M4UEYzOVVTNUw2a1RDX3lUMlh2aHV4d0pqUzVpZlYycUtMR3pLZVphV3FlUWttSWt5TXRLX2s0aWx1cEoyVnBPVWVpOWFtdzFnTGtiSjNfZW1qVU5DOHNHX3pRcFBvdjRUc2FTcUY1LUdfVUNUR0E2cVluaWtNQ2I2emZaYlJYRHRZMy1wSzRIOU9lc3VpcmhPanRIZFJCY2p2TQ?oc=5",
-      "provider": "The Watchers - Watching the world evolve and transform",
-      "publishedAt": "2026-11-20T17:17:25.000Z",
-      "recordedAt": null,
-      "topic": "NOAA hurricane storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -1024,6 +1204,18 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04NG1ObGxFNFpfVXpWQk5PTno0b21iMndHNTIwUlduSFdLLWVyMjRpRTJCdGt2ZG5kOFFMMnFtcWtjdnQ2RXVkTDdscFJPSkNUWjZrZ2htS2g1RlA2VWx5VEVSdHNWOWlvVGRMSnN0YXA1ZkEycDk2ZnloWU0?oc=5",
+      "title": "Meta’s pocket AI device could cost $300 - Superpower Daily",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04NG1ObGxFNFpfVXpWQk5PTno0b21iMndHNTIwUlduSFdLLWVyMjRpRTJCdGt2ZG5kOFFMMnFtcWtjdnQ2RXVkTDdscFJPSkNUWjZrZ2htS2g1RlA2VWx5VEVSdHNWOWlvVGRMSnN0YXA1ZkEycDk2ZnloWU0?oc=5",
+      "provider": "Superpower Daily",
+      "publishedAt": "2026-11-20T14:30:00.000Z",
+      "recordedAt": null,
+      "topic": "NOAA hurricane storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTRwRkxWOE1IY01qamdXNW5kQ1VYTW9QUnV1TUtRd0ZFbkU3WDdEQ3VMS3o1R3BMbUNsR2l2T3d4UjlGel9YOTMwR1hpbGxnVFA5MUtldXJ0Ynd3TVRRSVA1cjU0MldvVXE2aDg2MWJaS3B1M0VyUXNGam9hTk5Rakd2QlZmNlRsSW9rQWJmSnRET1ktS0NkSXhyc0VxS19hMTRURFV0OFNBQzF3Z2c?oc=5",
       "title": "Soda Springs snowstorm: I-80 plows fight blowing snow in CA - The Weather Channel",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTRwRkxWOE1IY01qamdXNW5kQ1VYTW9QUnV1TUtRd0ZFbkU3WDdEQ3VMS3o1R3BMbUNsR2l2T3d4UjlGel9YOTMwR1hpbGxnVFA5MUtldXJ0Ynd3TVRRSVA1cjU0MldvVXE2aDg2MWJaS3B1M0VyUXNGam9hTk5Rakd2QlZmNlRsSW9rQWJmSnRET1ktS0NkSXhyc0VxS19hMTRURFV0OFNBQzF3Z2c?oc=5",
@@ -1091,18 +1283,6 @@
       "publishedAt": "2026-11-20T12:49:57.000Z",
       "recordedAt": null,
       "topic": "California snowstorm Sierra Nevada",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMmNqSm9ZaE1mUmZVOVpHcFRZZEZvS1l1TVlteWprUGdHbWpiRUhYUUpyMVU1dXpOekJFdzVjY2xGQVR5ZXZtZ3Y5QmIteWV5UHRQZzNmeXhrMEdXSjhWQVc2SUtNSDVGTWNVcGRKdUk0bGJLcFNqSHAwcW5XSHBlcXFuRTB4S0ZWbHhIelFvUVlfSTNFT3JrbUpubmdVOFp5ZU94Zmg3ZEdydTFWdnZWLVQ0WTc3SkxIVGNxbXUteUtkLTdPTUtPZzBmcEVjUFRZ?oc=5",
-      "title": "N.J. weather: Coastal storm to hit state with heavy rain, up to 35 mph winds Sunday. Latest forecast. - NJ.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMmNqSm9ZaE1mUmZVOVpHcFRZZEZvS1l1TVlteWprUGdHbWpiRUhYUUpyMVU1dXpOekJFdzVjY2xGQVR5ZXZtZ3Y5QmIteWV5UHRQZzNmeXhrMEdXSjhWQVc2SUtNSDVGTWNVcGRKdUk0bGJLcFNqSHAwcW5XSHBlcXFuRTB4S0ZWbHhIelFvUVlfSTNFT3JrbUpubmdVOFp5ZU94Zmg3ZEdydTFWdnZWLVQ0WTc3SkxIVGNxbXUteUtkLTdPTUtPZzBmcEVjUFRZ?oc=5",
-      "provider": "NJ.com",
-      "publishedAt": "2026-11-20T12:28:00.000Z",
-      "recordedAt": null,
-      "topic": "US weather storm forecast",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -1216,6 +1396,18 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWN4Tmh2RGJFQUszNTcwUUg0dG9UX01yOEtJcldyZ3RKQWlSOXFTYU9CelNudDVuMkVabVVwajVfajBrNmJVMS1DZ1FGNzh4OE9iQU4zRVNsS3NyejQ4SWpKTW5jejFXSjNKaGkxTWd4eDBBTlFtMW5PTDFnZWg3WnRvSnVmQjZVLXhXWkRyV2tTSVluTmt5Q0l1VWI?oc=5",
+      "title": "ESA’s next major science mission will send seven spacecraft to study plasma - Starlust.org",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWN4Tmh2RGJFQUszNTcwUUg0dG9UX01yOEtJcldyZ3RKQWlSOXFTYU9CelNudDVuMkVabVVwajVfajBrNmJVMS1DZ1FGNzh4OE9iQU4zRVNsS3NyejQ4SWpKTW5jejFXSjNKaGkxTWd4eDBBTlFtMW5PTDFnZWg3WnRvSnVmQjZVLXhXWkRyV2tTSVluTmt5Q0l1VWI?oc=5",
+      "provider": "Starlust.org",
+      "publishedAt": "2026-11-20T10:50:51.000Z",
+      "recordedAt": null,
+      "topic": "NASA earth science weather",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3B2MVhEWGV5VGJCX092c3MzRUN6bTJrdkVKU3pZVkRlaC1xZXh6QXNTcmFwZFJCU05IblN5VmFMSzZ6bXZ5ZEpuY3BhN1hReng3ZjlOeU50eUFDMjcwMExuU2ZTT0pZNjlOcHl2anlFZXljRzBiWG04UFB4R3VPeTNnNlpsNXNQcHo1ejZ2UTZwMDFPdkdZTFFTNnpjbHpmYVd0Vm9Na1p0dTF6MlNfcWNvUUFsclFOYVdrcTBUR0JoNzNxNVlET2FzRjBZVW5sS1JHTHN5UnRyNDA?oc=5",
       "title": "Two weather systems set to bring severe thunderstorms to large parts of the country - Nine.com.au",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3B2MVhEWGV5VGJCX092c3MzRUN6bTJrdkVKU3pZVkRlaC1xZXh6QXNTcmFwZFJCU05IblN5VmFMSzZ6bXZ5ZEpuY3BhN1hReng3ZjlOeU50eUFDMjcwMExuU2ZTT0pZNjlOcHl2anlFZXljRzBiWG04UFB4R3VPeTNnNlpsNXNQcHo1ejZ2UTZwMDFPdkdZTFFTNnpjbHpmYVd0Vm9Na1p0dTF6MlNfcWNvUUFsclFOYVdrcTBUR0JoNzNxNVlET2FzRjBZVW5sS1JHTHN5UnRyNDA?oc=5",
@@ -1276,6 +1468,18 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVDNIaFNRdE1sYXhoTDRsLXJOVGFZeVlUaEt6ZkNCQjVkeFZld1pNNTFlLWRoT2k5NmE5SGxsbjN4ekZmQUxrOERmZUxwMTEyWlpyNUpvQkNWNTJqaUF3aVJ1SUI0M0huUFd0bWJWNS1MaW82c0FnaTZsZXNYcGVlYllwSWJTM29PTG1oU1BBbkxHZTZnaU9SWWlZQzQxVFBiTHpWYXJNWE1iMXdTS1JJRGpYbEVZb2t3RkJZdkNrV0JVcENGczlyZTJxYnFSWnpnU1ZzbHF3emlIdGw5dFJR?oc=5",
+      "title": "Waterspouts Over San Francisco Bay, Hail in Richmond and Three-Story Waves Mark a Wild Storm Day - Nature World News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVDNIaFNRdE1sYXhoTDRsLXJOVGFZeVlUaEt6ZkNCQjVkeFZld1pNNTFlLWRoT2k5NmE5SGxsbjN4ekZmQUxrOERmZUxwMTEyWlpyNUpvQkNWNTJqaUF3aVJ1SUI0M0huUFd0bWJWNS1MaW82c0FnaTZsZXNYcGVlYllwSWJTM29PTG1oU1BBbkxHZTZnaU9SWWlZQzQxVFBiTHpWYXJNWE1iMXdTS1JJRGpYbEVZb2t3RkJZdkNrV0JVcENGczlyZTJxYnFSWnpnU1ZzbHF3emlIdGw5dFJR?oc=5",
+      "provider": "Nature World News",
+      "publishedAt": "2026-11-20T08:35:46.000Z",
+      "recordedAt": null,
+      "topic": "NOAA hurricane storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNandwNkxvc0ctSXNrampCeXcyOGdtRy1MM0RBQzBZT0NROXNGSTh1emNteUR0NTVqTnh4Ykt2d1dORkE1STNackFhMGdBVk5JRkVsN0hXanBuNHVfZk9mbnRwMTJ2b0lrVEp1X21ZM28yMnFOQURKMXY4VTRmR3VZZWlYcHRNbmxHcFo5T0RVZzMzLWNQRFlyQ0kzb2tMYVlIYjRlRHRTTVVmVXg4QlpJbDRycmFSU3hvaVMwLTVvLXcxc0tOR2xxNGNYUWJSX0VEdTZFSW55Z0RabFFtSEdOUGVuZUhjbjJuWk1tSHU5Rk5sSkNQbDFUbkQzcTZLYjVoaWd3bUtNYmNYMlQ0NFllTm5DNFF4aExUQ3F0RVpGbjBaSlYwMGZLZWVNQ3RVZmd2T2dlSUZBNXM3UDlLMHRN0gHEAkFVX3lxTE55MXpGcHpNVW1LTmswdUstN2taN2ltekw0RlNHT1F6UlVXRDFYMjFmX2M2YW5jS0FaNU1ELTRGYkVydzFhNTQ2RWg5LUdqN1ZBUXFOczNOQzhIbHhfS3l6RTRWd09sSGRXQjJtdURlRmNkRHYzVlFyeTdTMGkxWV9kdUFJV3B1N0c5azJYVEdwVWIyRGlQRHpkdlY2Y0t2cmJHM3dYRDNEUWVLY21BSTVXcWxIV1NJalhXczZHdXlzaHhHUXZWSGRmQ1RXeFZQWlBSLU5PS2NRMWJ0cjJoQkxqY0hHRTVZcUJNYnBEb0QxRHZtX1N1ay0zcmJYdERQRGdlc0w3T2ZRNUhER1hBcHkzU3dkcEdYYWFDWUQ0RXN3S1JseDNFbGI1bVU2RjBsM05qcGY3a2RaNDQ2c28tMHBrRVVwOQ?oc=5",
       "title": "5.0 magnitude earthquake strikes California’s San Benito County near the Pinnacles: Was a tsunami warning - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNandwNkxvc0ctSXNrampCeXcyOGdtRy1MM0RBQzBZT0NROXNGSTh1emNteUR0NTVqTnh4Ykt2d1dORkE1STNackFhMGdBVk5JRkVsN0hXanBuNHVfZk9mbnRwMTJ2b0lrVEp1X21ZM28yMnFOQURKMXY4VTRmR3VZZWlYcHRNbmxHcFo5T0RVZzMzLWNQRFlyQ0kzb2tMYVlIYjRlRHRTTVVmVXg4QlpJbDRycmFSU3hvaVMwLTVvLXcxc0tOR2xxNGNYUWJSX0VEdTZFSW55Z0RabFFtSEdOUGVuZUhjbjJuWk1tSHU5Rk5sSkNQbDFUbkQzcTZLYjVoaWd3bUtNYmNYMlQ0NFllTm5DNFF4aExUQ3F0RVpGbjBaSlYwMGZLZWVNQ3RVZmd2T2dlSUZBNXM3UDlLMHRN0gHEAkFVX3lxTE55MXpGcHpNVW1LTmswdUstN2taN2ltekw0RlNHT1F6UlVXRDFYMjFmX2M2YW5jS0FaNU1ELTRGYkVydzFhNTQ2RWg5LUdqN1ZBUXFOczNOQzhIbHhfS3l6RTRWd09sSGRXQjJtdURlRmNkRHYzVlFyeTdTMGkxWV9kdUFJV3B1N0c5azJYVEdwVWIyRGlQRHpkdlY2Y0t2cmJHM3dYRDNEUWVLY21BSTVXcWxIV1NJalhXczZHdXlzaHhHUXZWSGRmQ1RXeFZQWlBSLU5PS2NRMWJ0cjJoQkxqY0hHRTVZcUJNYnBEb0QxRHZtX1N1ay0zcmJYdERQRGdlc0w3T2ZRNUhER1hBcHkzU3dkcEdYYWFDWUQ0RXN3S1JseDNFbGI1bVU2RjBsM05qcGY3a2RaNDQ2c28tMHBrRVVwOQ?oc=5",
@@ -1283,18 +1487,6 @@
       "publishedAt": "2026-11-20T08:09:28.000Z",
       "recordedAt": null,
       "topic": "USGS earthquake tsunami",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzlVaVktMnFuWHdzQ2dydnBfSTY2a2h0ZzU2UGY4cTZsMEhiNkhYZ043cUhvNzM3b2JybWI5SWpuVUJuWm0zYUN5clJjcnFnQWlBazREcVlRZ01tb2kxX0NBR0xySmhWS2NEVEtCNmhiNzI1UjRBcWRSS2FoVm9UenZRbEFwQ3M?oc=5",
-      "title": "National Oceanic and Atmospheric Administration - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzlVaVktMnFuWHdzQ2dydnBfSTY2a2h0ZzU2UGY4cTZsMEhiNkhYZ043cUhvNzM3b2JybWI5SWpuVUJuWm0zYUN5clJjcnFnQWlBazREcVlRZ01tb2kxX0NBR0xySmhWS2NEVEtCNmhiNzI1UjRBcWRSS2FoVm9UenZRbEFwQ3M?oc=5",
-      "provider": "Britannica",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "recordedAt": null,
-      "topic": "NOAA hurricane storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -1316,6 +1508,18 @@
       "title": "El Niño Rains Paint the Atacama - NASA Science (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcjlLM0NVWVl3Q3N6azVFOUZ5Qy1SVTB6X0ZXek9lT3VvYXUtdU9WazdBTkdUcW9NcXV6V2RYZ1RVV2h0a0ZKbTBCUXJkcVZEV1c1bnJXVkpsbHp1V01MZkV3al8wcGZUZVJXUkEzX2l4YkRCYXkxMWp3dWhQdy0wb09vLWNqVXNQ?oc=5",
       "provider": "NASA Science (.gov)",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "recordedAt": null,
+      "topic": "NASA earth science weather",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUpZSWV3eS1LZlE4clRaREVlNkdTSV9xMTA5Q0h6ZTgxTEFUdURDMUFqX3F2T01oT2E4M2ZoSDBSYUtpSU1mcVhYRVdnTWlZZ3N3UExFLTBWZy1Bd1RIT2ctU2ZRWGtpb0xiVF9hOGFudlVzV1BfZ3BqMzY2Qlh1RUt0T3o?oc=5",
+      "title": "Sentinel-1 - NASA Earthdata (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUpZSWV3eS1LZlE4clRaREVlNkdTSV9xMTA5Q0h6ZTgxTEFUdURDMUFqX3F2T01oT2E4M2ZoSDBSYUtpSU1mcVhYRVdnTWlZZ3N3UExFLTBWZy1Bd1RIT2ctU2ZRWGtpb0xiVF9hOGFudlVzV1BfZ3BqMzY2Qlh1RUt0T3o?oc=5",
+      "provider": "NASA Earthdata (.gov)",
       "publishedAt": "2026-11-20T08:00:00.000Z",
       "recordedAt": null,
       "topic": "NASA earth science weather",
@@ -1360,25 +1564,25 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIdDVXVEVkZ3RxZm5IbjFqdGZYVkQzT3dMWlkyLVN2SUc3S0NTeEM4QjhWQ2J4U1dNY3hFaUIwZmJlOHU3VkdlcQ?oc=5",
-      "title": "NASA says Fermi’s pulsar hide-and-seek just got about a million times faster - Digg",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIdDVXVEVkZ3RxZm5IbjFqdGZYVkQzT3dMWlkyLVN2SUc3S0NTeEM4QjhWQ2J4U1dNY3hFaUIwZmJlOHU3VkdlcQ?oc=5",
-      "provider": "Digg",
-      "publishedAt": "2026-11-20T05:09:12.000Z",
+      "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdWNLU3BPTjBVMWIwYjg1ZGFUTEtFcWpVSHdYV282bnQ5NFZUb18zaEpWYVhCeEFPSjJ5bHhvVXpPNDU0Z0FtckFadi11YlFGMmdXd3M3dnVSM0VpWTZmZkQwZmlfOHZwX1RqeS1qREU0Vk41SVQyZ2RUendvbXA4UEhLV2wtYVFESVRPZUJubmZvS0xnTHR3Z1N3RGtwcnpMV05TT1NXRE1SenZFdlpYSk5RTUZYdXZGaElrdkU5QTgtOWRkX3pLV2Rab2NGSkZCZGRLcXI1ZENFLXlQX0Yw0gHkAUFVX3lxTE1RVURYSzNoQlN1aDNBUVVtLTlhUkVJOEQtN0ZJWDZidmNtX2tCelc0OWdPZWxGd2RwUnBrSkFzQXIyVlh2VnZZNXY1bW1xM3RSbGZJc3dfQ3NwakdwUFZfZlZtQ0JsOEpiRzRiVHJJYzNWVUMyRFhncEZPNkY4MUp4cE02NFg3MnVYM3cwVjFDX0o5d0JGeWtfeF9jLVZrSTcwZmg0Y3J5dEVwSV9aQ3ZqaE5IT2d5TlVkaDkwMVdHYlFveV82dm00RXRCQmxNQTBFak54LXNpQWNUU0p3bHZvNWl0Qg?oc=5",
+      "title": "3 in Bay of Bengal in less than four weeks: Why cyclones tend to come in a ‘season’ | HT Explainers - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdWNLU3BPTjBVMWIwYjg1ZGFUTEtFcWpVSHdYV282bnQ5NFZUb18zaEpWYVhCeEFPSjJ5bHhvVXpPNDU0Z0FtckFadi11YlFGMmdXd3M3dnVSM0VpWTZmZkQwZmlfOHZwX1RqeS1qREU0Vk41SVQyZ2RUendvbXA4UEhLV2wtYVFESVRPZUJubmZvS0xnTHR3Z1N3RGtwcnpMV05TT1NXRE1SenZFdlpYSk5RTUZYdXZGaElrdkU5QTgtOWRkX3pLV2Rab2NGSkZCZGRLcXI1ZENFLXlQX0Yw0gHkAUFVX3lxTE1RVURYSzNoQlN1aDNBUVVtLTlhUkVJOEQtN0ZJWDZidmNtX2tCelc0OWdPZWxGd2RwUnBrSkFzQXIyVlh2VnZZNXY1bW1xM3RSbGZJc3dfQ3NwakdwUFZfZlZtQ0JsOEpiRzRiVHJJYzNWVUMyRFhncEZPNkY4MUp4cE02NFg3MnVYM3cwVjFDX0o5d0JGeWtfeF9jLVZrSTcwZmg0Y3J5dEVwSV9aQ3ZqaE5IT2d5TlVkaDkwMVdHYlFveV82dm00RXRCQmxNQTBFak54LXNpQWNUU0p3bHZvNWl0Qg?oc=5",
+      "provider": "Hindustan Times",
+      "publishedAt": "2026-11-20T04:16:39.000Z",
       "recordedAt": null,
-      "topic": "NASA earth science weather",
+      "topic": "NOAA hurricane storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQkpEY1E1ZGI0NjFaM2VMMndsck5FckotNGhNTy1RNGtUUWxIaXQ1WFY3ak1uZVpTS1ZOdVkyTkkwQ3JNQW54WlpibDZFc01pemlmS0lfRFNfWEcxeFdCN0Q5X1JNYjdFbXZPMkowdEpxQ25paDBYSldJV2ctd2ZPMXY0NlpMLXVEV1VLY0RqU2k1X1RyaXBMcGxTd2xqV0JHVG1CVTVJaEZzSEcxbFFLSkRDc0pCSnVHYXdSS1dYLXhTell4RUtiZHAyakcxdDRLQ1h2V25hS2LSAd4BQVVfeXFMUEJYczVWUGJMcmd2bzgwQy1RMWNLdmo3Z3ZSaHRzOENqTG8yNzlKcUhVWld5SXhRazVZdzk0U0VERTBPaHZzbVFBU09aUjl6enRyUVNrR3B6UlV2SERTanV6Sk5uejhHTTVPUnZuS3U2TFdyTDBQTW9pbGUxTmRkVEVTalBpLTRGd3ZMaWFlNm9peVYyZVBoWXF1QW1iYVc3VTl3UlNJYWpaMFhTaHJRb1kxc3V3RVdKUHktTThkQkxKY0xOV01NUkxKbThvWlJMakFsY1M4ZDdfYlRENXhn?oc=5",
-      "title": "Severe thunderstorms predicted to impact large swath of country from Queensland down to Tasmania - 7NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQkpEY1E1ZGI0NjFaM2VMMndsck5FckotNGhNTy1RNGtUUWxIaXQ1WFY3ak1uZVpTS1ZOdVkyTkkwQ3JNQW54WlpibDZFc01pemlmS0lfRFNfWEcxeFdCN0Q5X1JNYjdFbXZPMkowdEpxQ25paDBYSldJV2ctd2ZPMXY0NlpMLXVEV1VLY0RqU2k1X1RyaXBMcGxTd2xqV0JHVG1CVTVJaEZzSEcxbFFLSkRDc0pCSnVHYXdSS1dYLXhTell4RUtiZHAyakcxdDRLQ1h2V25hS2LSAd4BQVVfeXFMUEJYczVWUGJMcmd2bzgwQy1RMWNLdmo3Z3ZSaHRzOENqTG8yNzlKcUhVWld5SXhRazVZdzk0U0VERTBPaHZzbVFBU09aUjl6enRyUVNrR3B6UlV2SERTanV6Sk5uejhHTTVPUnZuS3U2TFdyTDBQTW9pbGUxTmRkVEVTalBpLTRGd3ZMaWFlNm9peVYyZVBoWXF1QW1iYVc3VTl3UlNJYWpaMFhTaHJRb1kxc3V3RVdKUHktTThkQkxKY0xOV01NUkxKbThvWlJMakFsY1M4ZDdfYlRENXhn?oc=5",
-      "provider": "7NEWS",
-      "publishedAt": "2026-11-20T04:07:27.000Z",
+      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDY4MWJZTHBFY1d2ZG9FNXlSTTNXVHV6RnhodjVJeVBVRk9kc0FxbDVQQjJYZGgwVDQwcElfM0dfLXVjYk1GRmhueDRiUElHTHdtd245NVdSOFpOMGEtVk1lQXBUY2JXdHZDaXJobjhwSkg5bW9lQmlVWHJkZmFkY0JUdUtxakJkY1RQUzB2dVNiZUd6ZDRiXw?oc=5",
+      "title": "Family forced out of home for 10 months sees hope after Monmouth flood review - South Wales Argus",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDY4MWJZTHBFY1d2ZG9FNXlSTTNXVHV6RnhodjVJeVBVRk9kc0FxbDVQQjJYZGgwVDQwcElfM0dfLXVjYk1GRmhueDRiUElHTHdtd245NVdSOFpOMGEtVk1lQXBUY2JXdHZDaXJobjhwSkg5bW9lQmlVWHJkZmFkY0JUdUtxakJkY1RQUzB2dVNiZUd6ZDRiXw?oc=5",
+      "provider": "South Wales Argus",
+      "publishedAt": "2026-11-20T04:12:00.000Z",
       "recordedAt": null,
-      "topic": "Australia severe weather",
+      "topic": "UK flooding storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -1456,25 +1660,13 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdk9qc3VMSmpjcWNyLUpyeHZxektrdFR0Q3NSMW9pLWMyaEYwRUwtVlQxcXBHdUIybkx0WloyMjVfYUFtSFp1SGQ2eDRSUmdZVG4tV3RvVUU3b2pkWUJmenhqMVFoU1J3a2ctcE5lby1IcFlKZjVDOHp4NGw0NG9JOWdrUm12eTdjNm5Uc3ctQTFjZFpFNnp1RFRJNTRRUWtm0gGmAUFVX3lxTFA4RjJOWlJ1alFlb1hHc0d3Rk9idUZRX3p3aDlUR2IzRzRjeUUyLUpxUC1sUUdzWUhwaE50OU1fVk8xNEl2RUFxaG4zSHl5RzI1eWxuRXBRLXVaazJYNHByemtfX1pzaERYQlVuMlNCWDNYUzhycEZzTjdITURlMVpMZWpqWEdOR0JOaURXMmRVWldmSk43VkpqZVAtOXBkNVFvV0ZsVWc?oc=5",
-      "title": "Coastal storm marches up East Coast as Thanksgiving travel impacts spread into Northeast - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdk9qc3VMSmpjcWNyLUpyeHZxektrdFR0Q3NSMW9pLWMyaEYwRUwtVlQxcXBHdUIybkx0WloyMjVfYUFtSFp1SGQ2eDRSUmdZVG4tV3RvVUU3b2pkWUJmenhqMVFoU1J3a2ctcE5lby1IcFlKZjVDOHp4NGw0NG9JOWdrUm12eTdjNm5Uc3ctQTFjZFpFNnp1RFRJNTRRUWtm0gGmAUFVX3lxTFA4RjJOWlJ1alFlb1hHc0d3Rk9idUZRX3p3aDlUR2IzRzRjeUUyLUpxUC1sUUdzWUhwaE50OU1fVk8xNEl2RUFxaG4zSHl5RzI1eWxuRXBRLXVaazJYNHByemtfX1pzaERYQlVuMlNCWDNYUzhycEZzTjdITURlMVpMZWpqWEdOR0JOaURXMmRVWldmSk43VkpqZVAtOXBkNVFvV0ZsVWc?oc=5",
-      "provider": "FOX Weather",
-      "publishedAt": "2026-11-20T00:45:00.000Z",
+      "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOODI5OHhIWlQzV2VidHZVX2p1ZjBWVk43V3R1d1FvU3RkN3psdTMxMWlVd2U4MnhKM3R3djB1eFVJcjdVM1BCRno5NkxIclBRSXduZVVDNG1OSG5UbnAzNWk3YUIzdm5ndmZQUXh4MVF6bjItUGVUcFA1Q3V2eVhCaF8xNTBxZVNldk5sQlVOeDU1aVVYWUFuV2hpeEJLd3d6RDdScEFRUThMdkRjMWJIVkw1dHlNeU4xODNoZ1JiZGNiT1Zn0gHKAUFVX3lxTE5PN0hQZ0tkY3RwbThZSVRzQzlBYVlDWnpQUVgwWVpzQzY0cy1KR3NKc2xhTzJMUW5vbFBfOHhnWl9pSUxTSFlvQ3N1VU5iVkVlM3FKeEIxZTB4enhSNklxREttTy1idGlPcWRlZlRYdjhXVi1TekpGeDRPcmVBUDVtQlllbkJHUktGUnVmeGpVZ3IxTHBQSzlfUnU2Q0ZzNDJFQXpfbGRnclhhcDM5NmZIa3o3dnlBUTFwdUNJTFdnX3FrUFpUci11ZHc?oc=5",
+      "title": "Big batteries to boost reliability over summer, says AEMO, as extreme weather meets changing demand - Renew Economy",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOODI5OHhIWlQzV2VidHZVX2p1ZjBWVk43V3R1d1FvU3RkN3psdTMxMWlVd2U4MnhKM3R3djB1eFVJcjdVM1BCRno5NkxIclBRSXduZVVDNG1OSG5UbnAzNWk3YUIzdm5ndmZQUXh4MVF6bjItUGVUcFA1Q3V2eVhCaF8xNTBxZVNldk5sQlVOeDU1aVVYWUFuV2hpeEJLd3d6RDdScEFRUThMdkRjMWJIVkw1dHlNeU4xODNoZ1JiZGNiT1Zn0gHKAUFVX3lxTE5PN0hQZ0tkY3RwbThZSVRzQzlBYVlDWnpQUVgwWVpzQzY0cy1KR3NKc2xhTzJMUW5vbFBfOHhnWl9pSUxTSFlvQ3N1VU5iVkVlM3FKeEIxZTB4enhSNklxREttTy1idGlPcWRlZlRYdjhXVi1TekpGeDRPcmVBUDVtQlllbkJHUktGUnVmeGpVZ3IxTHBQSzlfUnU2Q0ZzNDJFQXpfbGRnclhhcDM5NmZIa3o3dnlBUTFwdUNJTFdnX3FrUFpUci11ZHc?oc=5",
+      "provider": "Renew Economy",
+      "publishedAt": "2026-11-20T01:36:34.000Z",
       "recordedAt": null,
-      "topic": "US weather storm forecast",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWk01RnR5Mk5INHAtR3UzVGlqYndqdU0xTlNkSUJwOVN0c3ZKUVpmSFFQR1pzQzdVd0lXNmJ0SWRWdmpIa2dWYmV3aG9TbFJYd0pMSzRLR1EyS3FJdkZ2M1hSaVo2VnNjTG9JYS1xMlNfa3YzZjI1bGZxUlBhRXpVVkk3OFdHOGxjeTJ6UEVETTJJZVZnNEhoMHhwbzNwYkp3QVlkU1dpRWtKZW8?oc=5",
-      "title": "Winter Storm Warning Remains in Effect as 5 Feet of Snow, 100 mph Winds Hit - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWk01RnR5Mk5INHAtR3UzVGlqYndqdU0xTlNkSUJwOVN0c3ZKUVpmSFFQR1pzQzdVd0lXNmJ0SWRWdmpIa2dWYmV3aG9TbFJYd0pMSzRLR1EyS3FJdkZ2M1hSaVo2VnNjTG9JYS1xMlNfa3YzZjI1bGZxUlBhRXpVVkk3OFdHOGxjeTJ6UEVETTJJZVZnNEhoMHhwbzNwYkp3QVlkU1dpRWtKZW8?oc=5",
-      "provider": "Men's Journal",
-      "publishedAt": "2026-11-20T00:25:00.000Z",
-      "recordedAt": null,
-      "topic": "California snowstorm Sierra Nevada",
+      "topic": "Australia severe weather",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -1487,18 +1679,6 @@
       "publishedAt": "2026-11-19T23:59:59.000Z",
       "recordedAt": null,
       "topic": "volcano eruption USGS",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XSjN0VFEyNW1MREg0UEF3VXFIUktHaFdZY2xhbXJaZDRsamJXWlNtUVdxQVZXdzBFQ2lMVUhmMXdSUnpSR3JzemZnX0ZHOWF6VnB2RWFFczJhNHRrUHZGblhVamtEdE80MVJoUGUxVktiUExMTnc?oc=5",
-      "title": "El Niño strikes again, breaking rain records in San Francisco and along Florida’s Atlantic coast - AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XSjN0VFEyNW1MREg0UEF3VXFIUktHaFdZY2xhbXJaZDRsamJXWlNtUVdxQVZXdzBFQ2lMVUhmMXdSUnpSR3JzemZnX0ZHOWF6VnB2RWFFczJhNHRrUHZGblhVamtEdE80MVJoUGUxVktiUExMTnc?oc=5",
-      "provider": "AOL.co.uk",
-      "publishedAt": "2026-11-19T23:49:36.000Z",
-      "recordedAt": null,
-      "topic": "UK flooding storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -1552,18 +1732,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GbTlOVk5SUGw2cjFaREM3N2pIb0N6R0ZPVHY0bnM4Q1E1YVV2S0p5Zk1sbEFmVElWTFdXRGtzR1hkU0RlWEtZMFo5ZmxtbWx3RktMMU93?oc=5",
-      "title": "Major snowstorm hits Sierra Nevada - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GbTlOVk5SUGw2cjFaREM3N2pIb0N6R0ZPVHY0bnM4Q1E1YVV2S0p5Zk1sbEFmVElWTFdXRGtzR1hkU0RlWEtZMFo5ZmxtbWx3RktMMU93?oc=5",
-      "provider": "Fox News",
-      "publishedAt": "2026-11-19T22:55:51.000Z",
-      "recordedAt": null,
-      "topic": "California snowstorm Sierra Nevada",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSU1mRGNMNm5vckg1Sm5JLWozOGY5OXdFN0huU2ROUEdUODlhOE9GS3Uyb2RqN2k3R28ybnBHZWxteUtwM3c2R09GNVREQjgwZXJfYzBlLU0yb2hyUmhJX1JEUVgyb1dHUjNiZU9adkFtVnB0SXlhN0pQdzgydXRyMEdVTXd0cTZxZXBsbXcwZGdROFJWeDhLQk1sblRudXc?oc=5",
       "title": "Los Angeles floods as rain tops 2 inches an hour - The Weather Channel",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSU1mRGNMNm5vckg1Sm5JLWozOGY5OXdFN0huU2ROUEdUODlhOE9GS3Uyb2RqN2k3R28ybnBHZWxteUtwM3c2R09GNVREQjgwZXJfYzBlLU0yb2hyUmhJX1JEUVgyb1dHUjNiZU9adkFtVnB0SXlhN0pQdzgydXRyMEdVTXd0cTZxZXBsbXcwZGdROFJWeDhLQk1sblRudXc?oc=5",
@@ -1588,13 +1756,13 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXZqaHNaU3lvVTktNnBJMjg5VkRCM0dKb05zaEc0Qks4TklCM0s5blMwN0N6N0hrUmZOSmxFa3V2ZXhfSkVTWDE1SVhuaEF3NERRMnpUQjVnTk9LdEtFMDFEOHV3Tmt0emRzdU5pRTVfRk9KMEw3aDdySjMwcE90dVZnOEFoWlFNQXBQRnBQblloSUxrRm5ZSHBVdVBwRzg1Y3VOM3ZCeU5DTXB1aHlsb05xSm9NaVprTXFfaVdB?oc=5",
-      "title": "Kyle could form off Florida as extensive, prolonged coastal flood threat grows - Yale Climate Connections",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXZqaHNaU3lvVTktNnBJMjg5VkRCM0dKb05zaEc0Qks4TklCM0s5blMwN0N6N0hrUmZOSmxFa3V2ZXhfSkVTWDE1SVhuaEF3NERRMnpUQjVnTk9LdEtFMDFEOHV3Tmt0emRzdU5pRTVfRk9KMEw3aDdySjMwcE90dVZnOEFoWlFNQXBQRnBQblloSUxrRm5ZSHBVdVBwRzg1Y3VOM3ZCeU5DTXB1aHlsb05xSm9NaVprTXFfaVdB?oc=5",
-      "provider": "Yale Climate Connections",
-      "publishedAt": "2026-11-19T21:09:34.000Z",
+      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREx0VU5pOFNqdko0OXNjaHNPdGFTX1JNWDFGaGtPRmNNTjJuRFpuSDlnTUhmckJhSHFuU1lZOUtFVXZpTUcyZmtrcE1NZVRQNTVNRk9Ta3JKNDlWWU14c3BTZk5kN2RpQnlDUEk2UFNXa1RXenN1TnB1NzFHYTJ2RVBpcUJZOU83cVVELWZGRGNPcW8?oc=5",
+      "title": "Australia Faces Severe Storms as Two Weather Systems Move In - JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREx0VU5pOFNqdko0OXNjaHNPdGFTX1JNWDFGaGtPRmNNTjJuRFpuSDlnTUhmckJhSHFuU1lZOUtFVXZpTUcyZmtrcE1NZVRQNTVNRk9Ta3JKNDlWWU14c3BTZk5kN2RpQnlDUEk2UFNXa1RXenN1TnB1NzFHYTJ2RVBpcUJZOU83cVVELWZGRGNPcW8?oc=5",
+      "provider": "JournalArta",
+      "publishedAt": "2026-11-19T21:25:15.000Z",
       "recordedAt": null,
-      "topic": "NOAA hurricane storm",
+      "topic": "Australia severe weather",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -1648,18 +1816,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcDdQQVFlSlZwYW9PeThBa0NNVFNZNHlQVC1JNkNxZFVndXlQTFFONHlLNmtUd2xlaWRBdkU5QVRXZ0E5QnZNeW9rZ19DZ2c5UU94ZUV1QjJSTWNMQ2NPUk9EUFNvSkhBRUxjVW0tSGstVGxPUUp3WWRMN2JPM2h4ME8wTkkxbGpjVkpMcVJINVdia0hHcmxWSUd4LTBndnYzdFlWdVBLc1RXSzJHN1pfZg?oc=5",
-      "title": "Media Alert: Low-level Flights to Image Geology over U.S. Virgin Islands - USGS (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcDdQQVFlSlZwYW9PeThBa0NNVFNZNHlQVC1JNkNxZFVndXlQTFFONHlLNmtUd2xlaWRBdkU5QVRXZ0E5QnZNeW9rZ19DZ2c5UU94ZUV1QjJSTWNMQ2NPUk9EUFNvSkhBRUxjVW0tSGstVGxPUUp3WWRMN2JPM2h4ME8wTkkxbGpjVkpMcVJINVdia0hHcmxWSUd4LTBndnYzdFlWdVBLc1RXSzJHN1pfZg?oc=5",
-      "provider": "USGS (.gov)",
-      "publishedAt": "2026-11-19T19:21:44.000Z",
-      "recordedAt": null,
-      "topic": "USGS earthquake tsunami",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1BQeTRfUlk3dUFxS1FCUVlHYlBDX1huSkRodzVFS0lMckx2elAweGg1anFWdHZ2NDhoTXliRW90T0F3elI0WnczMUJlNks3ZGxNOGluUUNmOHJEb29jRW5Ib3p2NzU0cmpNZkVWQTNsb3QxakhTZUVkVkxRSHNBT05SWGU?oc=5",
       "title": "Fierce storm lashes southern California after record rain in San Francisco - AOL.co.uk",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1BQeTRfUlk3dUFxS1FCUVlHYlBDX1huSkRodzVFS0lMckx2elAweGg1anFWdHZ2NDhoTXliRW90T0F3elI0WnczMUJlNks3ZGxNOGluUUNmOHJEb29jRW5Ib3p2NzU0cmpNZkVWQTNsb3QxakhTZUVkVkxRSHNBT05SWGU?oc=5",
@@ -1667,6 +1823,18 @@
       "publishedAt": "2026-11-19T19:08:35.000Z",
       "recordedAt": null,
       "topic": "UK flooding storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ3l1d1BGV1lDR0JjWDdWMkwwUGNZbnlJTHhvazNtNGdlajRjVFNBNWtmeFZoaEtIQ21uV0I5aEcyVEdncVE0SjljYkg5cWVlVDVBRlJfRnd6Um1OV2RtRHBvYUtobzQtR1NRTGw0allpTFBvVUQyMDRsYld1dHlMdzd1QWxkQ3hTdG90ZFIyTS11UjZIX1preEE3ZzhOOTdBdHhHR05zc1RXTWtFS3R2TThBWjFWcnExYXhsR3pjVjJaY19wVEtZQ3hFQ2xCb05qZWpIdkVB?oc=5",
+      "title": "Dangerous Avalanche Warning Issued in California as Snowstorm and Wind Create Very Dangerous Conditions - Traveling Lifestyle",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ3l1d1BGV1lDR0JjWDdWMkwwUGNZbnlJTHhvazNtNGdlajRjVFNBNWtmeFZoaEtIQ21uV0I5aEcyVEdncVE0SjljYkg5cWVlVDVBRlJfRnd6Um1OV2RtRHBvYUtobzQtR1NRTGw0allpTFBvVUQyMDRsYld1dHlMdzd1QWxkQ3hTdG90ZFIyTS11UjZIX1preEE3ZzhOOTdBdHhHR05zc1RXTWtFS3R2TThBWjFWcnExYXhsR3pjVjJaY19wVEtZQ3hFQ2xCb05qZWpIdkVB?oc=5",
+      "provider": "Traveling Lifestyle",
+      "publishedAt": "2026-11-19T19:02:03.000Z",
+      "recordedAt": null,
+      "topic": "California snowstorm Sierra Nevada",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -1708,30 +1876,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDdDUVBscW52ZFRhSV9BOVVkNjVXVjJQMHk5ZWZ1WkpnaHhEdjg2TmsyRzdya3lZWnM1NnlXUGVRNlpFM2xPZjFEak9rRUpiS3llMVZqTXdfR0FNd1dENWVqaHBwN2lKb1dUZ25xOTNXUXZ5VzFOWHJNbkdKNkJIWnNISHR6QlpiNUdaNDZncnlpWmZQODlfNGNNWUpwVWRK?oc=5",
-      "title": "NOAA releases 2026–2027 winter outlook: What to expect in Middle Tennessee - WSMV",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDdDUVBscW52ZFRhSV9BOVVkNjVXVjJQMHk5ZWZ1WkpnaHhEdjg2TmsyRzdya3lZWnM1NnlXUGVRNlpFM2xPZjFEak9rRUpiS3llMVZqTXdfR0FNd1dENWVqaHBwN2lKb1dUZ25xOTNXUXZ5VzFOWHJNbkdKNkJIWnNISHR6QlpiNUdaNDZncnlpWmZQODlfNGNNWUpwVWRK?oc=5",
-      "provider": "WSMV",
-      "publishedAt": "2026-11-19T17:44:00.000Z",
-      "recordedAt": null,
-      "topic": "US weather storm forecast",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2p0bmNteHhHWE5WNlZ5clIwQndxZUg1cHgyNTdQUHFGMUdHTkozQnIyaHBFeVR1czJDbnl2VGd4d1FfNFVXSmc4SzFFcldrcFpSRGNKcG9idjZPUE5fQkJCZ2FEUlQ3c2g1QzZ3NWJaTVlLcWVmWF9XbHQ2LUo5TkRsSHBFRlk?oc=5",
-      "title": "Florida Atlantic Coast faces Level 4 out of 4 flash flood risk as intense rain prompts emergency declarations - AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2p0bmNteHhHWE5WNlZ5clIwQndxZUg1cHgyNTdQUHFGMUdHTkozQnIyaHBFeVR1czJDbnl2VGd4d1FfNFVXSmc4SzFFcldrcFpSRGNKcG9idjZPUE5fQkJCZ2FEUlQ3c2g1QzZ3NWJaTVlLcWVmWF9XbHQ2LUo5TkRsSHBFRlk?oc=5",
-      "provider": "AOL.co.uk",
-      "publishedAt": "2026-11-19T17:31:40.000Z",
-      "recordedAt": null,
-      "topic": "UK flooding storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT25EVVpnTmlJT1VRS0R6Qm5yS0QzU0dkbUxXZk9MZlNPUHdqRU5JaDE5SnNnM0JCQlV6X1RPU2s2RjFnRG9aaE9qY25nQzNTQ3dSQWt5S0E3ZHRXdUx0RUJmTEs1WUY5MzVqbFNwVGNaeHhEY2tiWDF0TFJtSlhQNg?oc=5",
       "title": "Storm brings heavy rain, flood threat to Southern California - AOL.co.uk",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT25EVVpnTmlJT1VRS0R6Qm5yS0QzU0dkbUxXZk9MZlNPUHdqRU5JaDE5SnNnM0JCQlV6X1RPU2s2RjFnRG9aaE9qY25nQzNTQ3dSQWt5S0E3ZHRXdUx0RUJmTEs1WUY5MzVqbFNwVGNaeHhEY2tiWDF0TFJtSlhQNg?oc=5",
@@ -1756,18 +1900,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3JtNjM5UFdWVXEtMkw5WUJLRDE4UE5PcTdRb1ZhLTk5UHkyeFlpYlJYRjlnU1dUbjZwUUhyNlNJNUN6Mmlaa1JhRHFMSlQyT040UzJOdFN6b3RzV0hxdm1fT3c2SFJOSUxoRW50cUMwSVo3LUdKNS0tNUtXTTdERTk2QnZLT20yel84MmdBZXdYQjNFREt5TEVOa1hWcm5TZ3R4dTVUeGZ1ZW94UHphYVJGSjQ?oc=5",
-      "title": "The difference between a subtropical and tropical storm - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3JtNjM5UFdWVXEtMkw5WUJLRDE4UE5PcTdRb1ZhLTk5UHkyeFlpYlJYRjlnU1dUbjZwUUhyNlNJNUN6Mmlaa1JhRHFMSlQyT040UzJOdFN6b3RzV0hxdm1fT3c2SFJOSUxoRW50cUMwSVo3LUdKNS0tNUtXTTdERTk2QnZLT20yel84MmdBZXdYQjNFREt5TEVOa1hWcm5TZ3R4dTVUeGZ1ZW94UHphYVJGSjQ?oc=5",
-      "provider": "Spectrum News",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "recordedAt": null,
-      "topic": "NOAA hurricane storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN21CQmV2ZXoyUFktbm84ZE5oLW55dTA4SzNHWHpoZDNmQzA4endWdEM5YThrOU1oZ1Z1QkgyR0JRZDd3S3RnbmdvNkZHOVhKallXUzJSMENpWS1BVEdjMmRRZU9iWHE0YVgzM3ZiUGFFRlRMZHNJTDV3R2dQeFU5bnM3NVQ5Y3pNVHRNcnBWTUN0OUdqR1g2WXd3d1pZQQ?oc=5",
       "title": "Satellites Reveal the Thirst of Fields and Forests - NASA Science (.gov)",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN21CQmV2ZXoyUFktbm84ZE5oLW55dTA4SzNHWHpoZDNmQzA4endWdEM5YThrOU1oZ1Z1QkgyR0JRZDd3S3RnbmdvNkZHOVhKallXUzJSMENpWS1BVEdjMmRRZU9iWHE0YVgzM3ZiUGFFRlRMZHNJTDV3R2dQeFU5bnM3NVQ5Y3pNVHRNcnBWTUN0OUdqR1g2WXd3d1pZQQ?oc=5",
@@ -1785,6 +1917,18 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVdaWXhhZERSQzY0dktobzFLaWFfbG9oazlxM2g3NzJXZmxaRl8wVXBLVUhmVDdVMEhMeElzZFViZk00a21nVkxneV9HeXhWOG9ZTmdGVG5sa3h3LXVfWVpBaGttb3lDRmxJRTJPTlJRbFNvTVI3Q1hyUFRUTVp6WWNBNXBpd2wzYUxoWmRXR3pSeXV5U0wzZWlLVnFhTDBMYkE?oc=5",
       "provider": "National Environmental Satellite, Data, and Information Service (.gov)",
       "publishedAt": "2026-11-19T16:06:21.000Z",
+      "recordedAt": null,
+      "topic": "NOAA hurricane storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGkyaW9xRjBVRk9RM0R3dmtEdHdjeV9OdFljcTZIMU1XT1lRNEoyZ2lvSk1ZaU9oVVM2UHJvQTBPWEpFNk9hdzBMLTk3eEVYNE9iS0R2RklKTE9GLXFDVURIQWFtWEx6T0UxMFpISWUzdld4UnExNGJmWlk2OGtZdUh1ZEJhR3Bhcno5X1NkNk5YblRKMHdxeFVpQ0Nwd9IBuAFBVV95cUxOWWJmUUw2c1dGSm9yaDFSeXZPc3lxUEdMTS05cVVBTk1wTFl1aGF6Zlc3bS1OYjZ0VEpQQml0enBlZTVKU1EwWGxSeGpMVTROeFlEaGRCMEhYZVBVaEFqQUw2b3R6X1FWaTJBdXY1Y1RJcml4dVdvSFZKSngzZ0J2cGQwSlJ5dzZJUHFiV09ValpxZzVPbEg3cnpiTGVwTE1wNW5SVF9ldGFXUHpfQ3pGSXQ2LUNTVlZ6?oc=5",
+      "title": "Potential Tropical System Watched Off FL Coast As State Battles Flooding - Patch",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGkyaW9xRjBVRk9RM0R3dmtEdHdjeV9OdFljcTZIMU1XT1lRNEoyZ2lvSk1ZaU9oVVM2UHJvQTBPWEpFNk9hdzBMLTk3eEVYNE9iS0R2RklKTE9GLXFDVURIQWFtWEx6T0UxMFpISWUzdld4UnExNGJmWlk2OGtZdUh1ZEJhR3Bhcno5X1NkNk5YblRKMHdxeFVpQ0Nwd9IBuAFBVV95cUxOWWJmUUw2c1dGSm9yaDFSeXZPc3lxUEdMTS05cVVBTk1wTFl1aGF6Zlc3bS1OYjZ0VEpQQml0enBlZTVKU1EwWGxSeGpMVTROeFlEaGRCMEhYZVBVaEFqQUw2b3R6X1FWaTJBdXY1Y1RJcml4dVdvSFZKSngzZ0J2cGQwSlJ5dzZJUHFiV09ValpxZzVPbEg3cnpiTGVwTE1wNW5SVF9ldGFXUHpfQ3pGSXQ2LUNTVlZ6?oc=5",
+      "provider": "Patch",
+      "publishedAt": "2026-11-19T15:49:21.000Z",
       "recordedAt": null,
       "topic": "NOAA hurricane storm",
       "image": null,
@@ -1823,6 +1967,18 @@
       "publishedAt": "2026-11-19T15:26:29.000Z",
       "recordedAt": null,
       "topic": "NASA earth science weather",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjRkWnE1ZlphVGp2Q3FxT0cyMUhvcklRbFpQd0diR3gxdlZselRzLVZjNmg3ZHJTQzVWZkNhalJ6SXptNWkxVWZMX3l6WEZlYmE1a1JKUUVtODBJa19ZRnVTV2g0M3dSd2tNX2NKT1lreHZFNnJDUkhncnZoX1BhODNfMTF5LXgzeHBuSVZGZkx5cFlpemhRZ252eG5wSkk?oc=5",
+      "title": "Fierce storm lashes southern California after record rain in San Francisco - inkl",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjRkWnE1ZlphVGp2Q3FxT0cyMUhvcklRbFpQd0diR3gxdlZselRzLVZjNmg3ZHJTQzVWZkNhalJ6SXptNWkxVWZMX3l6WEZlYmE1a1JKUUVtODBJa19ZRnVTV2g0M3dSd2tNX2NKT1lreHZFNnJDUkhncnZoX1BhODNfMTF5LXgzeHBuSVZGZkx5cFlpemhRZ252eG5wSkk?oc=5",
+      "provider": "inkl",
+      "publishedAt": "2026-11-19T15:21:54.000Z",
+      "recordedAt": null,
+      "topic": "UK flooding storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -1960,30 +2116,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1JjTzZXbWxHODdNZWRzQU1xUW9kQ3ZOUzhEM1VUQzJJdzRlMS1saHJPbGtoWnFXMk85WFh6NlBRemVua01lSTNaVzI1TVc2bHNKcml6N1QzemszRHQ0RldYSFpEblUwaDkwU3ViRjMyeVEyNFB5eWVjRVVfS1k4Vw?oc=5",
-      "title": "Wet weather, flooding likely to end the week on Florida's East Coast - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1JjTzZXbWxHODdNZWRzQU1xUW9kQ3ZOUzhEM1VUQzJJdzRlMS1saHJPbGtoWnFXMk85WFh6NlBRemVua01lSTNaVzI1TVc2bHNKcml6N1QzemszRHQ0RldYSFpEblUwaDkwU3ViRjMyeVEyNFB5eWVjRVVfS1k4Vw?oc=5",
-      "provider": "AOL.com",
-      "publishedAt": "2026-11-19T10:36:39.000Z",
-      "recordedAt": null,
-      "topic": "UK flooding storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVdYRDl1MmxPRldTVUFfeTdxYzRvNksxTnFBX1R3U1ZJbTRJTDUzU3dSZGhfdkg1UTNqNTMtYVhqM1RQdXFYdEpMeEVZVFVJb1c5amphLVBCUDNEeGFlNHlVZ1A1LXdSdm1kS0IwTXROaDFscDBrWUpmLTdYLV9mbW0wRTlKZUpiZ2J1STZWM2NnN2pYMENTTWZLVzZ6SUtGRHhuOWxiTmxnSnhGV0VnaTRIbWhkc010Mk5ic2dB0gHDAUFVX3lxTE5meDdDZ2w1YnNoMnFHODJzbTNEZjFhMnhSNWdUTUJlY2Q0amN6THc0QzlXT0dCVkZ2dk9Zek1jcjA3Sl91TVdoRlBVWWtlSjJEdVVhemtITW9LMThRZXVreHlmQXNMdDlnRThqR29SeGVHSmpzTnowbk5EN3FBNkFISlZ3TTFpR2lQMzQxUWNGU3NnQVIyWEVoT1dHdlBWYlVwTGJ2Q1dFdWpVR0xuMGd5VzhPZW1uNUg4SGlodEhaM28zNA?oc=5",
-      "title": "El Nino-powered giant ocean waves batter California, trigger coastal flooding - India Today",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVdYRDl1MmxPRldTVUFfeTdxYzRvNksxTnFBX1R3U1ZJbTRJTDUzU3dSZGhfdkg1UTNqNTMtYVhqM1RQdXFYdEpMeEVZVFVJb1c5amphLVBCUDNEeGFlNHlVZ1A1LXdSdm1kS0IwTXROaDFscDBrWUpmLTdYLV9mbW0wRTlKZUpiZ2J1STZWM2NnN2pYMENTTWZLVzZ6SUtGRHhuOWxiTmxnSnhGV0VnaTRIbWhkc010Mk5ic2dB0gHDAUFVX3lxTE5meDdDZ2w1YnNoMnFHODJzbTNEZjFhMnhSNWdUTUJlY2Q0amN6THc0QzlXT0dCVkZ2dk9Zek1jcjA3Sl91TVdoRlBVWWtlSjJEdVVhemtITW9LMThRZXVreHlmQXNMdDlnRThqR29SeGVHSmpzTnowbk5EN3FBNkFISlZ3TTFpR2lQMzQxUWNGU3NnQVIyWEVoT1dHdlBWYlVwTGJ2Q1dFdWpVR0xuMGd5VzhPZW1uNUg4SGlodEhaM28zNA?oc=5",
-      "provider": "India Today",
-      "publishedAt": "2026-11-19T10:04:13.000Z",
-      "recordedAt": null,
-      "topic": "California coastal waves storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGZEYzJpY2JueEI5bjZNQUxjekdwVm5QSDZGbEE4YXBfamVwaVE1SUhYenA0dmhTWmFRVGhWTWYtRlBBRE1RalA4cFdzSmxjRFZYenRoeUk5N21RYkx1UzRsWFBwVFRUcktycWtoSU9uVHR4UnBfaE1nWTNhak5BT25KZW9kVzd0cWhUNlAyMW40NTZEUUtpSnp4VmhxQQ?oc=5",
       "title": "Could the 'Beast From the East' Return? Polar Vortex Reversal Raises Snowstorm Fears - International Business Times, Singapore Edition",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGZEYzJpY2JueEI5bjZNQUxjekdwVm5QSDZGbEE4YXBfamVwaVE1SUhYenA0dmhTWmFRVGhWTWYtRlBBRE1RalA4cFdzSmxjRFZYenRoeUk5N21RYkx1UzRsWFBwVFRUcktycWtoSU9uVHR4UnBfaE1nWTNhak5BT25KZW9kVzd0cWhUNlAyMW40NTZEUUtpSnp4VmhxQQ?oc=5",
@@ -2003,18 +2135,6 @@
       "publishedAt": "2026-11-19T09:03:34.000Z",
       "recordedAt": null,
       "topic": "Australia severe weather",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHR1elVPbGR0czgxRThVQzdVdGFqdkw1dmZ1VHVOM3BxVXJCR1R3aWdORkNJOXgxUEFWQV9WbkVFQ25iQ3VBcHRGWHIwMzAtRlV2WDFpbWUyTGdXQThtV3JqMmFxb3JvcHdaZzBPTVREVjcxaGRmR1dkVDY4VzJ6eVNyOUhiZ3VycF91Si1CU3rSAZYBQVVfeXFMTk9WaElma2tCUmZJVkpRYUFZSFV3Q1lsNTJGRlBCaklzYnRWX2ctOW1UeTNvWlhyZG0zaHdWS0hINXRkeWZiUUVUS21CejRHbFB3T1ZhVVBQOGY4YVhwOWxTWTFUdG5DeldDOVhWYUxYcXJIOHBCcVU5cmRtYmY1SFBoME1fZExmRjFjeDlRZmQ2OXJBM1N3?oc=5",
-      "title": "NOAA forecasts a wet south and warmer north as El Nino impacts winter weather in the US - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHR1elVPbGR0czgxRThVQzdVdGFqdkw1dmZ1VHVOM3BxVXJCR1R3aWdORkNJOXgxUEFWQV9WbkVFQ25iQ3VBcHRGWHIwMzAtRlV2WDFpbWUyTGdXQThtV3JqMmFxb3JvcHdaZzBPTVREVjcxaGRmR1dkVDY4VzJ6eVNyOUhiZ3VycF91Si1CU3rSAZYBQVVfeXFMTk9WaElma2tCUmZJVkpRYUFZSFV3Q1lsNTJGRlBCaklzYnRWX2ctOW1UeTNvWlhyZG0zaHdWS0hINXRkeWZiUUVUS21CejRHbFB3T1ZhVVBQOGY4YVhwOWxTWTFUdG5DeldDOVhWYUxYcXJIOHBCcVU5cmRtYmY1SFBoME1fZExmRjFjeDlRZmQ2OXJBM1N3?oc=5",
-      "provider": "ABC News - Breaking News, Latest News and Videos",
-      "publishedAt": "2026-11-19T08:35:26.000Z",
-      "recordedAt": null,
-      "topic": "NOAA hurricane storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -2068,18 +2188,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwbkw2Qm1NMEUwdWNnZVRJNDh3QXlxQUI3dFpnWHpRcWJsUlRYeGpVT0cxcGljNFdvUFhnMl94Z1NMWjY2d1B0cVd6XzZRNTNpZjN1NEo1WmtBbG5lLVVj?oc=5",
-      "title": "Hurricane Katrina | Deaths, Damage, & Facts - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwbkw2Qm1NMEUwdWNnZVRJNDh3QXlxQUI3dFpnWHpRcWJsUlRYeGpVT0cxcGljNFdvUFhnMl94Z1NMWjY2d1B0cVd6XzZRNTNpZjN1NEo1WmtBbG5lLVVj?oc=5",
-      "provider": "Britannica",
-      "publishedAt": "2026-11-19T08:00:00.000Z",
-      "recordedAt": null,
-      "topic": "NOAA hurricane storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUFyYmhmQ2tTN2kwMEVzaFAxOEJWdG52emlnU2dBSnNVSUFQVzJzZE4zdDl5cjA1SGJJenpCOWVQb29mYXdCV0U4UUt5MGppTkNncVdmTFIyU2VOWUstY2VXbTNqYXFFakdqcXhmVGNBWlpPcXN2M1lDRHJwTkw3ZlhXQVJ5d1A0eUZ3dElTRU9ZbjNNNE01MmlyYzlGamc3LS1iODlVRXppeTB0STlVTUx1VHFrVkpv?oc=5",
       "title": "Atmospheric River Breaks 76-Year Rain Record in San Francisco, Floods Bay Area - Around Prague",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUFyYmhmQ2tTN2kwMEVzaFAxOEJWdG52emlnU2dBSnNVSUFQVzJzZE4zdDl5cjA1SGJJenpCOWVQb29mYXdCV0U4UUt5MGppTkNncVdmTFIyU2VOWUstY2VXbTNqYXFFakdqcXhmVGNBWlpPcXN2M1lDRHJwTkw3ZlhXQVJ5d1A0eUZ3dElTRU9ZbjNNNE01MmlyYzlGamc3LS1iODlVRXppeTB0STlVTUx1VHFrVkpv?oc=5",
@@ -2092,6 +2200,18 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YVlV6VWZoZmtJMG1xaG1MSlVoajZOZmJ2c2JxSTkxYXJVaEdpNXpGaW5ieHdnN0JBS0JLTmJWck9ZVklFaUgwTm1QX0xISC1Sa21MdmxPOWNSX2VqLVE?oc=5",
+      "title": "Three Somerset villages get share of £50m flooding defence fund - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YVlV6VWZoZmtJMG1xaG1MSlVoajZOZmJ2c2JxSTkxYXJVaEdpNXpGaW5ieHdnN0JBS0JLTmJWck9ZVklFaUgwTm1QX0xISC1Sa21MdmxPOWNSX2VqLVE?oc=5",
+      "provider": "BBC",
+      "publishedAt": "2026-11-19T06:25:40.000Z",
+      "recordedAt": null,
+      "topic": "UK flooding storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNnVEaGtxdl83SmRKRmZsa3FuRDgtemVraXJKUTFScjFuN1ZMSFdRenVxSWxVa1NaYm54MlBxQVJ3N2pZUjc0aU5pTTBOaVIzYVlyLUs2eFgwbGxKV3BQd3ljYlpHZkZDeU4zM1RqbnlhUEhJR3JnRUlDRnlWLWZzelY5UmYtUXR0RkFkT2kyblM5OVVfWm1mWUJEYmtWZU0w?oc=5",
       "title": "Severe weather update: Severe storms return to eastern Australia - The National Tribune",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNnVEaGtxdl83SmRKRmZsa3FuRDgtemVraXJKUTFScjFuN1ZMSFdRenVxSWxVa1NaYm54MlBxQVJ3N2pZUjc0aU5pTTBOaVIzYVlyLUs2eFgwbGxKV3BQd3ljYlpHZkZDeU4zM1RqbnlhUEhJR3JnRUlDRnlWLWZzelY5UmYtUXR0RkFkT2kyblM5OVVfWm1mWUJEYmtWZU0w?oc=5",
@@ -2099,18 +2219,6 @@
       "publishedAt": "2026-11-19T06:16:43.000Z",
       "recordedAt": null,
       "topic": "Australia severe weather",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OQ1E5U3l5UTJqeFdRcHVkNzd5ZzN1V3g1NjBPRG10RUw3YmNoSFlxY0lleHNFUTliUm80X183QjRBaUt1eVhwOEhpWm1Hb0E1VUJSeThHVTdURkZrZDF2Y2YyOUJCZUJzSm1uWQ?oc=5",
-      "title": "Earthquake Statistics: the World - Detailed Charts and Tables, Current and Past Seismic Activity - Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OQ1E5U3l5UTJqeFdRcHVkNzd5ZzN1V3g1NjBPRG10RUw3YmNoSFlxY0lleHNFUTliUm80X183QjRBaUt1eVhwOEhpWm1Hb0E1VUJSeThHVTdURkZrZDF2Y2YyOUJCZUJzSm1uWQ?oc=5",
-      "provider": "Volcano Discovery",
-      "publishedAt": "2026-11-19T05:48:58.000Z",
-      "recordedAt": null,
-      "topic": "volcano eruption USGS",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -2224,18 +2332,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83SzFUdHE5OEZGQVhGWThNT3ZvLWJldXlkbkhvbDZrS2gyVVFnNG5JQUxPamVVZThFVnBONW9tTUlNZFd0WlVEUWxkVTIxd3NOQWtMZnRwZVhmOWw0ZTBRbUUzMDJHYi1DVVpUenhYT3V4eWI4R2htS0Vycw?oc=5",
-      "title": "Winter Storm Warning as 5 Feet of Snow, 100 MPH Winds Hit Western US - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83SzFUdHE5OEZGQVhGWThNT3ZvLWJldXlkbkhvbDZrS2gyVVFnNG5JQUxPamVVZThFVnBONW9tTUlNZFd0WlVEUWxkVTIxd3NOQWtMZnRwZVhmOWw0ZTBRbUUzMDJHYi1DVVpUenhYT3V4eWI4R2htS0Vycw?oc=5",
-      "provider": "AOL.com",
-      "publishedAt": "2026-11-19T00:18:00.000Z",
-      "recordedAt": null,
-      "topic": "California snowstorm Sierra Nevada",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0JXMHlhQ2lEZFVFd1hjZFA5djJsRVZRbWwtVTA5cmR3Q3pwbElDdnN3enhRUVY5V21ybFJhdnQ4YlVnZVJseWtyR1EwV0dqWkZobDVrOERaN2Rwb3IyYWVuM2NUWC0xdGRNM1pfVXZBQzlyQzBIU0tvYVRqSHdKNl9RbWNKV0czZW5yeHhR?oc=5",
       "title": "How much snow is in the winter forecast for Boston? El Niño, polar vortex could play key role. - CBS News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0JXMHlhQ2lEZFVFd1hjZFA5djJsRVZRbWwtVTA5cmR3Q3pwbElDdnN3enhRUVY5V21ybFJhdnQ4YlVnZVJseWtyR1EwV0dqWkZobDVrOERaN2Rwb3IyYWVuM2NUWC0xdGRNM1pfVXZBQzlyQzBIU0tvYVRqSHdKNl9RbWNKV0czZW5yeHhR?oc=5",
@@ -2265,18 +2361,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWV9xQ3Fta3ZHbHdTejdEeGhrVnNKbzM2d0FnaDg5b20wRkJKanAxLUNySnQ5WDhPSmJybzNYT2EwTlFxUHpMa0hNSkl0cUFSTk96MGVkX1J4MWE2VkdOZzZJUEc4ck1vcnQzMUYtSW1VSnAwVmJ1ZEc3MEFnRjV1bEdpTQ?oc=5",
       "provider": "AOL.co.uk",
       "publishedAt": "2026-11-18T22:15:00.000Z",
-      "recordedAt": null,
-      "topic": "UK flooding storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0thbnlXRUtkYXlpNmt4cHIzRmFlYXJwNXhvZDFSNmhhWkRyWUZuSzZoYWdkNWFMbWM0b2ZPYXhUSmx6aWJoZFBJV3V6WXVyZk1xTTJLS3hWdVluZnhyRmYtZDF5Z251c0dfYU0tNWxiUEZPSF9pSTY3OXhjS1RqbmRtZDFBU25JNmM2WHA3WWFVZklIcjlmM19wMmpTZ29Q?oc=5",
-      "title": "San Francisco flooding submerges streets, strands cars - The Weather Channel",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0thbnlXRUtkYXlpNmt4cHIzRmFlYXJwNXhvZDFSNmhhWkRyWUZuSzZoYWdkNWFMbWM0b2ZPYXhUSmx6aWJoZFBJV3V6WXVyZk1xTTJLS3hWdVluZnhyRmYtZDF5Z251c0dfYU0tNWxiUEZPSF9pSTY3OXhjS1RqbmRtZDFBU25JNmM2WHA3WWFVZklIcjlmM19wMmpTZ29Q?oc=5",
-      "provider": "The Weather Channel",
-      "publishedAt": "2026-11-18T22:07:20.000Z",
       "recordedAt": null,
       "topic": "UK flooding storm",
       "image": null,
@@ -2344,18 +2428,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTNMa0pjRmhxWms2MU9PNU54cUg0N2hvZkxUUy1LR1lleHVSYTdmS3pPM1JBU0RPS1JFazk0VmMwXzdQUnRtblNMbWtLR3l1QUp4ZW5zWjgyOEJSRGhCNEI5UjFoaUp3S01ubTYxenFpQ3lhNmtQT2p1OXR1T2FORzlwN2NWVnQ4TkNlYTFVVDRPbkN5ODBkU2JR?oc=5",
-      "title": "Super El Niño could bring 20% more snow to East Tennessee, forecast says - Knoxville News Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTNMa0pjRmhxWms2MU9PNU54cUg0N2hvZkxUUy1LR1lleHVSYTdmS3pPM1JBU0RPS1JFazk0VmMwXzdQUnRtblNMbWtLR3l1QUp4ZW5zWjgyOEJSRGhCNEI5UjFoaUp3S01ubTYxenFpQ3lhNmtQT2p1OXR1T2FORzlwN2NWVnQ4TkNlYTFVVDRPbkN5ODBkU2JR?oc=5",
-      "provider": "Knoxville News Sentinel",
-      "publishedAt": "2026-11-18T20:24:00.000Z",
-      "recordedAt": null,
-      "topic": "polar vortex winter North America",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcDhPdjhRT3hFTUlnV29oZk9pQ3JtMURxOFN0b0liMmhHYWc2elpUanJJUkk2NzB2WjVxaV8wYXhuMHc5S3hUX1I4WnFkZ1VCamVZRDhqYWY2ZUIyQ015cTlMNnAzd1FMYVdqaWVYcVNXdFZxOG13dzVyRWFZS3Q4NFJnTW9uQkdnNlNhM1pCWGtZSl9IcmlUbUEwUUdGZlVkUG1xU3JJc3F0R3VHOVlJUGtKZ0JFN1NVbG1XTkdmN0RkWGROR19vME01dElLeUYxMlpJbjNnc2E?oc=5",
       "title": "Hurricane center watching system off southeast coast, could impact Florida - Naples Daily News",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcDhPdjhRT3hFTUlnV29oZk9pQ3JtMURxOFN0b0liMmhHYWc2elpUanJJUkk2NzB2WjVxaV8wYXhuMHc5S3hUX1I4WnFkZ1VCamVZRDhqYWY2ZUIyQ015cTlMNnAzd1FMYVdqaWVYcVNXdFZxOG13dzVyRWFZS3Q4NFJnTW9uQkdnNlNhM1pCWGtZSl9IcmlUbUEwUUdGZlVkUG1xU3JJc3F0R3VHOVlJUGtKZ0JFN1NVbG1XTkdmN0RkWGROR19vME01dElLeUYxMlpJbjNnc2E?oc=5",
@@ -2399,18 +2471,6 @@
       "publishedAt": "2026-11-18T18:54:33.000Z",
       "recordedAt": null,
       "topic": "California snowstorm Sierra Nevada",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByWmFIaURrNkdwYlV0QmtoZzdhakhPVmZpWG5nbk9IM08wRmhfV2h4ZUNFSlZyM1FEODFweDlwT0ZvN0w5WUpMaUNaazdnZzl4WkROUGpCcmpUUGxpTHlrR2p4S21Qa3ZIcERxYlgwM05wZ0J1czkzZ1hpWVo?oc=5",
-      "title": "Possible Subtropical Developent off Southeast US Coast? - Substack",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByWmFIaURrNkdwYlV0QmtoZzdhakhPVmZpWG5nbk9IM08wRmhfV2h4ZUNFSlZyM1FEODFweDlwT0ZvN0w5WUpMaUNaazdnZzl4WkROUGpCcmpUUGxpTHlrR2p4S21Qa3ZIcERxYlgwM05wZ0J1czkzZ1hpWVo?oc=5",
-      "provider": "Substack",
-      "publishedAt": "2026-11-18T18:23:46.000Z",
-      "recordedAt": null,
-      "topic": "NOAA hurricane storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -2488,18 +2548,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2ZFJQc0MyNXl1Rno4MHRNaEtrYXJpM3ZmVkpfbnZ0S09fQXBfU1ZmeXRGU0FHWENyT1JlQzNFeWF3LXdxWnRNR05hcmtxVV9mQ2tWaklJZVE5Z0NiLWxLMGJiQkhQRjFKQnZIOU1sN2hULUIzcFdLN0pB?oc=5",
-      "title": "Hurricane Intensity Forecasts Lag Behind Tracking Gains - Legis1",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2ZFJQc0MyNXl1Rno4MHRNaEtrYXJpM3ZmVkpfbnZ0S09fQXBfU1ZmeXRGU0FHWENyT1JlQzNFeWF3LXdxWnRNR05hcmtxVV9mQ2tWaklJZVE5Z0NiLWxLMGJiQkhQRjFKQnZIOU1sN2hULUIzcFdLN0pB?oc=5",
-      "provider": "Legis1",
-      "publishedAt": "2026-11-18T16:54:38.000Z",
-      "recordedAt": null,
-      "topic": "NOAA hurricane storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTkU2SFh3blYwdGdtWHJxRmJ0cGE3c0lOd3l4VEhpaVR1SXpCM1QyZ2hnV0RtaGpJTVBFcl9sR2VxbGV4aTYxOGlrSmZwM3FQbk1ObWhhN1dYRExqOTcyTFMtSWpudzBaSHNseUFybTZRZ2lRMTR5SnBqazFhc2ZWMzZtVzBTTE9rTHNfMGU0N3p3dzhvcy1zbzRMY09kZV9NUzRYbWpsUFhHZFJSblg5dW13NGNUc1lMSUtYS1gydUstR2k0Yl9kSmNRbU0?oc=5",
       "title": "Flood threat to Florida could roll up the East Coast this weekend - Houston Chronicle",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTkU2SFh3blYwdGdtWHJxRmJ0cGE3c0lOd3l4VEhpaVR1SXpCM1QyZ2hnV0RtaGpJTVBFcl9sR2VxbGV4aTYxOGlrSmZwM3FQbk1ObWhhN1dYRExqOTcyTFMtSWpudzBaSHNseUFybTZRZ2lRMTR5SnBqazFhc2ZWMzZtVzBTTE9rTHNfMGU0N3p3dzhvcy1zbzRMY09kZV9NUzRYbWpsUFhHZFJSblg5dW13NGNUc1lMSUtYS1gydUstR2k0Yl9kSmNRbU0?oc=5",
@@ -2524,6 +2572,18 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LbWt1RzFxSW5rQ21XeW1iRjh0b1RubTJfdC1WR1c5Rnd4MUQxOWlGekNEZUI0NUlhY1ZvWWxfQXUybi1ha2hiYnpoODdLU2MxUGFYbXZmLTVWNVNJWXJTMHgtM2l6TTd0MTFkQkQ4cHA?oc=5",
+      "title": "Historic ‘super El Niño’ forecast warns 3 US regions face major winter weather shifts - Newsner",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LbWt1RzFxSW5rQ21XeW1iRjh0b1RubTJfdC1WR1c5Rnd4MUQxOWlGekNEZUI0NUlhY1ZvWWxfQXUybi1ha2hiYnpoODdLU2MxUGFYbXZmLTVWNVNJWXJTMHgtM2l6TTd0MTFkQkQ4cHA?oc=5",
+      "provider": "Newsner",
+      "publishedAt": "2026-11-18T14:45:28.000Z",
+      "recordedAt": null,
+      "topic": "NOAA hurricane storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc044N2lHUllpOWFaSDZWUTlEWWViaHFrTWYxY3ZlaWpWWEVxVThGTm9jZlRjbEwyYlBXRmpMOGVXOWo4VWQxU0hpWmdhSllSNE9XamZwQVdTR3RaY3dUNEpSVE44SXFRY21ESkM1OWR5X3VkVENmOVlEbEd3SEI1dQ?oc=5",
       "title": "Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations - NASA Earthdata (.gov)",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc044N2lHUllpOWFaSDZWUTlEWWViaHFrTWYxY3ZlaWpWWEVxVThGTm9jZlRjbEwyYlBXRmpMOGVXOWo4VWQxU0hpWmdhSllSNE9XamZwQVdTR3RaY3dUNEpSVE44SXFRY21ESkM1OWR5X3VkVENmOVlEbEd3SEI1dQ?oc=5",
@@ -2531,42 +2591,6 @@
       "publishedAt": "2026-11-18T13:35:18.000Z",
       "recordedAt": null,
       "topic": "NASA earth science weather",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUpZSWV3eS1LZlE4clRaREVlNkdTSV9xMTA5Q0h6ZTgxTEFUdURDMUFqX3F2T01oT2E4M2ZoSDBSYUtpSU1mcVhYRVdnTWlZZ3N3UExFLTBWZy1Bd1RIT2ctU2ZRWGtpb0xiVF9hOGFudlVzV1BfZ3BqMzY2Qlh1RUt0T3o?oc=5",
-      "title": "Sentinel-1 - NASA Earthdata (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUpZSWV3eS1LZlE4clRaREVlNkdTSV9xMTA5Q0h6ZTgxTEFUdURDMUFqX3F2T01oT2E4M2ZoSDBSYUtpSU1mcVhYRVdnTWlZZ3N3UExFLTBWZy1Bd1RIT2ctU2ZRWGtpb0xiVF9hOGFudlVzV1BfZ3BqMzY2Qlh1RUt0T3o?oc=5",
-      "provider": "NASA Earthdata (.gov)",
-      "publishedAt": "2026-11-18T13:35:18.000Z",
-      "recordedAt": null,
-      "topic": "NASA earth science weather",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVl96Z0k0QnlDMDIxV3RlN1owd0NfSVowOFpCVnNUcXF3bGtvb0xPT01HTVZNZkhkNE1rZFhnVGZELV9GVThSaUlScy1YNm5MS0RSWkpmdExUUGVNa3FaeGFJLW9ybHJ2Z1lBdHptbWwzN1M3UHBiT0pyU0FaZXVPRm54Zw?oc=5",
-      "title": "El Niño is coming – this £50 stormproofing hack could save you thousands - The i Paper",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVl96Z0k0QnlDMDIxV3RlN1owd0NfSVowOFpCVnNUcXF3bGtvb0xPT01HTVZNZkhkNE1rZFhnVGZELV9GVThSaUlScy1YNm5MS0RSWkpmdExUUGVNa3FaeGFJLW9ybHJ2Z1lBdHptbWwzN1M3UHBiT0pyU0FaZXVPRm54Zw?oc=5",
-      "provider": "The i Paper",
-      "publishedAt": "2026-11-18T12:00:00.000Z",
-      "recordedAt": null,
-      "topic": "UK flooding storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXBhcjZNUW42ZlZQVHg3QjVTYlMzZGs5SkdjTTgwYURTWFJlRFVmOURXTUl6Rzdxc2VaZUszTFJRX2JWRFNKSG8xSXVTU0FJQzlEUzN4UHdDWkVUZHZaZ2xtNUhRUEtycFV0ZlZNY0JoQkxVTXRLLVZnR01fOVJjTjBFeXpwOE5s?oc=5",
-      "title": "How Climate Change Is Reshaping Risk for Historic Buildings - Impakter",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXBhcjZNUW42ZlZQVHg3QjVTYlMzZGs5SkdjTTgwYURTWFJlRFVmOURXTUl6Rzdxc2VaZUszTFJRX2JWRFNKSG8xSXVTU0FJQzlEUzN4UHdDWkVUZHZaZ2xtNUhRUEtycFV0ZlZNY0JoQkxVTXRLLVZnR01fOVJjTjBFeXpwOE5s?oc=5",
-      "provider": "Impakter",
-      "publishedAt": "2026-11-18T11:48:45.000Z",
-      "recordedAt": null,
-      "topic": "UK flooding storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -2584,25 +2608,13 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNV3M3Skh0VnNVRWNwZ0VnWmJiZDZiZFgwQU9RbTZsNVMzeUhFY01uZnhhSDdJYjNqUVlIdEtwNzdQSW82Q2pMZkhnYU5nNU1OdzA2VkJDRUZaVkwzek5nQU1GdkRsQ1pHRmdSTi1TWjVudHRiNWhMcHpzVXhEaUdZSkRtWUJKQUFXbkp1Y1BRX2lQZk42bkV5OVlGcWlwcndXeklfYXN2Sy1WMGdCdGVaS1UxM2ZBMkVJUXdvV1JPZ2R1YlFfTEpDMi1MaTRnMmgzTC1jdjJwVHA2SG5sWEFla2lYUkMwZVMzQkQtaUd2WkpWVGNpUXdmdm5EMDdHUEoxZ1NTSllTbWFqbUxrVnNMc1FDX2ppVC11UDNkeUdoX2MyLXd2c0R3SmRCeTRpQjY4WDFmbTVPYlllV05fUXNCVGlYcnFFY1NydDBwMGpYeXFGZEMzeFc4dDNPVVRydVNoVGdzZENuUHNGMVFSN3Fya2pPTkI?oc=5",
-      "title": "Witnesses urge more localized space-weather forecasts and infrastructure readiness - Citizen Portal AI",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNV3M3Skh0VnNVRWNwZ0VnWmJiZDZiZFgwQU9RbTZsNVMzeUhFY01uZnhhSDdJYjNqUVlIdEtwNzdQSW82Q2pMZkhnYU5nNU1OdzA2VkJDRUZaVkwzek5nQU1GdkRsQ1pHRmdSTi1TWjVudHRiNWhMcHpzVXhEaUdZSkRtWUJKQUFXbkp1Y1BRX2lQZk42bkV5OVlGcWlwcndXeklfYXN2Sy1WMGdCdGVaS1UxM2ZBMkVJUXdvV1JPZ2R1YlFfTEpDMi1MaTRnMmgzTC1jdjJwVHA2SG5sWEFla2lYUkMwZVMzQkQtaUd2WkpWVGNpUXdmdm5EMDdHUEoxZ1NTSllTbWFqbUxrVnNMc1FDX2ppVC11UDNkeUdoX2MyLXd2c0R3SmRCeTRpQjY4WDFmbTVPYlllV05fUXNCVGlYcnFFY1NydDBwMGpYeXFGZEMzeFc4dDNPVVRydVNoVGdzZENuUHNGMVFSN3Fya2pPTkI?oc=5",
-      "provider": "Citizen Portal AI",
+      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUVrUjdCRXJlckZuYjRYRHRIRXlWb2ZjbmFXQnVXS3dUeVQxOFgxNkZhYzRDMEJPTWJjOGJKR0RTcERuMUlnSmF4ZmpQenNwV2NBazhsYlZFYWJPR3lQbEg4RlVkaTZDWjZBMVoxM1A2Y3RkM1c0SVRSM1c2NmVfMU9jN3I3SG9HVmx0bV9YemRMcnVxS2c?oc=5",
+      "title": "Severe Storms to Hit Central Australia Thursday - Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUVrUjdCRXJlckZuYjRYRHRIRXlWb2ZjbmFXQnVXS3dUeVQxOFgxNkZhYzRDMEJPTWJjOGJKR0RTcERuMUlnSmF4ZmpQenNwV2NBazhsYlZFYWJPR3lQbEg4RlVkaTZDWjZBMVoxM1A2Y3RkM1c0SVRSM1c2NmVfMU9jN3I3SG9HVmx0bV9YemRMcnVxS2c?oc=5",
+      "provider": "Wisevoter",
       "publishedAt": "2026-11-18T08:00:00.000Z",
       "recordedAt": null,
-      "topic": "NASA earth science weather",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SMWp6ZmxNR0h2MWF2WEd6MlVFWExrNVI1b3BCN2lQNTgxT0F0Q1ZkZGRFbXhGT3RyY2xLZHJrUFgyOXNPN3p4N185VnVtVG5uZktuS3F3VGM?oc=5",
-      "title": "Major Snowstorm Wednesday thru Thursday... - OpenSnow",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SMWp6ZmxNR0h2MWF2WEd6MlVFWExrNVI1b3BCN2lQNTgxT0F0Q1ZkZGRFbXhGT3RyY2xLZHJrUFgyOXNPN3p4N185VnVtVG5uZktuS3F3VGM?oc=5",
-      "provider": "OpenSnow",
-      "publishedAt": "2026-11-18T07:49:11.000Z",
-      "recordedAt": null,
-      "topic": "California snowstorm Sierra Nevada",
+      "topic": "Australia severe weather",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -2615,18 +2627,6 @@
       "publishedAt": "2026-11-18T07:41:30.000Z",
       "recordedAt": null,
       "topic": "USGS earthquake tsunami",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkdqNWNOSG1CYzJvaTBnT1diV0h2RVhKZmJKTXJCdXFscmpSbmtnN1FzRlJHcU5vLWtFV0RhcVl0WmU1VXlGc0RCZDByMWVVNHNnZS0yMWpkeFF2QktIQnQtcEY5QlFVNjhvSnJ0RGl3QVhWdnQ2dG9lVDFwYUNWeE5GeW02bzIxMDZMMmZ0aEVZVjNI?oc=5",
-      "title": "Research builds clearer picture of Queensland hail risk - Suncorp Group",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkdqNWNOSG1CYzJvaTBnT1diV0h2RVhKZmJKTXJCdXFscmpSbmtnN1FzRlJHcU5vLWtFV0RhcVl0WmU1VXlGc0RCZDByMWVVNHNnZS0yMWpkeFF2QktIQnQtcEY5QlFVNjhvSnJ0RGl3QVhWdnQ2dG9lVDFwYUNWeE5GeW02bzIxMDZMMmZ0aEVZVjNI?oc=5",
-      "provider": "Suncorp Group",
-      "publishedAt": "2026-11-18T06:27:04.000Z",
-      "recordedAt": null,
-      "topic": "Australia severe weather",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -2704,20 +2704,32 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVBOOE1ma2ZlX05oTHY3NzE0Wjl1UUZ3OGtjQkc5eDZURHRRWHNmNTN5Vm1TX3BlZ2x4c01CRVVfVmJHM2VHbGFXMjVmVXU2S3FwSFlsMFhkYnRxRVNPaThaOFd3dnZJcjNmeDZyQXlqd3FKbUR5X3RTcWFYeURFdEozTFNPWEtKOGdXYQ?oc=5",
-      "title": "Florida's soggy November continues as days of heavy rain and gusty winds raise flood threat - AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVBOOE1ma2ZlX05oTHY3NzE0Wjl1UUZ3OGtjQkc5eDZURHRRWHNmNTN5Vm1TX3BlZ2x4c01CRVVfVmJHM2VHbGFXMjVmVXU2S3FwSFlsMFhkYnRxRVNPaThaOFd3dnZJcjNmeDZyQXlqd3FKbUR5X3RTcWFYeURFdEozTFNPWEtKOGdXYQ?oc=5",
-      "provider": "AOL.co.uk",
-      "publishedAt": "2026-11-17T21:59:03.000Z",
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfTEVnYlEzVFE5ZGs3TjFYOWZxVUZrcFRHTHpFU18wZE1weUhGa2JicTlDU3M2WHlENDdGZ0pJVEJ2MW53MTBLTlRyYkgwakpBclVleGJtel9VM2E2UmtydFR1dzZDYmVTRm1EV2RvcW1wcW1KUFluY0VlazY1YlU?oc=5",
+      "title": "Days After Giant Waves Slammed California, Another Storm Is Bearing Down - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfTEVnYlEzVFE5ZGs3TjFYOWZxVUZrcFRHTHpFU18wZE1weUhGa2JicTlDU3M2WHlENDdGZ0pJVEJ2MW53MTBLTlRyYkgwakpBclVleGJtel9VM2E2UmtydFR1dzZDYmVTRm1EV2RvcW1wcW1KUFluY0VlazY1YlU?oc=5",
+      "provider": "The New York Times",
+      "publishedAt": "2026-11-17T22:28:36.000Z",
       "recordedAt": null,
-      "topic": "UK flooding storm",
+      "topic": "California coastal waves storm",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSFBMaVdTdzRwQVlKS3A1T1dSUVNPaV8xYmpjOE9YQTR1UUluUDVORHFrWmFHR3Znb09GSDR0b2NoY2xjUnc2Y3hGWGVPMHh6ckt3UGdVcHdVaXpHUFBmSEEweDhWZzhFNklKUXFyWVE3cWtuRy1vSFd2Tjh2RzdwTHhIaGZHME1qQzJUYXZ6N1hlMm9Zcy1IRXFITkFveXFId2N3aW10amtaZzFyVUttaHVySC1RMlhQU2k1dzBLYWtKc21QaFY0TlN3dDJ3dy1wSlp4V2xlOU1TaTlBTFFSaTgwRzg1SUx2UU41T3U1alpCcEpXNjdPZzhDS2pqbm1Ud1JxMm1XUXlTLXM0Y1E?oc=5",
+      "title": "Bob Hall Pier gets new NOAA water level station, and neighbors say it’s been a long time coming - KRIS 6 News Corpus Christi",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSFBMaVdTdzRwQVlKS3A1T1dSUVNPaV8xYmpjOE9YQTR1UUluUDVORHFrWmFHR3Znb09GSDR0b2NoY2xjUnc2Y3hGWGVPMHh6ckt3UGdVcHdVaXpHUFBmSEEweDhWZzhFNklKUXFyWVE3cWtuRy1vSFd2Tjh2RzdwTHhIaGZHME1qQzJUYXZ6N1hlMm9Zcy1IRXFITkFveXFId2N3aW10amtaZzFyVUttaHVySC1RMlhQU2k1dzBLYWtKc21QaFY0TlN3dDJ3dy1wSlp4V2xlOU1TaTlBTFFSaTgwRzg1SUx2UU41T3U1alpCcEpXNjdPZzhDS2pqbm1Ud1JxMm1XUXlTLXM0Y1E?oc=5",
+      "provider": "KRIS 6 News Corpus Christi",
+      "publishedAt": "2026-11-17T22:22:25.000Z",
+      "recordedAt": null,
+      "topic": "NOAA hurricane storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzc3QnJWZHUyVmdkMmxOQnBWSkszNURER2VfVmFZS1JZRzctYURmNmtsVUsxNXhvdGN1eVcwblRxZW9wRGg5eWluMkVaaW1ZWFpqOFBDakQ5OXlMNGxLd21nYzBqOXNCZ1huUlBGdGk0bkk3elhGOEVzSnpvWVRVVTM5Zw?oc=5",
-      "title": "SoCal storm timeline: First atmospheric river brings rain, flood risk - FOX 11 Los Angeles",
+      "title": "SoCal storm timeline: First atmospheric river of season brings heavy rain, flood risk - FOX 11 Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzc3QnJWZHUyVmdkMmxOQnBWSkszNURER2VfVmFZS1JZRzctYURmNmtsVUsxNXhvdGN1eVcwblRxZW9wRGg5eWluMkVaaW1ZWFpqOFBDakQ5OXlMNGxLd21nYzBqOXNCZ1huUlBGdGk0bkk3elhGOEVzSnpvWVRVVTM5Zw?oc=5",
       "provider": "FOX 11 Los Angeles",
       "publishedAt": "2026-11-17T21:00:19.000Z",
@@ -2812,6 +2824,18 @@
       "license": "Source link only; permission required for footage"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGt6VWk5Tk1udmRvU0xHVlptRUlmYVhMeDdtVWtnYVplcVJZYVVweXlvUDA4U0phQnF2NEVjQm14WHJwOVRvNFREdlZRNW5HN3luT19rSG4wQUZSOWU2dXhZdTh0R0xiTk5DaGNFZWF2alUzeDZ3MXRrV292RUpORk9JcGh0ZW5sb29fX01qMVFXZHVNb0Ixbjk1bnd3MkZjX192TtIBsgFBVV95cUxQVGtCa1NZM0U3SHBwWG9tYUFjSDZvU0NkamJzYW9jOFBwM1BramhVbXpjanctMFQzdjAzR0o2WDdmZFdKX2FobmU0UThnMl9kbjR2bmxhU0VsN2RoaDhaQ1ZfN1ozR1B3ZUlHUWZTX2JibHlPYzVucHFKdW5obzlXQ2Y1YWVvVFh0Yl9kd3llZ1RxdTNZaEwwcE51Z0NtdHZkV1ZXWHlYRURkazVpR2FMcDV3?oc=5",
+      "title": "Major Storm Could Bring Heavy Rain, Flooding To Marin County - Patch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGt6VWk5Tk1udmRvU0xHVlptRUlmYVhMeDdtVWtnYVplcVJZYVVweXlvUDA4U0phQnF2NEVjQm14WHJwOVRvNFREdlZRNW5HN3luT19rSG4wQUZSOWU2dXhZdTh0R0xiTk5DaGNFZWF2alUzeDZ3MXRrV292RUpORk9JcGh0ZW5sb29fX01qMVFXZHVNb0Ixbjk1bnd3MkZjX192TtIBsgFBVV95cUxQVGtCa1NZM0U3SHBwWG9tYUFjSDZvU0NkamJzYW9jOFBwM1BramhVbXpjanctMFQzdjAzR0o2WDdmZFdKX2FobmU0UThnMl9kbjR2bmxhU0VsN2RoaDhaQ1ZfN1ozR1B3ZUlHUWZTX2JibHlPYzVucHFKdW5obzlXQ2Y1YWVvVFh0Yl9kd3llZ1RxdTNZaEwwcE51Z0NtdHZkV1ZXWHlYRURkazVpR2FMcDV3?oc=5",
+      "provider": "Patch",
+      "publishedAt": "2026-11-17T16:01:38.000Z",
+      "recordedAt": null,
+      "topic": "California atmospheric river flooding",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbUFnRzh2WVBMS0lqVmJ3cFhsbjY2SmRQOUhyTEJZVGxZSGw3eXRqYTN5R21ITm1mVWxodXpQOXl1UGhYWWU3X0VCYW1yTWhhNWNHalZ5YTIyeDBNbXByRUtRZVU2MWlxRXZFT0NETk9OcWdnRjJKdUdLTVA5WHI1bHVBZFFlQQ?oc=5",
       "title": "Early Polar Vortex Disruption Could Influence Winter Weather in Europe and North America - SnowBrains",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbUFnRzh2WVBMS0lqVmJ3cFhsbjY2SmRQOUhyTEJZVGxZSGw3eXRqYTN5R21ITm1mVWxodXpQOXl1UGhYWWU3X0VCYW1yTWhhNWNHalZ5YTIyeDBNbXByRUtRZVU2MWlxRXZFT0NETk9OcWdnRjJKdUdLTVA5WHI1bHVBZFFlQQ?oc=5",
@@ -2831,18 +2855,6 @@
       "publishedAt": "2026-11-17T15:00:00.000Z",
       "recordedAt": null,
       "topic": "California coastal waves storm",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnhUUU1vNHJZeUdpWm9qVmNrZEZqdHk1Z2ZuZFVWUksyRGw1UDRkcEowVVpMQXBYenQ3VVo5MFU1dlBCUVVLb0NVZkZsMTBoUXhVYkxZdmdBSkJ4RjVqRXJ0U3pJbVBLQkduelV2UXhmd0hLS0R1RHRTaXhmNXZBaWdvRy1BLW1m?oc=5",
-      "title": "Lake Tahoe’s Largest Ski Resort Moves Opening Day Forward After 26 Inch Snowstorm - Unofficial Networks",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnhUUU1vNHJZeUdpWm9qVmNrZEZqdHk1Z2ZuZFVWUksyRGw1UDRkcEowVVpMQXBYenQ3VVo5MFU1dlBCUVVLb0NVZkZsMTBoUXhVYkxZdmdBSkJ4RjVqRXJ0U3pJbVBLQkduelV2UXhmd0hLS0R1RHRTaXhmNXZBaWdvRy1BLW1m?oc=5",
-      "provider": "Unofficial Networks",
-      "publishedAt": "2026-11-17T13:58:47.000Z",
-      "recordedAt": null,
-      "topic": "California snowstorm Sierra Nevada",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -2879,6 +2891,18 @@
       "publishedAt": "2026-11-17T11:30:00.000Z",
       "recordedAt": null,
       "topic": "NASA earth science weather",
+      "image": null,
+      "kind": "News reference",
+      "license": "Source link only; permission required for footage"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcDBRZHFyUWRCQXVWUkFNQ2V2WjE0ODNtNEh1RDhXblQ2WUJJUnF3dnkzOFJ3N3NGa0czR0NwejhUWkt0VHRWWkxyYXFMR1RRT3RwM0xDalZqcVI4SlRZdzFhYjMwUmduVHFocDg5dy1meldpUHlNUE1abGFONWN5MFRKa0RiNUI2VG5ISm1QbEJFdzRLOHpDSS03Y29TQUMwQ3pONlF4ajUxcDJEOE9pTkZXRFp4Rnh6M3F1ZUlObXA5bzE3dzFJ?oc=5",
+      "title": "Drastic temperature swing is coming to Houston this week. Here's what to know. - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcDBRZHFyUWRCQXVWUkFNQ2V2WjE0ODNtNEh1RDhXblQ2WUJJUnF3dnkzOFJ3N3NGa0czR0NwejhUWkt0VHRWWkxyYXFMR1RRT3RwM0xDalZqcVI4SlRZdzFhYjMwUmduVHFocDg5dy1meldpUHlNUE1abGFONWN5MFRKa0RiNUI2VG5ISm1QbEJFdzRLOHpDSS03Y29TQUMwQ3pONlF4ajUxcDJEOE9pTkZXRFp4Rnh6M3F1ZUlObXA5bzE3dzFJ?oc=5",
+      "provider": "Houston Chronicle",
+      "publishedAt": "2026-11-17T10:02:31.000Z",
+      "recordedAt": null,
+      "topic": "NOAA hurricane storm",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
@@ -2956,18 +2980,6 @@
       "license": "Source link only; permission required for footage"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVW1VWGhkTW92Ylc0ZGEwRkVISDFWVzVqYjA5R2QxbmgwdkFwNG9uazVBMkdjdHpnMUxBTkl6TEdab3FlcXFWUnZXcExFVlZ1QVc1bWtrWEdIYm9VbHM0LTVvOTBQUTM4bjFxVnFOSVl6T3hhQWpWYVduRlU1TW5VYmJ6bmpzdFBjM2c?oc=5",
-      "title": "Australia rises in global extreme weather rankings - https://aapnews.aap.com.au/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVW1VWGhkTW92Ylc0ZGEwRkVISDFWVzVqYjA5R2QxbmgwdkFwNG9uazVBMkdjdHpnMUxBTkl6TEdab3FlcXFWUnZXcExFVlZ1QVc1bWtrWEdIYm9VbHM0LTVvOTBQUTM4bjFxVnFOSVl6T3hhQWpWYVduRlU1TW5VYmJ6bmpzdFBjM2c?oc=5",
-      "provider": "https://aapnews.aap.com.au/",
-      "publishedAt": "2026-11-17T05:17:29.000Z",
-      "recordedAt": null,
-      "topic": "Australia severe weather",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTdZdFhLQ0gzSkVuQldwR3NXSmJ4VGpCNC04UDRha256SDRIYXQzR1cyWHlmSTc3bnB5RXdCZFh5XzR0UDVCZk4yTzM1ZGUxZnotbHdvd1lIZ0Z5blE3eFhuM3FSbG9jVXcxbUdBcnNCUzNkbUtqUTJNUXk1ZHp6MGd5NGV1bFB4WDh1YmVOUzZCQTJsNDZKMG9rWldtZkxCc29RTHc0UmNCWmRSNFd4b0stQ2Z4Z2xielVZZDRkejF5TUVBVlHSAcsBQVVfeXFMTVE1cFI3VFQ4cXNsWjgzTXUyUFhsYm9mTFlDUEd2WWY5dGhtSjU1OXRlU3c5N1A2b2xFRmJQLUswVHVvNFZWbVlaUVV5YkVxQ3BhYzJ0Z2dsYWZuVDh3VmdkUzRjZk0wR21DOVBPOHUybTllOGJ0UXVIRHZYdEVnQlZpZS1GZGxaYVoxZVBneExGVzBRUXFkMmI5Snd3aWx0aE1jSEpvYVJ0cC1lUEI3Y0hDZnFBSjViYUMtZUpRU21uUHhSSHc5VXQ1Nmc?oc=5",
       "title": "Atmospheric river takes aim at Southern California with heavy rain, coastal flooding and mountain snow - KTLA",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTdZdFhLQ0gzSkVuQldwR3NXSmJ4VGpCNC04UDRha256SDRIYXQzR1cyWHlmSTc3bnB5RXdCZFh5XzR0UDVCZk4yTzM1ZGUxZnotbHdvd1lIZ0Z5blE3eFhuM3FSbG9jVXcxbUdBcnNCUzNkbUtqUTJNUXk1ZHp6MGd5NGV1bFB4WDh1YmVOUzZCQTJsNDZKMG9rWldtZkxCc29RTHc0UmNCWmRSNFd4b0stQ2Z4Z2xielVZZDRkejF5TUVBVlHSAcsBQVVfeXFMTVE1cFI3VFQ4cXNsWjgzTXUyUFhsYm9mTFlDUEd2WWY5dGhtSjU1OXRlU3c5N1A2b2xFRmJQLUswVHVvNFZWbVlaUVV5YkVxQ3BhYzJ0Z2dsYWZuVDh3VmdkUzRjZk0wR21DOVBPOHUybTllOGJ0UXVIRHZYdEVnQlZpZS1GZGxaYVoxZVBneExGVzBRUXFkMmI5Snd3aWx0aE1jSEpvYVJ0cC1lUEI3Y0hDZnFBSjViYUMtZUpRU21uUHhSSHc5VXQ1Nmc?oc=5",
@@ -2987,18 +2999,6 @@
       "publishedAt": "2026-11-17T02:37:22.000Z",
       "recordedAt": null,
       "topic": "USGS earthquake tsunami",
-      "image": null,
-      "kind": "News reference",
-      "license": "Source link only; permission required for footage"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmpvc2k2OWxpTWx1NkpOSy1kYVRnZUhOV2M2Y0Zabm53dnlfQkdpWlFMWkRzOGpndkVONE5aeEVOa3ZJQmZHTVgwdXNDQzhVYzJXQ2xEXzdHRTQtbUw5VWg2NnVwRl9YZVY5MDFwZHdpQ0cwN2NPdkQwNFpHbW52b2Y2ei1DYlF6MVBsLW1GRjdobk1EREFhSEVhMEczd0VzSzZfWFNZZlpsdEhycXJnZGIyaV9kQTN4dGZ6YXl5UERtMWRjdU5wbWtDV2ZKZTE2?oc=5",
-      "title": "Bureau of Meteorology warning as 'volatile' weather set to return to battered parts of Australia - Yahoo News Australia",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmpvc2k2OWxpTWx1NkpOSy1kYVRnZUhOV2M2Y0Zabm53dnlfQkdpWlFMWkRzOGpndkVONE5aeEVOa3ZJQmZHTVgwdXNDQzhVYzJXQ2xEXzdHRTQtbUw5VWg2NnVwRl9YZVY5MDFwZHdpQ0cwN2NPdkQwNFpHbW52b2Y2ei1DYlF6MVBsLW1GRjdobk1EREFhSEVhMEczd0VzSzZfWFNZZlpsdEhycXJnZGIyaV9kQTN4dGZ6YXl5UERtMWRjdU5wbWtDV2ZKZTE2?oc=5",
-      "provider": "Yahoo News Australia",
-      "publishedAt": "2026-11-17T02:27:00.000Z",
-      "recordedAt": null,
-      "topic": "Australia severe weather",
       "image": null,
       "kind": "News reference",
       "license": "Source link only; permission required for footage"
