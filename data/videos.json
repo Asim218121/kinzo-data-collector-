@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-11-24T10:22:49.464Z",
+  "generatedAt": "2026-11-24T22:44:18.369Z",
   "source": "Wikimedia Commons + Pexels verified-source curated sample",
   "videos": [
+    {
+      "id": "commons-193976714",
+      "platform": "Wikimedia Commons",
+      "kind": "video",
+      "title": "B-52 Plane Crash Seen From Weather Satellite (CIRA 2026-06-15 - nolabels).webm",
+      "creator": "GOES imagery: CSU/CIRA &amp; NOAA",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/B-52_Plane_Crash_Seen_From_Weather_Satellite_%28CIRA_2026-06-15_-_nolabels%29.webm/960px--B-52_Plane_Crash_Seen_From_Weather_Satellite_%28CIRA_2026-06-15_-_nolabels%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "videoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/B-52_Plane_Crash_Seen_From_Weather_Satellite_%28CIRA_2026-06-15_-_nolabels%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-52_Plane_Crash_Seen_From_Weather_Satellite_(CIRA_2026-06-15_-_nolabels).webm",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "downloadEligible": true,
+      "mime": "video/webm",
+      "dateUploaded": "2026-06-15T22:59:58Z",
+      "dateRecorded": null,
+      "duration": null,
+      "sourceType": "api",
+      "relevance": 0,
+      "topics": [
+        "satellite weather"
+      ]
+    },
     {
       "id": "commons-193665002",
       "platform": "Wikimedia Commons",
@@ -389,8 +411,9 @@
     }
   ],
   "errors": [
-    "tsunami: HTTP 429",
-    "satellite weather: HTTP 429"
+    "wildfire: HTTP 429",
+    "earthquake: HTTP 429",
+    "volcano eruption: HTTP 429"
   ],
   "dateMeaning": "Upload date only when provided; original recording dates unknown"
 }
