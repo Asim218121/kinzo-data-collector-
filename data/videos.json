@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:44:18.369Z",
+  "generatedAt": "2026-11-25T09:04:46.144Z",
   "source": "Wikimedia Commons + Pexels verified-source curated sample",
   "videos": [
     {
@@ -411,9 +411,7 @@
     }
   ],
   "errors": [
-    "wildfire: HTTP 429",
-    "earthquake: HTTP 429",
-    "volcano eruption: HTTP 429"
+    "satellite weather: HTTP 429"
   ],
   "dateMeaning": "Upload date only when provided; original recording dates unknown"
 }
