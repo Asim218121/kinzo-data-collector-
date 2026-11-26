@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:57:38.846Z",
+  "generatedAt": "2026-11-26T08:51:44.633Z",
   "source": "Wikimedia Commons + Pexels verified-source curated sample",
   "videos": [
     {
@@ -410,6 +410,8 @@
       "relevance": 1
     }
   ],
-  "errors": [],
+  "errors": [
+    "satellite weather: HTTP 429"
+  ],
   "dateMeaning": "Upload date only when provided; original recording dates unknown"
 }
