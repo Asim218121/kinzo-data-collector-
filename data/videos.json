@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:37:07.344Z",
+  "generatedAt": "2026-11-28T08:23:52.894Z",
   "source": "Wikimedia Commons + Pexels verified-source curated sample",
   "videos": [
     {
@@ -132,6 +132,28 @@
       "relevance": 0,
       "topics": [
         "storm waves ocean"
+      ]
+    },
+    {
+      "id": "commons-145695913",
+      "platform": "Wikimedia Commons",
+      "kind": "video",
+      "title": "Azraq flooding May 2023.webm",
+      "creator": "Iainsimpsonstewart",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Azraq_flooding_May_2023.webm/500px-Azraq_flooding_May_2023.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "videoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Azraq_flooding_May_2023.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Azraq_flooding_May_2023.webm",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "downloadEligible": true,
+      "mime": "video/webm",
+      "dateUploaded": "2024-02-22T19:25:12Z",
+      "dateRecorded": null,
+      "duration": null,
+      "sourceType": "api",
+      "relevance": 0,
+      "topics": [
+        "flood"
       ]
     },
     {
@@ -411,8 +433,6 @@
     }
   ],
   "errors": [
-    "wildfire: HTTP 429",
-    "earthquake: HTTP 429",
     "volcano eruption: HTTP 429",
     "tsunami: HTTP 429",
     "satellite weather: HTTP 429"
